@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblparenleft" format="1">
+  <advance width="417"/>
+  <outline>
+    <contour>
+      <point x="204" y="718" type="curve"/>
+      <point x="259" y="718" type="line"/>
+      <point x="149" y="578"/>
+      <point x="93" y="427"/>
+      <point x="93" y="270" type="curve" smooth="yes"/>
+      <point x="93" y="115"/>
+      <point x="148" y="-45"/>
+      <point x="259" y="-183" type="curve"/>
+      <point x="202" y="-183" type="line"/>
+      <point x="91" y="-36"/>
+      <point x="43" y="118"/>
+      <point x="43" y="270" type="curve" smooth="yes"/>
+      <point x="43" y="424"/>
+      <point x="94" y="576"/>
+    </contour>
+    <contour>
+      <point x="351" y="718" type="curve"/>
+      <point x="406" y="718" type="line"/>
+      <point x="296" y="578"/>
+      <point x="240" y="427"/>
+      <point x="240" y="270" type="curve" smooth="yes"/>
+      <point x="240" y="115"/>
+      <point x="295" y="-45"/>
+      <point x="406" y="-183" type="curve"/>
+      <point x="349" y="-183" type="line"/>
+      <point x="238" y="-36"/>
+      <point x="190" y="118"/>
+      <point x="190" y="270" type="curve" smooth="yes"/>
+      <point x="190" y="424"/>
+      <point x="241" y="576"/>
+    </contour>
+  </outline>
+</glyph>

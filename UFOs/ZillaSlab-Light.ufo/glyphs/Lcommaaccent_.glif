@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="1">
+  <advance width="541"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="334" y="-66" type="line"/>
+      <point x="282" y="-66" type="line"/>
+      <point x="272" y="-219" type="line"/>
+      <point x="318" y="-219" type="line"/>
+    </contour>
+    <contour>
+      <point x="507" y="0" type="line"/>
+      <point x="527" y="202" type="line"/>
+      <point x="475" y="206" type="line"/>
+      <point x="455" y="51" type="line"/>
+      <point x="185" y="51" type="line"/>
+      <point x="185" y="599" type="line"/>
+      <point x="298" y="599" type="line"/>
+      <point x="298" y="650" type="line"/>
+      <point x="43" y="650" type="line"/>
+      <point x="43" y="599" type="line"/>
+      <point x="128" y="599" type="line"/>
+      <point x="128" y="51" type="line"/>
+      <point x="43" y="51" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="619"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="160" y="139" type="line"/>
+      <point x="32" y="139" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="361" y="139" type="line"/>
+      <point x="233" y="139" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="561" y="139" type="line"/>
+      <point x="433" y="139" type="line"/>
+    </contour>
+  </outline>
+</glyph>

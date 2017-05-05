@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek.c2sc" format="1">
+  <advance width="616"/>
+  <outline>
+    <contour>
+      <point x="430" y="-181" type="curve"/>
+      <point x="422" y="-142" type="line"/>
+      <point x="403" y="-154"/>
+      <point x="386" y="-157"/>
+      <point x="368" y="-157" type="curve" smooth="yes"/>
+      <point x="332" y="-157"/>
+      <point x="308" y="-142"/>
+      <point x="308" y="-101" type="curve" smooth="yes"/>
+      <point x="308" y="-66"/>
+      <point x="323" y="-30"/>
+      <point x="370" y="-1" type="curve"/>
+      <point x="487" y="23"/>
+      <point x="523" y="118"/>
+      <point x="523" y="214" type="curve" smooth="yes"/>
+      <point x="523" y="476" type="line"/>
+      <point x="577" y="476" type="line"/>
+      <point x="577" y="521" type="line"/>
+      <point x="392" y="521" type="line"/>
+      <point x="392" y="476" type="line"/>
+      <point x="471" y="476" type="line"/>
+      <point x="471" y="214" type="line" smooth="yes"/>
+      <point x="471" y="97"/>
+      <point x="414" y="38"/>
+      <point x="309" y="38" type="curve" smooth="yes"/>
+      <point x="203" y="38"/>
+      <point x="150" y="98"/>
+      <point x="150" y="206" type="curve" smooth="yes"/>
+      <point x="150" y="476" type="line"/>
+      <point x="227" y="476" type="line"/>
+      <point x="227" y="521" type="line"/>
+      <point x="38" y="521" type="line"/>
+      <point x="38" y="476" type="line"/>
+      <point x="95" y="476" type="line"/>
+      <point x="95" y="205" type="line" smooth="yes"/>
+      <point x="95" y="93"/>
+      <point x="145" y="-8"/>
+      <point x="306" y="-8" type="curve" smooth="yes"/>
+      <point x="316" y="-8" type="line"/>
+      <point x="283" y="-33"/>
+      <point x="260" y="-69"/>
+      <point x="260" y="-112" type="curve" smooth="yes"/>
+      <point x="260" y="-166"/>
+      <point x="298" y="-200"/>
+      <point x="357" y="-200" type="curve" smooth="yes"/>
+      <point x="385" y="-200"/>
+      <point x="409" y="-192"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.pnum_lnum" format="1">
+  <advance width="684"/>
+  <outline>
+    <contour>
+      <point x="658" y="536" type="line"/>
+      <point x="658" y="650" type="line"/>
+      <point x="402" y="650" type="line"/>
+      <point x="402" y="536" type="line"/>
+      <point x="464" y="536" type="line"/>
+      <point x="356" y="372" type="line"/>
+      <point x="350" y="372" type="line"/>
+      <point x="241" y="536" type="line"/>
+      <point x="295" y="536" type="line"/>
+      <point x="295" y="650" type="line"/>
+      <point x="26" y="650" type="line"/>
+      <point x="26" y="536" type="line"/>
+      <point x="84" y="536" type="line"/>
+      <point x="214" y="349" type="line"/>
+      <point x="122" y="349" type="line"/>
+      <point x="122" y="271" type="line"/>
+      <point x="268" y="271" type="line"/>
+      <point x="279" y="255" type="line"/>
+      <point x="279" y="229" type="line"/>
+      <point x="122" y="229" type="line"/>
+      <point x="122" y="151" type="line"/>
+      <point x="279" y="151" type="line"/>
+      <point x="279" y="114" type="line"/>
+      <point x="179" y="114" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="519" y="114" type="line"/>
+      <point x="413" y="114" type="line"/>
+      <point x="413" y="151" type="line"/>
+      <point x="569" y="151" type="line"/>
+      <point x="569" y="229" type="line"/>
+      <point x="413" y="229" type="line"/>
+      <point x="413" y="254" type="line"/>
+      <point x="424" y="271" type="line"/>
+      <point x="569" y="271" type="line"/>
+      <point x="569" y="349" type="line"/>
+      <point x="476" y="349" type="line"/>
+      <point x="602" y="536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

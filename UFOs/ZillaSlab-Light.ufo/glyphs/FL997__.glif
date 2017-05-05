@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FL997" format="1">
+  <advance width="314"/>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="51" type="line"/>
+      <point x="186" y="51" type="line"/>
+      <point x="186" y="599" type="line"/>
+      <point x="270" y="599" type="line"/>
+      <point x="270" y="650" type="line"/>
+      <point x="43" y="650" type="line"/>
+      <point x="43" y="599" type="line"/>
+      <point x="128" y="599" type="line"/>
+      <point x="128" y="51" type="line"/>
+      <point x="43" y="51" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="730" type="line"/>
+      <point x="148" y="875" type="line"/>
+      <point x="109" y="834" type="line"/>
+      <point x="262" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="739" type="line"/>
+      <point x="-26" y="808" type="line"/>
+      <point x="-41" y="753" type="line"/>
+      <point x="152" y="707" type="line"/>
+    </contour>
+  </outline>
+</glyph>

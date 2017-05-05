@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft.cap" format="1">
+  <advance width="284"/>
+  <outline>
+    <contour>
+      <point x="231" y="85" type="line"/>
+      <point x="99" y="331" type="line"/>
+      <point x="231" y="571" type="line"/>
+      <point x="183" y="571" type="line"/>
+      <point x="45" y="331" type="line"/>
+      <point x="183" y="85" type="line"/>
+    </contour>
+  </outline>
+</glyph>

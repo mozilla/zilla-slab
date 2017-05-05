@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni301A.cap" format="1">
+  <advance width="474"/>
+  <outline>
+    <contour>
+      <point x="67" y="-98" type="line"/>
+      <point x="460" y="-98" type="line"/>
+      <point x="460" y="-11" type="line"/>
+      <point x="346" y="-11" type="line"/>
+      <point x="346" y="659" type="line"/>
+      <point x="460" y="659" type="line"/>
+      <point x="460" y="746" type="line"/>
+      <point x="67" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="659" type="line"/>
+      <point x="237" y="659" type="line"/>
+      <point x="237" y="-11" type="line"/>
+      <point x="176" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="917" type="line"/>
+      <point x="484" y="917" type="line"/>
+      <point x="484" y="-213" type="line"/>
+      <point x="-10" y="-213" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FL999.c2sc" format="1">
+  <advance width="299"/>
+  <outline>
+    <contour>
+      <point x="18" y="82" type="line"/>
+      <point x="77" y="82" type="line"/>
+      <point x="115" y="439" type="line"/>
+      <point x="56" y="439" type="line"/>
+      <point x="65" y="521" type="line"/>
+      <point x="287" y="521" type="line"/>
+      <point x="277" y="439" type="line"/>
+      <point x="219" y="439" type="line"/>
+      <point x="181" y="82" type="line"/>
+      <point x="240" y="82" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="572" type="curve"/>
+      <point x="49" y="572" type="line"/>
+      <point x="59" y="662"/>
+      <point x="115" y="704"/>
+      <point x="195" y="704" type="curve" smooth="yes"/>
+      <point x="277" y="704"/>
+      <point x="319" y="660"/>
+      <point x="310" y="572" type="curve"/>
+      <point x="226" y="572" type="line"/>
+      <point x="231" y="614"/>
+      <point x="218" y="638"/>
+      <point x="187" y="638" type="curve" smooth="yes"/>
+      <point x="154" y="638"/>
+      <point x="138" y="611"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.superior" format="1">
+  <advance width="184"/>
+  <outline>
+    <contour>
+      <point x="57" y="691" type="line"/>
+      <point x="74" y="706" type="line"/>
+      <point x="180" y="706" type="line"/>
+      <point x="143" y="416" type="line" smooth="yes"/>
+      <point x="132" y="330"/>
+      <point x="101" y="272"/>
+      <point x="45" y="270" type="curve"/>
+      <point x="21" y="270"/>
+      <point x="1" y="277"/>
+      <point x="-15" y="287" type="curve"/>
+      <point x="-13" y="332" type="line"/>
+      <point x="32" y="314"/>
+      <point x="68" y="322"/>
+      <point x="80" y="416" type="curve" smooth="yes"/>
+      <point x="110" y="654" type="line"/>
+      <point x="52" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="775" type="line"/>
+      <point x="189" y="775" type="line"/>
+      <point x="197" y="847" type="line"/>
+      <point x="130" y="847" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar.smcp" format="1">
+  <advance width="236"/>
+  <outline>
+    <contour>
+      <point x="164" y="520" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="72" y="520" type="line"/>
+    </contour>
+  </outline>
+</glyph>

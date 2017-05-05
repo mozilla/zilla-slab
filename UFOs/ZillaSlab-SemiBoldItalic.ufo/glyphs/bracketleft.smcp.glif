@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft.smcp" format="1">
+  <advance width="279"/>
+  <outline>
+    <contour>
+      <point x="37" y="-73" type="line"/>
+      <point x="216" y="-73" type="line"/>
+      <point x="223" y="-10" type="line"/>
+      <point x="129" y="-10" type="line"/>
+      <point x="185" y="528" type="line"/>
+      <point x="279" y="528" type="line"/>
+      <point x="286" y="592" type="line"/>
+      <point x="106" y="592" type="line"/>
+    </contour>
+  </outline>
+</glyph>

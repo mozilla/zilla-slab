@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron.smcp" format="1">
+  <advance width="631"/>
+  <outline>
+    <contour>
+      <point x="390" y="521" type="line"/>
+      <point x="595" y="521" type="line"/>
+      <point x="595" y="476" type="line"/>
+      <point x="525" y="476" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="169" y="419" type="line"/>
+      <point x="165" y="419" type="line"/>
+      <point x="165" y="45" type="line"/>
+      <point x="254" y="45" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="48" y="45" type="line"/>
+      <point x="113" y="45" type="line"/>
+      <point x="113" y="476" type="line"/>
+      <point x="40" y="476" type="line"/>
+      <point x="40" y="521" type="line"/>
+      <point x="153" y="521" type="line"/>
+      <point x="469" y="108" type="line"/>
+      <point x="472" y="108" type="line"/>
+      <point x="472" y="476" type="line"/>
+      <point x="390" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="690" type="line"/>
+      <point x="422" y="718" type="line"/>
+      <point x="323" y="629" type="line"/>
+      <point x="219" y="718" type="line"/>
+      <point x="195" y="688" type="line"/>
+      <point x="312" y="573" type="line"/>
+      <point x="328" y="573" type="line"/>
+    </contour>
+  </outline>
+</glyph>

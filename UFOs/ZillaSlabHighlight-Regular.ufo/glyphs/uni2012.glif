@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2012" format="1">
+  <advance width="323"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="335" y="917" type="line"/>
+      <point x="335" y="281" type="line"/>
+      <point x="-12" y="281" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="221" type="line"/>
+      <point x="335" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+      <point x="-12" y="221" type="line"/>
+    </contour>
+  </outline>
+</glyph>

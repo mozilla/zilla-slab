@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tnum_onum" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="402" y="-131" type="line"/>
+      <point x="420" y="38" type="line"/>
+      <point x="513" y="38" type="line"/>
+      <point x="530" y="114" type="line"/>
+      <point x="428" y="114" type="line"/>
+      <point x="471" y="521" type="line"/>
+      <point x="295" y="521" type="line"/>
+      <point x="34" y="114" type="line"/>
+      <point x="35" y="38" type="line"/>
+      <point x="332" y="38" type="line"/>
+      <point x="314" y="-131" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="114" type="line"/>
+      <point x="118" y="114" type="line"/>
+      <point x="326" y="443" type="line"/>
+      <point x="374" y="443" type="line"/>
+    </contour>
+  </outline>
+</glyph>

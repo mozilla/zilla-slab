@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wgrave.smcp" format="1">
+  <advance width="806"/>
+  <outline>
+    <contour>
+      <point x="794" y="465" type="line"/>
+      <point x="749" y="465" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="406" y="407" type="line"/>
+      <point x="402" y="407" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="53" y="465" type="line"/>
+      <point x="7" y="465" type="line"/>
+      <point x="7" y="521" type="line"/>
+      <point x="201" y="521" type="line"/>
+      <point x="201" y="465" type="line"/>
+      <point x="127" y="465" type="line"/>
+      <point x="238" y="107" type="line"/>
+      <point x="243" y="107" type="line"/>
+      <point x="365" y="465" type="line"/>
+      <point x="310" y="465" type="line"/>
+      <point x="310" y="521" type="line"/>
+      <point x="504" y="521" type="line"/>
+      <point x="504" y="465" type="line"/>
+      <point x="450" y="465" type="line"/>
+      <point x="574" y="105" type="line"/>
+      <point x="578" y="105" type="line"/>
+      <point x="678" y="465" type="line"/>
+      <point x="602" y="465" type="line"/>
+      <point x="602" y="521" type="line"/>
+      <point x="794" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="600" type="line"/>
+      <point x="322" y="732" type="line"/>
+      <point x="282" y="673" type="line"/>
+      <point x="455" y="569" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute.c2sc" format="1">
+  <advance width="590"/>
+  <outline>
+    <contour>
+      <point x="15" y="98" type="line"/>
+      <point x="62" y="98" type="line"/>
+      <point x="215" y="423" type="line"/>
+      <point x="141" y="423" type="line"/>
+      <point x="141" y="521" type="line"/>
+      <point x="339" y="521" type="line"/>
+      <point x="537" y="98" type="line"/>
+      <point x="587" y="98" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="361" y="98" type="line"/>
+      <point x="399" y="98" type="line"/>
+      <point x="382" y="143" type="line"/>
+      <point x="209" y="143" type="line"/>
+      <point x="192" y="98" type="line"/>
+      <point x="237" y="98" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="488" y="648" type="line"/>
+      <point x="421" y="749" type="line"/>
+      <point x="259" y="606" type="line"/>
+      <point x="293" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="358" type="line"/>
+      <point x="241" y="225" type="line"/>
+      <point x="350" y="225" type="line"/>
+      <point x="299" y="358" type="line"/>
+    </contour>
+  </outline>
+</glyph>

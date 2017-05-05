@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.superior" format="1">
+  <advance width="161"/>
+  <outline>
+    <contour>
+      <point x="50" y="413" type="line"/>
+      <point x="110" y="413" type="line"/>
+      <point x="110" y="476" type="line"/>
+      <point x="50" y="476" type="line"/>
+    </contour>
+  </outline>
+</glyph>

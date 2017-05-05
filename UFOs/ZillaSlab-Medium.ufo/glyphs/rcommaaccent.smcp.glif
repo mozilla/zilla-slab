@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent.smcp" format="1">
+  <advance width="541"/>
+  <outline>
+    <contour>
+      <point x="41" y="68" type="line"/>
+      <point x="105" y="68" type="line"/>
+      <point x="105" y="453" type="line"/>
+      <point x="41" y="453" type="line"/>
+      <point x="41" y="521" type="line"/>
+      <point x="282" y="521" type="line" smooth="yes"/>
+      <point x="418" y="521"/>
+      <point x="483" y="461"/>
+      <point x="483" y="372" type="curve" smooth="yes"/>
+      <point x="483" y="290"/>
+      <point x="431" y="244"/>
+      <point x="371" y="226" type="curve"/>
+      <point x="460" y="68" type="line"/>
+      <point x="525" y="68" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="286" y="210" type="line"/>
+      <point x="192" y="210" type="line"/>
+      <point x="192" y="68" type="line"/>
+      <point x="258" y="68" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="274" type="line" smooth="yes"/>
+      <point x="358" y="274"/>
+      <point x="389" y="309"/>
+      <point x="389" y="367" type="curve" smooth="yes"/>
+      <point x="389" y="429"/>
+      <point x="356" y="453"/>
+      <point x="268" y="453" type="curve" smooth="yes"/>
+      <point x="192" y="453" type="line"/>
+      <point x="192" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="-62" type="line"/>
+      <point x="263" y="-62" type="line"/>
+      <point x="256" y="-216" type="line"/>
+      <point x="325" y="-216" type="line"/>
+    </contour>
+  </outline>
+</glyph>

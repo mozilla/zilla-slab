@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree.smcp" format="1">
+  <advance width="392"/>
+  <outline>
+    <contour>
+      <point x="196" y="211" type="curve" smooth="yes"/>
+      <point x="295" y="211"/>
+      <point x="356" y="281"/>
+      <point x="356" y="370" type="curve" smooth="yes"/>
+      <point x="356" y="458"/>
+      <point x="299" y="529"/>
+      <point x="198" y="529" type="curve" smooth="yes"/>
+      <point x="101" y="529"/>
+      <point x="37" y="459"/>
+      <point x="37" y="369" type="curve" smooth="yes"/>
+      <point x="37" y="279"/>
+      <point x="97" y="211"/>
+    </contour>
+    <contour>
+      <point x="196" y="275" type="curve"/>
+      <point x="147" y="275"/>
+      <point x="110" y="307"/>
+      <point x="110" y="370" type="curve" smooth="yes"/>
+      <point x="110" y="433"/>
+      <point x="147" y="465"/>
+      <point x="198" y="465" type="curve" smooth="yes"/>
+      <point x="246" y="465"/>
+      <point x="283" y="433"/>
+      <point x="283" y="369" type="curve" smooth="yes"/>
+      <point x="283" y="307"/>
+      <point x="246" y="275"/>
+    </contour>
+  </outline>
+</glyph>

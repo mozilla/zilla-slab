@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEmacron" format="1">
+  <advance width="917"/>
+  <unicode hex="01E2"/>
+  <outline>
+    <contour>
+      <point x="522" y="819" type="line"/>
+      <point x="824" y="819" type="line"/>
+      <point x="814" y="721" type="line"/>
+      <point x="512" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="840" y="0" type="line"/>
+      <point x="880" y="190" type="line"/>
+      <point x="772" y="200" type="line"/>
+      <point x="743" y="114" type="line"/>
+      <point x="557" y="114" type="line"/>
+      <point x="573" y="270" type="line"/>
+      <point x="842" y="270" type="line"/>
+      <point x="854" y="383" type="line"/>
+      <point x="585" y="383" type="line"/>
+      <point x="601" y="536" type="line"/>
+      <point x="782" y="536" type="line"/>
+      <point x="792" y="450" type="line"/>
+      <point x="902" y="460" type="line"/>
+      <point x="903" y="650" type="line"/>
+      <point x="235" y="650" type="line"/>
+      <point x="223" y="536" type="line"/>
+      <point x="303" y="536" type="line"/>
+      <point x="50" y="114" type="line"/>
+      <point x="-12" y="114" type="line"/>
+      <point x="-24" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="239" y="114" type="line"/>
+      <point x="184" y="114" type="line"/>
+      <point x="221" y="180" type="line"/>
+      <point x="433" y="180" type="line"/>
+      <point x="426" y="114" type="line"/>
+      <point x="357" y="114" type="line"/>
+      <point x="345" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="276" type="line"/>
+      <point x="276" y="276" type="line"/>
+      <point x="423" y="536" type="line"/>
+      <point x="470" y="536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

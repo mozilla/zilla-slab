@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft.smcp" format="1">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="185" y="548" type="line"/>
+      <point x="132" y="548" type="line"/>
+      <point x="60" y="336" type="line"/>
+      <point x="113" y="336" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="548" type="line"/>
+      <point x="290" y="548" type="line"/>
+      <point x="218" y="336" type="line"/>
+      <point x="271" y="336" type="line"/>
+    </contour>
+  </outline>
+</glyph>

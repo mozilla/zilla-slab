@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma.inferior" format="1">
+  <advance width="197"/>
+  <outline>
+    <contour>
+      <point x="21" y="-53" type="line"/>
+      <point x="119" y="-53" type="line"/>
+      <point x="161" y="101" type="line"/>
+      <point x="63" y="101" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="917" type="line"/>
+      <point x="206" y="917" type="line"/>
+      <point x="206" y="-213" type="line"/>
+      <point x="-10" y="-213" type="line"/>
+    </contour>
+  </outline>
+</glyph>

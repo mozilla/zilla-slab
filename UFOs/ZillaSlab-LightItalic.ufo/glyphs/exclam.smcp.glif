@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam.smcp" format="1">
+  <advance width="224"/>
+  <outline>
+    <contour>
+      <point x="168" y="521" type="line"/>
+      <point x="118" y="148" type="line"/>
+      <point x="78" y="148" type="line"/>
+      <point x="107" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="130" y="84" type="line"/>
+      <point x="58" y="84" type="line"/>
+    </contour>
+  </outline>
+</glyph>

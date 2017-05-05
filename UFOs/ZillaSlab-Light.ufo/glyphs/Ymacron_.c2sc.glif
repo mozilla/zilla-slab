@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ymacron.c2sc" format="1">
+  <advance width="526"/>
+  <outline>
+    <contour>
+      <point x="517" y="476" type="line"/>
+      <point x="463" y="476" type="line"/>
+      <point x="291" y="197" type="line"/>
+      <point x="291" y="45" type="line"/>
+      <point x="389" y="45" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="141" y="45" type="line"/>
+      <point x="236" y="45" type="line"/>
+      <point x="236" y="200" type="line"/>
+      <point x="58" y="476" type="line"/>
+      <point x="3" y="476" type="line"/>
+      <point x="3" y="521" type="line"/>
+      <point x="198" y="521" type="line"/>
+      <point x="198" y="476" type="line"/>
+      <point x="119" y="476" type="line"/>
+      <point x="264" y="246" type="line"/>
+      <point x="269" y="246" type="line"/>
+      <point x="408" y="476" type="line"/>
+      <point x="329" y="476" type="line"/>
+      <point x="329" y="521" type="line"/>
+      <point x="517" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="384" y="623" type="line"/>
+      <point x="384" y="669" type="line"/>
+      <point x="146" y="669" type="line"/>
+      <point x="146" y="623" type="line"/>
+    </contour>
+  </outline>
+</glyph>

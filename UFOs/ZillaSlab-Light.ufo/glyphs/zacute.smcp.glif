@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute.smcp" format="1">
+  <advance width="503"/>
+  <outline>
+    <contour>
+      <point x="393" y="680" type="line"/>
+      <point x="360" y="727" type="line"/>
+      <point x="208" y="599" type="line"/>
+      <point x="226" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="0" type="line"/>
+      <point x="469" y="152" type="line"/>
+      <point x="421" y="158" type="line"/>
+      <point x="401" y="45" type="line"/>
+      <point x="115" y="45" type="line"/>
+      <point x="115" y="47" type="line"/>
+      <point x="433" y="491" type="line"/>
+      <point x="432" y="521" type="line"/>
+      <point x="54" y="521" type="line"/>
+      <point x="35" y="371" type="line"/>
+      <point x="83" y="366" type="line"/>
+      <point x="103" y="476" type="line"/>
+      <point x="356" y="476" type="line"/>
+      <point x="356" y="474" type="line"/>
+      <point x="37" y="32" type="line"/>
+      <point x="39" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

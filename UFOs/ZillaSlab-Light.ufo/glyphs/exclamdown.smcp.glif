@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.smcp" format="1">
+  <advance width="231"/>
+  <outline>
+    <contour>
+      <point x="146" y="1" type="line"/>
+      <point x="135" y="374" type="line"/>
+      <point x="95" y="374" type="line"/>
+      <point x="84" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="437" type="line"/>
+      <point x="154" y="437" type="line"/>
+      <point x="154" y="521" type="line"/>
+      <point x="81" y="521" type="line"/>
+    </contour>
+  </outline>
+</glyph>

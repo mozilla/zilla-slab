@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashmathinferior" format="1">
+  <advance width="250"/>
+  <outline>
+    <contour>
+      <point x="236" y="364" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="165" y="364" type="line"/>
+    </contour>
+  </outline>
+</glyph>

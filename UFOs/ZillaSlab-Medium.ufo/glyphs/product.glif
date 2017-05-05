@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <advance width="682"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="40" y="79" type="line"/>
+      <point x="118" y="79" type="line"/>
+      <point x="118" y="571" type="line"/>
+      <point x="40" y="571" type="line"/>
+      <point x="40" y="650" type="line"/>
+      <point x="642" y="650" type="line"/>
+      <point x="642" y="571" type="line"/>
+      <point x="563" y="571" type="line"/>
+      <point x="563" y="79" type="line"/>
+      <point x="642" y="79" type="line"/>
+      <point x="642" y="0" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="395" y="79" type="line"/>
+      <point x="473" y="79" type="line"/>
+      <point x="473" y="571" type="line"/>
+      <point x="209" y="571" type="line"/>
+      <point x="209" y="79" type="line"/>
+      <point x="287" y="79" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

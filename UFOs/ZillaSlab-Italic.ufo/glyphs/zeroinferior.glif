@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeroinferior" format="1">
+  <advance width="373"/>
+  <unicode hex="2080"/>
+  <outline>
+    <contour>
+      <point x="27" y="151" type="curve" smooth="yes"/>
+      <point x="27" y="234"/>
+      <point x="57" y="370"/>
+      <point x="196" y="370" type="curve" smooth="yes"/>
+      <point x="300" y="370"/>
+      <point x="326" y="293"/>
+      <point x="326" y="211" type="curve" smooth="yes"/>
+      <point x="326" y="104"/>
+      <point x="285" y="-6"/>
+      <point x="158" y="-6" type="curve" smooth="yes"/>
+      <point x="60" y="-6"/>
+      <point x="27" y="61"/>
+    </contour>
+    <contour>
+      <point x="88" y="156" type="curve" smooth="yes"/>
+      <point x="88" y="87"/>
+      <point x="104" y="41"/>
+      <point x="162" y="41" type="curve" smooth="yes"/>
+      <point x="236" y="41"/>
+      <point x="265" y="113"/>
+      <point x="265" y="212" type="curve" smooth="yes"/>
+      <point x="265" y="277"/>
+      <point x="252" y="323"/>
+      <point x="192" y="323" type="curve" smooth="yes"/>
+      <point x="119" y="323"/>
+      <point x="88" y="256"/>
+    </contour>
+  </outline>
+</glyph>

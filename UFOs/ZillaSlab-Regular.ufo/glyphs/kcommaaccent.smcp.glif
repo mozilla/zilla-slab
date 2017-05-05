@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcommaaccent.smcp" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="42" y="56" type="line"/>
+      <point x="109" y="56" type="line"/>
+      <point x="109" y="465" type="line"/>
+      <point x="42" y="465" type="line"/>
+      <point x="42" y="521" type="line"/>
+      <point x="241" y="521" type="line"/>
+      <point x="241" y="465" type="line"/>
+      <point x="180" y="465" type="line"/>
+      <point x="180" y="293" type="line"/>
+      <point x="265" y="293" type="line"/>
+      <point x="398" y="466" type="line"/>
+      <point x="335" y="466" type="line"/>
+      <point x="335" y="522" type="line"/>
+      <point x="535" y="522" type="line"/>
+      <point x="535" y="466" type="line"/>
+      <point x="475" y="466" type="line"/>
+      <point x="318" y="270" type="line"/>
+      <point x="484" y="56" type="line"/>
+      <point x="545" y="56" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="56" type="line"/>
+      <point x="402" y="56" type="line"/>
+      <point x="262" y="238" type="line"/>
+      <point x="180" y="238" type="line"/>
+      <point x="180" y="56" type="line"/>
+      <point x="239" y="56" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="-64" type="line"/>
+      <point x="260" y="-64" type="line"/>
+      <point x="252" y="-218" type="line"/>
+      <point x="309" y="-218" type="line"/>
+    </contour>
+  </outline>
+</glyph>

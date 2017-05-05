@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.superior" format="1">
+  <advance width="161"/>
+  <outline>
+    <contour>
+      <point x="44" y="413" type="line"/>
+      <point x="115" y="413" type="line"/>
+      <point x="115" y="486" type="line"/>
+      <point x="44" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="173" y="917" type="line"/>
+      <point x="173" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+    </contour>
+  </outline>
+</glyph>

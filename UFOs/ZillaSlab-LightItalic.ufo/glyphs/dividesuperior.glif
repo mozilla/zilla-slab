@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dividesuperior" format="1">
+  <advance width="308"/>
+  <outline>
+    <contour>
+      <point x="71" y="581" type="line"/>
+      <point x="300" y="581" type="line"/>
+      <point x="304" y="614" type="line"/>
+      <point x="76" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="480" type="line"/>
+      <point x="204" y="480" type="line"/>
+      <point x="211" y="543" type="line"/>
+      <point x="152" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="656" type="line"/>
+      <point x="224" y="656" type="line"/>
+      <point x="231" y="719" type="line"/>
+      <point x="172" y="719" type="line"/>
+    </contour>
+  </outline>
+</glyph>

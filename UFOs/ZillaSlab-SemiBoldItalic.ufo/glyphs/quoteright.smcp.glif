@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright.smcp" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="41" y="322" type="line"/>
+      <point x="144" y="322" type="line"/>
+      <point x="224" y="550" type="line"/>
+      <point x="122" y="550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

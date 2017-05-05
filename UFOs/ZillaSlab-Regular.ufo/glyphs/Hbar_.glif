@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="756"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="49" y="462" type="line"/>
+      <point x="124" y="462" type="line"/>
+      <point x="124" y="64" type="line"/>
+      <point x="42" y="64" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="279" y="64" type="line"/>
+      <point x="197" y="64" type="line"/>
+      <point x="197" y="300" type="line"/>
+      <point x="558" y="300" type="line"/>
+      <point x="558" y="64" type="line"/>
+      <point x="476" y="64" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="713" y="0" type="line"/>
+      <point x="713" y="64" type="line"/>
+      <point x="631" y="64" type="line"/>
+      <point x="631" y="462" type="line"/>
+      <point x="705" y="462" type="line"/>
+      <point x="705" y="515" type="line"/>
+      <point x="631" y="515" type="line"/>
+      <point x="631" y="586" type="line"/>
+      <point x="713" y="586" type="line"/>
+      <point x="713" y="650" type="line"/>
+      <point x="476" y="650" type="line"/>
+      <point x="476" y="586" type="line"/>
+      <point x="558" y="586" type="line"/>
+      <point x="558" y="515" type="line"/>
+      <point x="197" y="515" type="line"/>
+      <point x="197" y="586" type="line"/>
+      <point x="279" y="586" type="line"/>
+      <point x="279" y="650" type="line"/>
+      <point x="42" y="650" type="line"/>
+      <point x="42" y="586" type="line"/>
+      <point x="124" y="586" type="line"/>
+      <point x="124" y="515" type="line"/>
+      <point x="49" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="362" type="line"/>
+      <point x="197" y="462" type="line"/>
+      <point x="558" y="462" type="line"/>
+      <point x="558" y="362" type="line"/>
+    </contour>
+  </outline>
+</glyph>

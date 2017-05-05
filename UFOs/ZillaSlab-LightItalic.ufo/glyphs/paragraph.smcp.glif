@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph.smcp" format="1">
+  <advance width="513"/>
+  <outline>
+    <contour>
+      <point x="501" y="521" type="line"/>
+      <point x="496" y="477" type="line"/>
+      <point x="432" y="477" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="382" y="477" type="line"/>
+      <point x="328" y="477" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="254" y="249" type="line"/>
+      <point x="205" y="249" type="line" smooth="yes"/>
+      <point x="110" y="249"/>
+      <point x="40" y="283"/>
+      <point x="40" y="373" type="curve" smooth="yes"/>
+      <point x="40" y="455"/>
+      <point x="106" y="521"/>
+      <point x="239" y="521" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

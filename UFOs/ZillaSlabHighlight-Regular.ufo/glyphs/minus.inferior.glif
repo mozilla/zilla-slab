@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus.inferior" format="1">
+  <advance width="323"/>
+  <unicode hex="208B"/>
+  <outline>
+    <contour>
+      <point x="47" y="163" type="line"/>
+      <point x="279" y="163" type="line"/>
+      <point x="279" y="202" type="line"/>
+      <point x="47" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="335" y="917" type="line"/>
+      <point x="335" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+    </contour>
+  </outline>
+</glyph>

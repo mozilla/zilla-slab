@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horumlaut" format="1">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="382" y="541" type="line"/>
+      <point x="282" y="722" type="line"/>
+      <point x="212" y="673" type="line"/>
+      <point x="345" y="516" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="553" type="line"/>
+      <point x="101" y="688" type="line"/>
+      <point x="54" y="617" type="line"/>
+      <point x="233" y="516" type="line"/>
+    </contour>
+  </outline>
+</glyph>

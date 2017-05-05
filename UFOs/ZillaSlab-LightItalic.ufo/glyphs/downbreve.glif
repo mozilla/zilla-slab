@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downbreve" format="1">
+  <advance width="391"/>
+  <outline>
+    <contour>
+      <point x="192" y="537" type="curve"/>
+      <point x="145" y="537" type="line"/>
+      <point x="154" y="617"/>
+      <point x="197" y="655"/>
+      <point x="273" y="655" type="curve" smooth="yes"/>
+      <point x="347" y="655"/>
+      <point x="384" y="616"/>
+      <point x="376" y="537" type="curve"/>
+      <point x="329" y="537" type="line"/>
+      <point x="336" y="595"/>
+      <point x="313" y="615"/>
+      <point x="268" y="615" type="curve" smooth="yes"/>
+      <point x="221" y="615"/>
+      <point x="197" y="593"/>
+    </contour>
+  </outline>
+</glyph>

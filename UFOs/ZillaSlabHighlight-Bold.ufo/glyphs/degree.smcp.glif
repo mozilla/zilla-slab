@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree.smcp" format="1">
+  <advance width="371"/>
+  <outline>
+    <contour>
+      <point x="185" y="211" type="curve" smooth="yes"/>
+      <point x="287" y="211"/>
+      <point x="345" y="281"/>
+      <point x="345" y="370" type="curve" smooth="yes"/>
+      <point x="345" y="458"/>
+      <point x="293" y="529"/>
+      <point x="187" y="529" type="curve" smooth="yes"/>
+      <point x="88" y="529"/>
+      <point x="26" y="459"/>
+      <point x="26" y="369" type="curve" smooth="yes"/>
+      <point x="26" y="279"/>
+      <point x="82" y="211"/>
+    </contour>
+    <contour>
+      <point x="185" y="301" type="curve"/>
+      <point x="156" y="301"/>
+      <point x="131" y="318"/>
+      <point x="131" y="369" type="curve" smooth="yes"/>
+      <point x="131" y="422"/>
+      <point x="157" y="439"/>
+      <point x="187" y="439" type="curve" smooth="yes"/>
+      <point x="216" y="439"/>
+      <point x="240" y="422"/>
+      <point x="240" y="370" type="curve" smooth="yes"/>
+      <point x="240" y="318"/>
+      <point x="215" y="301"/>
+    </contour>
+    <contour>
+      <point x="-13" y="917" type="line"/>
+      <point x="381" y="917" type="line"/>
+      <point x="381" y="-213" type="line"/>
+      <point x="-13" y="-213" type="line"/>
+    </contour>
+  </outline>
+</glyph>

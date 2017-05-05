@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.cap" format="1">
+  <advance width="371"/>
+  <outline>
+    <contour>
+      <point x="127" y="715" type="line"/>
+      <point x="220" y="715" type="line"/>
+      <point x="230" y="813" type="line"/>
+      <point x="137" y="813" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="715" type="line"/>
+      <point x="392" y="715" type="line"/>
+      <point x="402" y="813" type="line"/>
+      <point x="309" y="813" type="line"/>
+    </contour>
+  </outline>
+</glyph>

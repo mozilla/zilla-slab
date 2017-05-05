@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.smcp" format="1">
+  <advance width="466"/>
+  <outline>
+    <contour>
+      <point x="400" y="0" type="line"/>
+      <point x="437" y="167" type="line"/>
+      <point x="377" y="173" type="line"/>
+      <point x="346" y="56" type="line"/>
+      <point x="153" y="56" type="line"/>
+      <point x="196" y="465" type="line"/>
+      <point x="282" y="465" type="line"/>
+      <point x="288" y="521" type="line"/>
+      <point x="68" y="521" type="line"/>
+      <point x="62" y="465" type="line"/>
+      <point x="128" y="465" type="line"/>
+      <point x="85" y="56" type="line"/>
+      <point x="19" y="56" type="line"/>
+      <point x="13" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="673" type="line"/>
+      <point x="291" y="732" type="line"/>
+      <point x="126" y="600" type="line"/>
+      <point x="144" y="569" type="line"/>
+    </contour>
+  </outline>
+</glyph>

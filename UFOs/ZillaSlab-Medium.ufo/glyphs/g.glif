@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g" format="1">
+  <advance width="554"/>
+  <unicode hex="0067"/>
+  <outline>
+    <contour>
+      <point x="538" y="378" type="line"/>
+      <point x="538" y="447" type="line"/>
+      <point x="382" y="447" type="line"/>
+      <point x="382" y="377" type="line"/>
+      <point x="354" y="427"/>
+      <point x="301" y="456"/>
+      <point x="234" y="456" type="curve" smooth="yes"/>
+      <point x="99" y="456"/>
+      <point x="33" y="336"/>
+      <point x="33" y="213" type="curve" smooth="yes"/>
+      <point x="33" y="72"/>
+      <point x="120" y="-4"/>
+      <point x="226" y="-4" type="curve" smooth="yes"/>
+      <point x="309" y="-4"/>
+      <point x="355" y="38"/>
+      <point x="382" y="88" type="curve"/>
+      <point x="382" y="13" type="line" smooth="yes"/>
+      <point x="382" y="-92"/>
+      <point x="324" y="-150"/>
+      <point x="244" y="-150" type="curve" smooth="yes"/>
+      <point x="185" y="-150"/>
+      <point x="128" y="-121"/>
+      <point x="103" y="-55" type="curve"/>
+      <point x="35" y="-90" type="line"/>
+      <point x="63" y="-184"/>
+      <point x="149" y="-223"/>
+      <point x="242" y="-223" type="curve" smooth="yes"/>
+      <point x="389" y="-223"/>
+      <point x="469" y="-130"/>
+      <point x="469" y="11" type="curve" smooth="yes"/>
+      <point x="469" y="378" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="202" type="line"/>
+      <point x="380" y="136"/>
+      <point x="328" y="68"/>
+      <point x="248" y="68" type="curve" smooth="yes"/>
+      <point x="181" y="68"/>
+      <point x="129" y="117"/>
+      <point x="129" y="219" type="curve" smooth="yes"/>
+      <point x="129" y="312"/>
+      <point x="171" y="384"/>
+      <point x="259" y="384" type="curve" smooth="yes"/>
+      <point x="327" y="384"/>
+      <point x="382" y="335"/>
+      <point x="382" y="260" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="233" y="566" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.smcp" format="1">
+  <advance width="258"/>
+  <outline>
+    <contour>
+      <point x="111" y="552" type="curve"/>
+      <point x="2" y="552" type="line"/>
+      <point x="87" y="451"/>
+      <point x="128" y="358"/>
+      <point x="128" y="253" type="curve" smooth="yes"/>
+      <point x="128" y="147"/>
+      <point x="85" y="49"/>
+      <point x="2" y="-43" type="curve"/>
+      <point x="112" y="-43" type="line"/>
+      <point x="193" y="49"/>
+      <point x="232" y="150"/>
+      <point x="232" y="249" type="curve" smooth="yes"/>
+      <point x="232" y="354"/>
+      <point x="189" y="458"/>
+    </contour>
+  </outline>
+</glyph>

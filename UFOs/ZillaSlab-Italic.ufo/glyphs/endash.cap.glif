@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash.cap" format="1">
+  <advance width="611"/>
+  <outline>
+    <contour>
+      <point x="67" y="367" type="line"/>
+      <point x="559" y="367" type="line"/>
+      <point x="554" y="316" type="line"/>
+      <point x="62" y="316" type="line"/>
+    </contour>
+  </outline>
+</glyph>

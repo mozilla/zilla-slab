@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft.smcp" format="1">
+  <advance width="240"/>
+  <outline>
+    <contour>
+      <point x="189" y="552" type="curve"/>
+      <point x="252" y="552" type="line"/>
+      <point x="145" y="436"/>
+      <point x="94" y="338"/>
+      <point x="94" y="219" type="curve" smooth="yes"/>
+      <point x="94" y="128"/>
+      <point x="127" y="37"/>
+      <point x="189" y="-43" type="curve"/>
+      <point x="125" y="-43" type="line"/>
+      <point x="65" y="37"/>
+      <point x="36" y="131"/>
+      <point x="36" y="217" type="curve" smooth="yes"/>
+      <point x="36" y="335"/>
+      <point x="91" y="446"/>
+    </contour>
+  </outline>
+</glyph>

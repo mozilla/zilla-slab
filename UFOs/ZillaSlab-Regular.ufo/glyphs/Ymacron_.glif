@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ymacron" format="1">
+  <advance width="613"/>
+  <unicode hex="0232"/>
+  <outline>
+    <contour>
+      <point x="610" y="586" type="line"/>
+      <point x="610" y="650" type="line"/>
+      <point x="382" y="650" type="line"/>
+      <point x="382" y="586" type="line"/>
+      <point x="472" y="586" type="line"/>
+      <point x="313" y="316" type="line"/>
+      <point x="308" y="316" type="line"/>
+      <point x="144" y="586" type="line"/>
+      <point x="233" y="586" type="line"/>
+      <point x="233" y="650" type="line"/>
+      <point x="-4" y="650" type="line"/>
+      <point x="-4" y="586" type="line"/>
+      <point x="60" y="586" type="line"/>
+      <point x="271" y="249" type="line"/>
+      <point x="271" y="64" type="line"/>
+      <point x="159" y="64" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="458" y="64" type="line"/>
+      <point x="344" y="64" type="line"/>
+      <point x="344" y="248" type="line"/>
+      <point x="546" y="586" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="733" type="line"/>
+      <point x="450" y="790" type="line"/>
+      <point x="171" y="790" type="line"/>
+      <point x="171" y="733" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl.smcp" format="1">
+  <advance width="367"/>
+  <outline>
+    <contour>
+      <point x="124" y="248" type="line"/>
+      <point x="129" y="521" type="line"/>
+      <point x="58" y="521" type="line"/>
+      <point x="62" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="248" type="line"/>
+      <point x="309" y="521" type="line"/>
+      <point x="238" y="521" type="line"/>
+      <point x="242" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="918" type="line"/>
+      <point x="379" y="918" type="line"/>
+      <point x="379" y="-212" type="line"/>
+      <point x="-12" y="-212" type="line"/>
+    </contour>
+  </outline>
+</glyph>

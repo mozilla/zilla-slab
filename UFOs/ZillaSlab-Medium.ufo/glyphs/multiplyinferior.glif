@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiplyinferior" format="1">
+  <advance width="267"/>
+  <outline>
+    <contour>
+      <point x="68" y="82" type="line"/>
+      <point x="134" y="148" type="line"/>
+      <point x="197" y="85" type="line"/>
+      <point x="232" y="120" type="line"/>
+      <point x="169" y="183" type="line"/>
+      <point x="232" y="246" type="line"/>
+      <point x="200" y="278" type="line"/>
+      <point x="136" y="215" type="line"/>
+      <point x="72" y="280" type="line"/>
+      <point x="37" y="245" type="line"/>
+      <point x="101" y="180" type="line"/>
+      <point x="35" y="114" type="line"/>
+    </contour>
+  </outline>
+</glyph>

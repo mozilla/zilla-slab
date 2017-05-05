@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent.smcp" format="1">
+  <advance width="510"/>
+  <outline>
+    <contour>
+      <point x="445" y="0" type="line"/>
+      <point x="465" y="146" type="line"/>
+      <point x="417" y="152" type="line"/>
+      <point x="397" y="45" type="line"/>
+      <point x="167" y="45" type="line"/>
+      <point x="167" y="243" type="line"/>
+      <point x="428" y="243" type="line"/>
+      <point x="428" y="287" type="line"/>
+      <point x="167" y="287" type="line"/>
+      <point x="167" y="476" type="line"/>
+      <point x="397" y="476" type="line"/>
+      <point x="417" y="370" type="line"/>
+      <point x="464" y="378" type="line"/>
+      <point x="445" y="521" type="line"/>
+      <point x="43" y="521" type="line"/>
+      <point x="43" y="476" type="line"/>
+      <point x="113" y="476" type="line"/>
+      <point x="113" y="45" type="line"/>
+      <point x="43" y="45" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="610" type="line"/>
+      <point x="314" y="610" type="line"/>
+      <point x="314" y="689" type="line"/>
+      <point x="252" y="689" type="line"/>
+    </contour>
+  </outline>
+</glyph>

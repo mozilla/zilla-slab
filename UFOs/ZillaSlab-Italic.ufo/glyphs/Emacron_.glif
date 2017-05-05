@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="1">
+  <advance width="573"/>
+  <unicode hex="0112"/>
+  <outline>
+    <contour>
+      <point x="226" y="790" type="line"/>
+      <point x="499" y="790" type="line"/>
+      <point x="493" y="733" type="line"/>
+      <point x="220" y="733" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="0" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="18" y="64" type="line"/>
+      <point x="98" y="64" type="line"/>
+      <point x="154" y="586" type="line"/>
+      <point x="73" y="586" type="line"/>
+      <point x="80" y="650" type="line"/>
+      <point x="545" y="650" type="line"/>
+      <point x="545" y="466" type="line"/>
+      <point x="482" y="459" type="line"/>
+      <point x="476" y="586" type="line"/>
+      <point x="225" y="586" type="line"/>
+      <point x="200" y="362" type="line"/>
+      <point x="502" y="362" type="line"/>
+      <point x="496" y="298" type="line"/>
+      <point x="194" y="298" type="line"/>
+      <point x="169" y="64" type="line"/>
+      <point x="425" y="64" type="line"/>
+      <point x="458" y="191" type="line"/>
+      <point x="519" y="184" type="line"/>
+    </contour>
+  </outline>
+</glyph>

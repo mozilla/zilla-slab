@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine.smcp" format="1">
+  <advance width="414"/>
+  <outline>
+    <contour>
+      <point x="44" y="430" type="line"/>
+      <point x="70" y="430" type="line"/>
+      <point x="172" y="664" type="line"/>
+      <point x="128" y="664" type="line"/>
+      <point x="128" y="698" type="line"/>
+      <point x="232" y="698" type="line"/>
+      <point x="343" y="430" type="line"/>
+      <point x="372" y="430" type="line"/>
+      <point x="372" y="396" type="line"/>
+      <point x="257" y="396" type="line"/>
+      <point x="257" y="430" type="line"/>
+      <point x="300" y="430" type="line"/>
+      <point x="279" y="483" type="line"/>
+      <point x="133" y="483" type="line"/>
+      <point x="111" y="430" type="line"/>
+      <point x="158" y="430" type="line"/>
+      <point x="158" y="396" type="line"/>
+      <point x="44" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="659" type="line"/>
+      <point x="144" y="510" type="line"/>
+      <point x="268" y="510" type="line"/>
+      <point x="209" y="659" type="line"/>
+    </contour>
+  </outline>
+</glyph>

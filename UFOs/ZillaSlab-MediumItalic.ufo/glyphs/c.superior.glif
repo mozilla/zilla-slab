@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c.superior" format="1">
+  <advance width="308"/>
+  <outline>
+    <contour>
+      <point x="208" y="660" type="curve" smooth="yes"/>
+      <point x="220" y="660"/>
+      <point x="235" y="658"/>
+      <point x="248" y="650" type="curve"/>
+      <point x="253" y="595" type="line"/>
+      <point x="307" y="601" type="line"/>
+      <point x="304" y="679" type="line"/>
+      <point x="272" y="705"/>
+      <point x="232" y="712"/>
+      <point x="202" y="712" type="curve"/>
+      <point x="100" y="712"/>
+      <point x="55" y="621"/>
+      <point x="55" y="538" type="curve" smooth="yes"/>
+      <point x="55" y="458"/>
+      <point x="97" y="408"/>
+      <point x="173" y="408" type="curve" smooth="yes"/>
+      <point x="257" y="408"/>
+      <point x="295" y="468"/>
+      <point x="308" y="519" type="curve"/>
+      <point x="256" y="531" type="line"/>
+      <point x="243" y="486"/>
+      <point x="223" y="461"/>
+      <point x="183" y="461" type="curve" smooth="yes"/>
+      <point x="139" y="461"/>
+      <point x="124" y="493"/>
+      <point x="124" y="543" type="curve" smooth="yes"/>
+      <point x="124" y="603"/>
+      <point x="144" y="660"/>
+    </contour>
+  </outline>
+</glyph>

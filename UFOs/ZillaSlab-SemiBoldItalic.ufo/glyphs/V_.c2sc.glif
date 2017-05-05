@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V.c2sc" format="1">
+  <advance width="566"/>
+  <outline>
+    <contour>
+      <point x="576" y="439" type="line"/>
+      <point x="529" y="439" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="72" y="439" type="line"/>
+      <point x="23" y="439" type="line"/>
+      <point x="31" y="521" type="line"/>
+      <point x="249" y="521" type="line"/>
+      <point x="241" y="439" type="line"/>
+      <point x="186" y="439" type="line"/>
+      <point x="274" y="147" type="line"/>
+      <point x="278" y="147" type="line"/>
+      <point x="422" y="439" type="line"/>
+      <point x="367" y="439" type="line"/>
+      <point x="376" y="521" type="line"/>
+      <point x="584" y="521" type="line"/>
+    </contour>
+  </outline>
+</glyph>

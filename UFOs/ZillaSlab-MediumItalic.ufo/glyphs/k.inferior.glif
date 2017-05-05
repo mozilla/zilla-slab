@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.inferior" format="1">
+  <advance width="325"/>
+  <unicode hex="2096"/>
+  <outline>
+    <contour>
+      <point x="29" y="431" type="line"/>
+      <point x="47" y="447" type="line"/>
+      <point x="140" y="447" type="line"/>
+      <point x="105" y="173" type="line"/>
+      <point x="152" y="173" type="line"/>
+      <point x="189" y="209"/>
+      <point x="211" y="245"/>
+      <point x="215" y="291" type="curve"/>
+      <point x="280" y="291" type="line"/>
+      <point x="278" y="238"/>
+      <point x="243" y="188"/>
+      <point x="188" y="152" type="curve"/>
+      <point x="244" y="53" type="line"/>
+      <point x="290" y="53" type="line"/>
+      <point x="286" y="15" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="138" y="127" type="line"/>
+      <point x="99" y="127" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="69" y="394" type="line"/>
+      <point x="25" y="394" type="line"/>
+    </contour>
+  </outline>
+</glyph>

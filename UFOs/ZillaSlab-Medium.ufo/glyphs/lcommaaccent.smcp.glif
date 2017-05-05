@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent.smcp" format="1">
+  <advance width="479"/>
+  <outline>
+    <contour>
+      <point x="333" y="-62" type="line"/>
+      <point x="250" y="-62" type="line"/>
+      <point x="243" y="-216" type="line"/>
+      <point x="312" y="-216" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="0" type="line"/>
+      <point x="461" y="173" type="line"/>
+      <point x="385" y="180" type="line"/>
+      <point x="368" y="68" type="line"/>
+      <point x="192" y="68" type="line"/>
+      <point x="192" y="453" type="line"/>
+      <point x="275" y="453" type="line"/>
+      <point x="275" y="521" type="line"/>
+      <point x="41" y="521" type="line"/>
+      <point x="41" y="453" type="line"/>
+      <point x="105" y="453" type="line"/>
+      <point x="105" y="68" type="line"/>
+      <point x="41" y="68" type="line"/>
+      <point x="41" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

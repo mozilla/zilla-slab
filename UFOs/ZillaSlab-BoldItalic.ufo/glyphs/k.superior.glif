@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.superior" format="1">
+  <advance width="333"/>
+  <outline>
+    <contour>
+      <point x="70" y="843" type="line"/>
+      <point x="92" y="862" type="line"/>
+      <point x="199" y="862" type="line"/>
+      <point x="165" y="595" type="line"/>
+      <point x="198" y="595" type="line"/>
+      <point x="230" y="631"/>
+      <point x="245" y="664"/>
+      <point x="251" y="709" type="curve"/>
+      <point x="341" y="709" type="line"/>
+      <point x="343" y="658"/>
+      <point x="307" y="603"/>
+      <point x="251" y="566" type="curve"/>
+      <point x="298" y="488" type="line"/>
+      <point x="344" y="488" type="line"/>
+      <point x="338" y="433" type="line"/>
+      <point x="317" y="415" type="line"/>
+      <point x="243" y="415" type="line"/>
+      <point x="179" y="533" type="line"/>
+      <point x="157" y="533" type="line"/>
+      <point x="142" y="415" type="line"/>
+      <point x="53" y="415" type="line"/>
+      <point x="100" y="789" type="line"/>
+      <point x="64" y="789" type="line"/>
+    </contour>
+  </outline>
+</glyph>

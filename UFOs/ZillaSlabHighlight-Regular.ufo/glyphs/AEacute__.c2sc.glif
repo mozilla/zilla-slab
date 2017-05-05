@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute.c2sc" format="1">
+  <advance width="773"/>
+  <outline>
+    <contour>
+      <point x="-12" y="-213" type="line"/>
+      <point x="785" y="-213" type="line"/>
+      <point x="785" y="917" type="line"/>
+      <point x="-12" y="917" type="line"/>
+      <point x="-12" y="56" type="line"/>
+      <point x="41" y="56" type="line"/>
+      <point x="255" y="465" type="line"/>
+      <point x="174" y="465" type="line"/>
+      <point x="174" y="521" type="line"/>
+      <point x="716" y="521" type="line"/>
+      <point x="733" y="376" type="line"/>
+      <point x="673" y="368" type="line"/>
+      <point x="656" y="465" type="line"/>
+      <point x="443" y="465" type="line"/>
+      <point x="443" y="292" type="line"/>
+      <point x="696" y="292" type="line"/>
+      <point x="696" y="237" type="line"/>
+      <point x="443" y="237" type="line"/>
+      <point x="443" y="56" type="line"/>
+      <point x="655" y="56" type="line"/>
+      <point x="673" y="154" type="line"/>
+      <point x="735" y="148" type="line"/>
+      <point x="716" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="306" y="56" type="line"/>
+      <point x="372" y="56" type="line"/>
+      <point x="372" y="148" type="line"/>
+      <point x="160" y="148" type="line"/>
+      <point x="113" y="56" type="line"/>
+      <point x="184" y="56" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="-12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="200" type="line"/>
+      <point x="186" y="200" type="line"/>
+      <point x="321" y="465" type="line"/>
+      <point x="372" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="570" type="line"/>
+      <point x="489" y="601" type="line"/>
+      <point x="643" y="733" type="line"/>
+      <point x="683" y="674" type="line"/>
+    </contour>
+  </outline>
+</glyph>

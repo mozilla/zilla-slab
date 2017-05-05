@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.smcp" format="1">
+  <advance width="428"/>
+  <outline>
+    <contour>
+      <point x="19" y="521" type="line"/>
+      <point x="19" y="336" type="line"/>
+      <point x="124" y="336" type="line"/>
+      <point x="124" y="424" type="line"/>
+      <point x="283" y="424" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="423" y="468" type="line"/>
+      <point x="408" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="917" type="line"/>
+      <point x="438" y="917" type="line"/>
+      <point x="438" y="-213" type="line"/>
+      <point x="-10" y="-213" type="line"/>
+    </contour>
+  </outline>
+</glyph>

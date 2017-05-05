@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron.smcp" format="1">
+  <advance width="514"/>
+  <outline>
+    <contour>
+      <point x="287" y="558" type="line"/>
+      <point x="242" y="558" type="line"/>
+      <point x="106" y="685" type="line"/>
+      <point x="140" y="734" type="line"/>
+      <point x="275" y="667" type="line"/>
+      <point x="387" y="735" type="line"/>
+      <point x="422" y="684" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="23" y="59" type="line"/>
+      <point x="286" y="422" type="line"/>
+      <point x="286" y="423" type="line"/>
+      <point x="160" y="423" type="line"/>
+      <point x="148" y="336" type="line"/>
+      <point x="34" y="346" type="line"/>
+      <point x="54" y="521" type="line"/>
+      <point x="476" y="521" type="line"/>
+      <point x="478" y="470" type="line"/>
+      <point x="210" y="99" type="line"/>
+      <point x="210" y="98" type="line"/>
+      <point x="363" y="98" type="line"/>
+      <point x="376" y="193" type="line"/>
+      <point x="489" y="183" type="line"/>
+      <point x="469" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="-213" type="line"/>
+      <point x="524" y="-213" type="line"/>
+      <point x="524" y="917" type="line"/>
+      <point x="-10" y="917" type="line"/>
+    </contour>
+  </outline>
+</glyph>

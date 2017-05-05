@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+  <advance width="579"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="324" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="57" type="line"/>
+      <point x="473" y="57" type="line"/>
+      <point x="473" y="388" type="line"/>
+      <point x="553" y="388" type="line"/>
+      <point x="553" y="445" type="line"/>
+      <point x="27" y="445" type="line"/>
+      <point x="27" y="388" type="line"/>
+      <point x="106" y="388" type="line"/>
+      <point x="106" y="57" type="line"/>
+      <point x="29" y="57" type="line"/>
+      <point x="29" y="0" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="254" y="57" type="line"/>
+      <point x="177" y="57" type="line"/>
+      <point x="177" y="388" type="line"/>
+      <point x="402" y="388" type="line"/>
+      <point x="402" y="57" type="line"/>
+      <point x="324" y="57" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="591" y="917" type="line"/>
+      <point x="591" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+    </contour>
+  </outline>
+</glyph>

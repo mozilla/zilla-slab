@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.cap" format="1">
+  <advance width="314"/>
+  <outline>
+    <contour>
+      <point x="274" y="812" type="curve"/>
+      <point x="227" y="812" type="line"/>
+      <point x="227" y="756"/>
+      <point x="206" y="740"/>
+      <point x="156" y="740" type="curve" smooth="yes"/>
+      <point x="111" y="740"/>
+      <point x="86" y="754"/>
+      <point x="86" y="812" type="curve"/>
+      <point x="39" y="812" type="line"/>
+      <point x="39" y="733"/>
+      <point x="77" y="700"/>
+      <point x="157" y="700" type="curve" smooth="yes"/>
+      <point x="236" y="700"/>
+      <point x="274" y="732"/>
+    </contour>
+  </outline>
+</glyph>
