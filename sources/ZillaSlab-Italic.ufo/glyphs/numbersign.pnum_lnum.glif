@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.pnum_lnum" format="1">
+  <advance width="570"/>
+  <outline>
+    <contour>
+      <point x="530" y="651" type="line"/>
+      <point x="477" y="473" type="line"/>
+      <point x="558" y="473" type="line"/>
+      <point x="551" y="416" type="line"/>
+      <point x="461" y="416" type="line"/>
+      <point x="412" y="252" type="line"/>
+      <point x="504" y="252" type="line"/>
+      <point x="498" y="195" type="line"/>
+      <point x="396" y="195" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="334" y="195" type="line"/>
+      <point x="161" y="195" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="100" y="195" type="line"/>
+      <point x="26" y="195" type="line"/>
+      <point x="32" y="252" type="line"/>
+      <point x="116" y="252" type="line"/>
+      <point x="164" y="416" type="line"/>
+      <point x="78" y="416" type="line"/>
+      <point x="85" y="473" type="line"/>
+      <point x="181" y="473" type="line"/>
+      <point x="233" y="651" type="line"/>
+      <point x="296" y="651" type="line"/>
+      <point x="243" y="473" type="line"/>
+      <point x="415" y="473" type="line"/>
+      <point x="467" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="252" type="line"/>
+      <point x="350" y="252" type="line"/>
+      <point x="398" y="416" type="line"/>
+      <point x="227" y="416" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

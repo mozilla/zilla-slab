@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.pnum_lnum" format="1">
+  <advance width="553"/>
+  <outline>
+    <contour>
+      <point x="530" y="253" type="line"/>
+      <point x="430" y="253" type="line"/>
+      <point x="430" y="651" type="line"/>
+      <point x="223" y="651" type="line"/>
+      <point x="11" y="253" type="line"/>
+      <point x="23" y="161" type="line"/>
+      <point x="319" y="161" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="430" y="161" type="line"/>
+      <point x="521" y="161" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="253" type="line"/>
+      <point x="118" y="253" type="line"/>
+      <point x="277" y="556" type="line"/>
+      <point x="319" y="556" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

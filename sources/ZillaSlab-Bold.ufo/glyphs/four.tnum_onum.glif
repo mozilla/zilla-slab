@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tnum_onum" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="466" y="-130" type="line"/>
+      <point x="466" y="29" type="line"/>
+      <point x="554" y="29" type="line"/>
+      <point x="564" y="140" type="line"/>
+      <point x="466" y="140" type="line"/>
+      <point x="466" y="521" type="line"/>
+      <point x="228" y="521" type="line"/>
+      <point x="30" y="140" type="line"/>
+      <point x="44" y="29" type="line"/>
+      <point x="332" y="29" type="line"/>
+      <point x="332" y="-130" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="140" type="line"/>
+      <point x="158" y="140" type="line"/>
+      <point x="294" y="407" type="line"/>
+      <point x="332" y="407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

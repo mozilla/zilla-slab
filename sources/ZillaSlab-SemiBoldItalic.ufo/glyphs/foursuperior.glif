@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="1">
+  <advance width="356"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="208" y="415" type="line"/>
+      <point x="290" y="415" type="line"/>
+      <point x="299" y="507" type="line"/>
+      <point x="352" y="507" type="line"/>
+      <point x="365" y="565" type="line"/>
+      <point x="305" y="565" type="line"/>
+      <point x="328" y="779" type="line"/>
+      <point x="183" y="779" type="line"/>
+      <point x="48" y="568" type="line"/>
+      <point x="50" y="507" type="line"/>
+      <point x="217" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="715" type="line"/>
+      <point x="239" y="715" type="line"/>
+      <point x="223" y="565" type="line"/>
+      <point x="118" y="565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

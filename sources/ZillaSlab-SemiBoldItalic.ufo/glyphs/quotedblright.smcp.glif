@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright.smcp" format="1">
+  <advance width="391"/>
+  <outline>
+    <contour>
+      <point x="41" y="322" type="line"/>
+      <point x="144" y="322" type="line"/>
+      <point x="224" y="550" type="line"/>
+      <point x="122" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="322" type="line"/>
+      <point x="312" y="322" type="line"/>
+      <point x="392" y="550" type="line"/>
+      <point x="290" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

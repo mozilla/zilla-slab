@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="1">
+  <advance width="613"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="610" y="586" type="line"/>
+      <point x="610" y="650" type="line"/>
+      <point x="382" y="650" type="line"/>
+      <point x="382" y="586" type="line"/>
+      <point x="472" y="586" type="line"/>
+      <point x="313" y="316" type="line"/>
+      <point x="308" y="316" type="line"/>
+      <point x="144" y="586" type="line"/>
+      <point x="233" y="586" type="line"/>
+      <point x="233" y="650" type="line"/>
+      <point x="-4" y="650" type="line"/>
+      <point x="-4" y="586" type="line"/>
+      <point x="60" y="586" type="line"/>
+      <point x="271" y="249" type="line"/>
+      <point x="271" y="64" type="line"/>
+      <point x="159" y="64" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="458" y="64" type="line"/>
+      <point x="344" y="64" type="line"/>
+      <point x="344" y="248" type="line"/>
+      <point x="546" y="586" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="718" type="line"/>
+      <point x="263" y="718" type="line"/>
+      <point x="263" y="803" type="line"/>
+      <point x="182" y="803" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="718" type="line"/>
+      <point x="434" y="718" type="line"/>
+      <point x="434" y="803" type="line"/>
+      <point x="354" y="803" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

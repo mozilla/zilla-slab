@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="395"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="13" y="436" type="line"/>
+      <point x="139" y="436" type="line"/>
+      <point x="199" y="670" type="line"/>
+      <point x="73" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="436" type="line"/>
+      <point x="315" y="436" type="line"/>
+      <point x="375" y="670" type="line"/>
+      <point x="249" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

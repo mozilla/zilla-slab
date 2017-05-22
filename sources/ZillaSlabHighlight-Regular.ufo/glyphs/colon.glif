@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="219"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="63" y="337" type="line"/>
+      <point x="157" y="337" type="line"/>
+      <point x="157" y="445" type="line"/>
+      <point x="63" y="445" type="line"/>
+    </contour>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="108" type="line"/>
+      <point x="63" y="108" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="231" y="917" type="line"/>
+      <point x="231" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

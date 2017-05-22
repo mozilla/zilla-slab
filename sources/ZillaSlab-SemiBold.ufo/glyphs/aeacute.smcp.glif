@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aeacute.smcp" format="1">
+  <advance width="797"/>
+  <outline>
+    <contour>
+      <point x="698" y="659" type="line"/>
+      <point x="641" y="743" type="line"/>
+      <point x="482" y="605" type="line"/>
+      <point x="511" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="747" y="0" type="line"/>
+      <point x="765" y="150" type="line"/>
+      <point x="672" y="159" type="line"/>
+      <point x="659" y="82" type="line"/>
+      <point x="488" y="82" type="line"/>
+      <point x="488" y="222" type="line"/>
+      <point x="722" y="222" type="line"/>
+      <point x="722" y="303" type="line"/>
+      <point x="488" y="303" type="line"/>
+      <point x="488" y="439" type="line"/>
+      <point x="660" y="439" type="line"/>
+      <point x="673" y="363" type="line"/>
+      <point x="764" y="373" type="line"/>
+      <point x="747" y="521" type="line"/>
+      <point x="172" y="521" type="line"/>
+      <point x="172" y="439" type="line"/>
+      <point x="245" y="439" type="line"/>
+      <point x="57" y="82" type="line"/>
+      <point x="6" y="82" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="82" type="line"/>
+      <point x="167" y="82" type="line"/>
+      <point x="197" y="145" type="line"/>
+      <point x="382" y="145" type="line"/>
+      <point x="382" y="82" type="line"/>
+      <point x="322" y="82" type="line"/>
+      <point x="322" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="215" type="line"/>
+      <point x="232" y="215" type="line"/>
+      <point x="343" y="439" type="line"/>
+      <point x="382" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

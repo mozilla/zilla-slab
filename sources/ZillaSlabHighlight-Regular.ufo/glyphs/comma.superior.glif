@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma.superior" format="1">
+  <advance width="170"/>
+  <outline>
+    <contour>
+      <point x="28" y="351" type="line"/>
+      <point x="86" y="351" type="line"/>
+      <point x="123" y="494" type="line"/>
+      <point x="66" y="494" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="182" y="917" type="line"/>
+      <point x="182" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

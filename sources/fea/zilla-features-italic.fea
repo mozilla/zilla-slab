@@ -1,0 +1,605 @@
+
+@figures = [ zero one two three four five six seven eight nine ];
+@denominators = [ zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior ];
+@numerators = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr  ];
+
+
+@ZERO = [ zero zero.zero zero.tnum_lnum zero.tnum_onum zero.pnum_lnum zeroinferior zerosuperior zero.numr zero.tnum_lnum_zero zero.tnum_onum_zero zero.pnum_lnum_zero zero.smcp zero.smcp_zero ];
+@ONE = [ one  one.tnum_lnum one.tnum_onum one.pnum_lnum oneinferior onesuperior one.numr one.smcp];
+@TWO = [ two  two.tnum_lnum two.tnum_onum two.pnum_lnum twoinferior twosuperior two.numr two.smcp];
+@THREE = [ three  three.tnum_lnum three.tnum_onum three.pnum_lnum threeinferior threesuperior three.numr three.smcp ];
+@FOUR = [ four  four.tnum_lnum four.tnum_onum four.pnum_lnum fourinferior foursuperior four.numr four.smcp];
+@FIVE = [ five  five.tnum_lnum five.tnum_onum five.pnum_lnum fiveinferior fivesuperior five.numr five.smcp];
+@SIX = [ six  six.tnum_lnum six.tnum_onum six.pnum_lnum sixinferior sixsuperior six.numr six.smcp];
+@SEVEN = [ seven  seven.tnum_lnum seven.tnum_onum seven.pnum_lnum seveninferior sevensuperior seven.numr seven.smcp];
+@EIGHT = [ eight  eight.tnum_lnum eight.tnum_onum eight.pnum_lnum eightinferior eightsuperior eight.numr eight.smcp];
+@NINE = [ nine  nine.tnum_lnum nine.tnum_onum nine.pnum_lnum nineinferior ninesuperior nine.numr nine.smcp];
+
+@FIGURES = [ @ZERO @ONE @TWO @THREE @FOUR @FIVE @SIX @SEVEN @EIGHT @NINE ];
+
+@FIG_SUPERIOR = [ zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior ];
+@FIG_INFERIOR = [ zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior ];
+@FIG_NUMR = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr ];
+
+@SLASH = [ fraction slash ];
+@PREBUILT = [ twothirds threequarters onethird onequarter onehalf uni215B threesup_fraction_eightinf fivesup_fraction_eightinf sevensup_fraction_eightinf ];
+
+@LETTERS_HAVING_SUPERIOR = [ a b c d e f g h i j k l m n o p q r s t u v w x y z egrave eacute ];
+@LETTERS_SUPERIOR = [ a.superior b.superior c.superior d.superior e.superior f.superior g.superior h.superior i.superior j.superior k.superior l.superior m.superior n.superior o.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior w.superior x.superior y.superior z.superior egrave.superior eacute.superior ];
+@LETTERS_HAVING_INFERIOR = [ a b c d e f g h i j k l m n o p q r s t u v w x y z egrave eacute ];
+@LETTERS_INFERIOR = [ a.inferior b.inferior c.inferior d.inferior e.inferior f.inferior g.inferior h.inferior i.inferior j.inferior k.inferior l.inferior m.inferior n.inferior o.inferior p.inferior q.inferior r.inferior s.inferior t.inferior u.inferior v.inferior w.inferior x.inferior y.inferior z.inferior egrave.inferior eacute.inferior ];
+
+@OTHER_SUPERIOR = [ period.superior comma.superior parenleftsuperior parenrightsuperior dollar.superior cent.superior plussuperior ];
+@OTHER_INFERIOR = [ period.inferior comma.inferior parenleft.inferior parenright.inferior dollar.inferior cent.inferior plus.inferior ];
+@OTHER_HAVING_SUPERIOR = [ period comma parenleft parenright dollar cent plus ];
+@OTHER_HAVING_INFERIOR = [ period comma parenleft parenright dollar cent plus ];
+
+@ALL_CURRENCY = [  Euro mill lira colonsign cruzeiro dong franc naira pesetas rupee sheqel won uni20AD uni20AE uni20B1 sterling dollar florin cent yen ];
+
+@CURRENCY_DEFAULT =[numbersign percent perthousand uni2116 copyright uni2117 uni267E uni24CA Euro dollar cent sterling florin yen uni20B9];
+@CURRENCY_PNUM_LNUM =[numbersign.pnum_lnum percent.pnum_lnum perthousand.pnum_lnum uni2116.pnum_lnum copyright.pnum_lnum uni2117.pnum_lnum uni267E.pnum_lnum uni24CA.pnum_lnum Euro.pnum_lnum dollar.pnum_lnum cent.pnum_lnum sterling.pnum_lnum florin.pnum_lnum yen.pnum_lnum uni20B9.pnum_lnum];
+
+@PUNCT_DEFAULT = [ uni301A uni301B dblparenleft dblparenright hyphen endash emdash parenleft parenright bracketleft bracketright guilsinglleft guilsinglright guillemotleft guillemotright braceleft braceright exclamdown questiondown ];
+@PUNCT_CAP = [ uni301A.cap uni301B.cap dblparenleft.cap dblparenright.cap hyphen.cap endash.cap emdash.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap guilsinglleft.cap guilsinglright.cap guillemotleft.cap guillemotright.cap braceleft.cap braceright.cap exclamdown.cap questiondown.cap ];
+
+@FIG_DEFAULT = [ zero one two three four five six seven eight nine ];
+@FIG_TNUM_LNUM = [ zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum ];
+@FIG_PNUM_LNUM = [ zero.pnum_lnum one.pnum_lnum two.pnum_lnum three.pnum_lnum four.pnum_lnum five.pnum_lnum six.pnum_lnum seven.pnum_lnum eight.pnum_lnum nine.pnum_lnum ];
+@FIG_TNUM_ONUM = [ zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum ];
+
+@PUNCT_HAVING_SUPERIOR = [ plus minus equal multiply divide dollar comma period parenleft parenright cent ];
+@PUNCT_SUPERIOR = [ plussuperior minussuperior equalsuperior multiplysuperior dividesuperior dollar.superior comma.superior period.superior parenleftsuperior parenrightsuperior cent.superior ];
+@PUNCT_INFERIOR = [ plus.inferior minus.inferior equal.inferior multiplyinferior divideinferior dollar.inferior comma.inferior period.inferior parenleft.inferior parenright.inferior cent.inferior ];
+@PUNCT_HAVING_INFERIOR = [ plus minus equal multiply divide dollar comma period parenleft parenright cent ];
+
+
+@LOWER_HAVING_SC = [n a b c d e f g h i j k l m o p q r s t u v w x y z ae oe eth aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde cacute ccaron ccedilla ccircumflex cdotaccent dcaron dcroat eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek uni1EBD gbreve gcircumflex gcommaaccent gdotaccent hbar hcircumflex iacute ibreve icircumflex idieresis igrave imacron iogonek itilde ij iacute_jacute jcircumflex kcommaaccent lacute lcaron lcommaaccent ldot lslash nacute napostrophe ncaron ncommaaccent ntilde uni1E47 eng oacute obreve ocircumflex odieresis ograve otilde ohungarumlaut oslash oslashacute omacron racute rcaron rcommaaccent sacute scaron scedilla scircumflex scommaaccent uni1E63 tbar tcaron tcommaaccent thorn uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde uni01D4 wacute wcircumflex wdieresis wgrave yacute ycircumflex ydieresis ygrave zacute zcaron zdotaccent aeacute germandbls uni01C6 uni01C9 uni01CC uni01F3 uni01C5 uni01C8 uni01CB uni01F2 fi fl aemacron schwa ymacron ];
+@LOWER_SC = [n.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp ae.smcp oe.smcp eth.smcp aacute.smcp abreve.smcp acircumflex.smcp adieresis.smcp agrave.smcp amacron.smcp aogonek.smcp aring.smcp atilde.smcp cacute.smcp ccaron.smcp ccedilla.smcp ccircumflex.smcp cdotaccent.smcp dcaron.smcp dcroat.smcp eacute.smcp ebreve.smcp ecaron.smcp ecircumflex.smcp edieresis.smcp edotaccent.smcp egrave.smcp emacron.smcp eogonek.smcp uni1EBD.smcp gbreve.smcp gcircumflex.smcp gcommaaccent.smcp gdotaccent.smcp hbar.smcp hcircumflex.smcp iacute.smcp ibreve.smcp icircumflex.smcp idieresis.smcp igrave.smcp imacron.smcp iogonek.smcp itilde.smcp ij.smcp iacute_jacute.smcp jcircumflex.smcp kcommaaccent.smcp lacute.smcp lcaron.smcp lcommaaccent.smcp ldot.smcp lslash.smcp nacute.smcp napostrophe.smcp ncaron.smcp ncommaaccent.smcp ntilde.smcp uni1E47.smcp eng.smcp oacute.smcp obreve.smcp ocircumflex.smcp odieresis.smcp ograve.smcp otilde.smcp ohungarumlaut.smcp oslash.smcp oslashacute.smcp omacron.smcp racute.smcp rcaron.smcp rcommaaccent.smcp sacute.smcp scaron.smcp scedilla.smcp scircumflex.smcp scommaaccent.smcp uni1E63.smcp tbar.smcp tcaron.smcp tcommaaccent.smcp thorn.smcp uacute.smcp ubreve.smcp ucircumflex.smcp udieresis.smcp ugrave.smcp uhungarumlaut.smcp umacron.smcp uogonek.smcp uring.smcp utilde.smcp uni01D4.smcp wacute.smcp wcircumflex.smcp wdieresis.smcp wgrave.smcp yacute.smcp ycircumflex.smcp ydieresis.smcp ygrave.smcp zacute.smcp zcaron.smcp zdotaccent.smcp aeacute.smcp germandbls.smcp uni01C6.smcp uni01C9.smcp uni01CC.smcp uni01F3.smcp uni01C5.smcp uni01C8.smcp uni01CB.smcp uni01F2.smcp fi.smcp fl.smcp aemacron.smcp schwa.smcp ymacron.smcp ];
+@CAPITALS_HAVING_SC = [uni01C5 uni01C8 uni01CB uni01F2 uni01C4 uni01C7 uni01CA uni01F1 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE OE Eth Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek uni1EBC Gbreve Gcircumflex Gcommaaccent Gdotaccent Hbar Hcircumflex Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde IJ Kcommaaccent Lacute Lcaron Lcommaaccent Ldot Lslash Nacute Jcircumflex Ncaron Ncommaaccent Ntilde uni1E46 Eng Oacute Obreve Ocircumflex Odieresis Ograve Otilde Ohungarumlaut Oslash Oslashacute Omacron Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 Tbar Tcaron Tcommaaccent Thorn Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde uni01D3 Wacute Wcircumflex Wdieresis Wgrave Ymacron Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent AEacute AEmacron uni018F ];
+@CAPITALS_SC = [uni01C5.c2sc uni01C8.c2sc uni01CB.c2sc uni01F2.c2sc uni01C4.c2sc uni01C7.c2sc uni01CA.c2sc uni01F1.c2sc A.c2sc B.c2sc C.c2sc D.c2sc E.c2sc F.c2sc G.c2sc H.c2sc I.c2sc J.c2sc K.c2sc L.c2sc M.c2sc N.c2sc O.c2sc P.c2sc Q.c2sc R.c2sc S.c2sc T.c2sc U.c2sc V.c2sc W.c2sc X.c2sc Y.c2sc Z.c2sc AE.c2sc OE.c2sc Eth.c2sc Aacute.c2sc Abreve.c2sc Acircumflex.c2sc Adieresis.c2sc Agrave.c2sc Amacron.c2sc Aogonek.c2sc Aring.c2sc Atilde.c2sc Cacute.c2sc Ccaron.c2sc Ccedilla.c2sc Ccircumflex.c2sc Cdotaccent.c2sc Dcaron.c2sc Dcroat.c2sc Eacute.c2sc Ebreve.c2sc Ecaron.c2sc Ecircumflex.c2sc Edieresis.c2sc Edotaccent.c2sc Egrave.c2sc Emacron.c2sc Eogonek.c2sc uni1EBC.c2sc Gbreve.c2sc Gcircumflex.c2sc Gcommaaccent.c2sc Gdotaccent.c2sc Hbar.c2sc Hcircumflex.c2sc Iacute.c2sc Ibreve.c2sc Icircumflex.c2sc Idieresis.c2sc Idotaccent.c2sc Igrave.c2sc Imacron.c2sc Iogonek.c2sc Itilde.c2sc IJ.c2sc Kcommaaccent.c2sc Lacute.c2sc Lcaron.c2sc Lcommaaccent.c2sc Ldot.c2sc Lslash.c2sc Nacute.c2sc Jcircumflex.c2sc Ncaron.c2sc Ncommaaccent.c2sc Ntilde.c2sc uni1E46.c2sc Eng.c2sc Oacute.c2sc Obreve.c2sc Ocircumflex.c2sc Odieresis.c2sc Ograve.c2sc Otilde.c2sc Ohungarumlaut.c2sc Oslash.c2sc Oslashacute.c2sc Omacron.c2sc Racute.c2sc Rcaron.c2sc Rcommaaccent.c2sc Sacute.c2sc Scaron.c2sc Scedilla.c2sc Scircumflex.c2sc Scommaaccent.c2sc uni1E62.c2sc Tbar.c2sc Tcaron.c2sc Tcommaaccent.c2sc Thorn.c2sc Uacute.c2sc Ubreve.c2sc Ucircumflex.c2sc Udieresis.c2sc Ugrave.c2sc Uhungarumlaut.c2sc Umacron.c2sc Uogonek.c2sc Uring.c2sc Utilde.c2sc uni01D3.c2sc Wacute.c2sc Wcircumflex.c2sc Wdieresis.c2sc Wgrave.c2sc Ymacron.c2sc Yacute.c2sc Ycircumflex.c2sc Ydieresis.c2sc Ygrave.c2sc Zacute.c2sc Zcaron.c2sc Zdotaccent.c2sc AEacute.c2sc AEmacron.c2sc uni018F.c2sc ];
+@FIG_SMCP = [ zero.smcp_zero zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp ];
+@FIG_HAVING_SMCP = [ zero.zero zero one two three four five six seven eight nine ];
+@SC_EXTRAS = [ parenleft.smcp parenright.smcp bracketleft.smcp bracketright.smcp braceleft.smcp bar.smcp braceright.smcp quotesingle.smcp quotedbl.smcp asterisk.smcp question.smcp questiondown.smcp exclam.smcp exclamdown.smcp slash.smcp backslash.smcp paragraph.smcp periodcentered.smcp quotedblleft.smcp quotedblright.smcp quoteleft.smcp quoteright.smcp ampersand.smcp ordfeminine.smcp uni203D.smcp ];
+@SC_HAVING_EXTRAS = [ parenleft parenright bracketleft bracketright braceleft bar braceright quotesingle quotedbl asterisk question questiondown exclam exclamdown slash backslash paragraph periodcentered quotedblleft quotedblright quoteleft quoteright ampersand ordfeminine uni203D ];
+
+@ORNAMENTS = [ apple arrowleft arrowright arrowdown arrowup uni2196 uni2197 uni2198 uni2199 uni2610 uni2611 uni2713 uni2012 uni261C uni261D uni261E uni261F uni261A uni261B ];
+
+@PARENLEFT = [ parenleft parenleft.cap ];
+@PARENRIGHT = [ parenright parenright.cap ];
+@BRACKETLEFT = [ bracketleft bracketleft.cap ];
+@BRACKETRIGHT = [ bracketright bracketright.cap ];
+
+#---------------------------------------
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn DEU;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn SRB;
+languagesystem latn TRK;
+
+#----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature aalt {
+    feature case;
+    feature c2sc;
+    feature lnum;
+    feature smcp;
+    feature sups;
+    feature sinf;
+    feature zero;
+    feature pnum;
+    feature tnum;
+    feature onum;
+	feature liga;
+	feature case;
+	feature ornm;
+	feature numr;
+	feature dnom;
+	feature zero;
+    sub hyphen from [ endash emdash minus ];
+    sub period from [ ellipsis ];
+} aalt;
+
+
+
+
+
+#---------------------------------------
+# Localized Forms
+#---------------------------------------
+
+feature locl { # Localized Forms
+	script latn;
+		language MOL  exclude_dflt; # Moldavian
+			sub [Scedilla scedilla Tcommaaccent tcommaaccent] by [Scommaaccent scommaaccent uni021A uni021B];
+		language ROM  exclude_dflt; # Romanian
+			sub [Scedilla scedilla Tcommaaccent tcommaaccent] by [Scommaaccent scommaaccent uni021A uni021B];
+		language TRK exclude_dflt;
+			sub i by i.TRK;
+		language AZE exclude_dflt;
+			sub i by i.TRK;
+		language CRT exclude_dflt;
+			sub i by i.TRK;
+} locl;
+
+
+
+
+#---------------------------------------
+# Fractions
+#---------------------------------------
+
+# Tal Leming FRAC code
+# 1 OCR 2009
+# http://talleming.com/2009/10/01/fraction-fever-2/
+
+feature frac {
+   lookup FractionBar {
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures slash;
+        ignore sub slash @figures @figures slash';
+        ignore sub slash' @figures @figures slash;
+        ignore sub slash @figures slash';
+        ignore sub slash' @figures slash;
+        sub @figures slash' @figures by fraction;
+   } FractionBar;
+
+   lookup Numerator1 {
+        sub @figures' fraction by @numerators;
+   } Numerator1;
+
+   lookup Numerator2 {
+        sub @figures' @numerators fraction by @numerators;
+   } Numerator2;
+
+   lookup Numerator3 {
+        sub @figures' @numerators @numerators fraction by @numerators;
+   } Numerator3;
+
+   lookup Numerator4 {
+        sub @figures' @numerators @numerators @numerators fraction by @numerators;
+   } Numerator4;
+
+   lookup Numerator5 {
+        sub @figures' @numerators @numerators @numerators @numerators fraction by @numerators;
+   } Numerator5;
+
+   lookup Numerator6 {
+        sub @figures' @numerators @numerators @numerators @numerators @numerators fraction by @numerators;
+   } Numerator6;
+
+   lookup Numerator7 {
+        sub @figures' @numerators @numerators @numerators @numerators @numerators @numerators fraction by @numerators;
+   } Numerator7;
+
+   lookup Numerator8 {
+        sub @figures' @numerators @numerators @numerators @numerators @numerators @numerators @numerators fraction by @numerators;
+   } Numerator8;
+
+   lookup Numerator9 {
+        sub @figures' @numerators @numerators @numerators @numerators @numerators @numerators @numerators @numerators fraction by @numerators;
+   } Numerator9;
+
+   lookup Numerator10 {
+        sub @figures' @numerators @numerators @numerators @numerators @numerators @numerators @numerators @numerators @numerators fraction by @numerators;
+   } Numerator10;
+
+   lookup Denominator {
+        sub [fraction @denominators] @figures' by @denominators;
+   } Denominator;
+
+   sub @figures space' @numerators by uni200A;
+
+} frac;
+
+
+
+
+
+#---------------------------------------
+# Small Capitals
+#---------------------------------------
+
+feature smcp {
+
+	script latn;
+		language dflt;
+			lookup SMCP_ALL {
+				sub @LOWER_HAVING_SC by @LOWER_SC;
+				sub dotlessi by i.smcp;
+				sub @FIG_TNUM_LNUM by @FIG_TNUM_ONUM;
+				sub @FIG_PNUM_LNUM by @FIG_DEFAULT;
+				sub @CURRENCY_PNUM_LNUM by @CURRENCY_DEFAULT;
+				sub zero.pnum_lnum_zero by zero.zero;
+				sub zero.tnum_lnum_zero by zero.tnum_lnum;
+			} SMCP_ALL;
+			lookup SMCP_ITRK {
+				sub i.TRK by idotaccent.smcp;
+			} SMCP_ITRK;
+
+		language DEU include_dflt;
+		language MOL include_dflt;
+		language ROM include_dflt;
+		language AZE include_dflt;
+		language CRT include_dflt;
+		language TRK include_dflt;
+	
+} smcp;
+
+
+
+
+#---------------------------------------
+# Small Capitals From Capitals
+#---------------------------------------
+
+feature c2sc {
+	script latn;
+		language dflt;
+			lookup C2SC_ALL {
+				sub @CAPITALS_HAVING_SC by @CAPITALS_SC;
+				sub @SC_HAVING_EXTRAS by @SC_EXTRAS;
+				sub @FIG_HAVING_SMCP by @FIG_SMCP;
+			} C2SC_ALL;
+
+		language DEU include_dflt;
+		language MOL include_dflt;
+		language ROM include_dflt;
+		language AZE include_dflt;
+		language CRT include_dflt;
+		language TRK include_dflt;
+
+				
+} c2sc;
+
+
+
+
+#---------------------------------------
+# Discretionary Ligatures
+#---------------------------------------
+
+feature ordn {
+    sub @FIGURES a' by ordfeminine;
+    sub @FIGURES o' by ordmasculine;
+    sub @FIGURES period a' by ordfeminine;
+    sub @FIGURES period o' by ordmasculine;
+    sub @ONE s' t by s.superior;
+    sub @ONE s.superior t' by t.superior;
+    sub @TWO n' d by n.superior;
+    sub @TWO n.superior d' by d.superior;
+    sub @THREE r' d by r.superior;
+    sub @THREE r.superior d' by d.superior;
+    sub @FIGURES t' h by t.superior;
+    sub @FIGURES t.superior h' by h.superior; 
+    sub [N n] [O o] by uni2116;
+} ordn;
+
+
+
+
+
+#---------------------------------------
+# Oldstyle Figures
+#---------------------------------------
+
+feature onum {
+    sub @FIG_PNUM_LNUM by @FIG_DEFAULT;
+	sub @FIG_TNUM_LNUM by @FIG_TNUM_ONUM; 
+	sub @CURRENCY_PNUM_LNUM by @CURRENCY_DEFAULT;      
+    sub @PUNCT_CAP by @PUNCT_DEFAULT;  
+	sub zero.pnum_lnum_zero by zero.zero;
+} onum;
+
+
+
+	
+
+#---------------------------------------
+# Lining Figures
+#---------------------------------------
+
+feature lnum {
+    sub @FIG_DEFAULT by @FIG_PNUM_LNUM;    
+    sub @FIG_TNUM_ONUM by @FIG_TNUM_LNUM;    
+    sub @CURRENCY_DEFAULT by @CURRENCY_PNUM_LNUM;
+	sub @PUNCT_DEFAULT by @PUNCT_CAP;  
+    sub zero.pnum_lnum_zero by zero.zero;
+} lnum;
+
+	
+	
+
+#---------------------------------------
+# Proportional Figures
+#---------------------------------------
+
+feature pnum {
+    sub @FIG_TNUM_LNUM by @FIG_PNUM_LNUM;
+    sub @FIG_TNUM_ONUM by @FIG_DEFAULT;
+} pnum;
+
+
+
+
+#---------------------------------------
+# Tabular Figures
+#---------------------------------------
+
+feature tnum {
+		sub @FIG_DEFAULT by @FIG_TNUM_ONUM;
+		sub @FIG_PNUM_LNUM by @FIG_TNUM_LNUM;
+} tnum;
+
+
+
+
+#---------------------------------------
+# Stylistic Set 1
+#---------------------------------------
+# double brackets
+
+feature sups {
+
+	script latn;
+		language dflt;
+			lookup SUPS_DFLT {
+				sub i by i.superior;
+			} SUPS_DFLT;
+
+			lookup SUPS_ALL {
+				sub @FIG_DEFAULT by @FIG_SUPERIOR;
+				sub @FIG_NUMR by @FIG_SUPERIOR;
+				sub @FIG_TNUM_LNUM by @FIG_SUPERIOR;
+				sub @FIG_PNUM_LNUM by @FIG_SUPERIOR;
+				sub @FIG_TNUM_ONUM by @FIG_SUPERIOR;
+				sub @FIG_INFERIOR by @FIG_SUPERIOR;
+				sub [zero.zero zero.pnum_lnum_zero] by zerosuperior;
+				sub @LETTERS_HAVING_SUPERIOR by @LETTERS_SUPERIOR;
+				sub @PUNCT_HAVING_SUPERIOR by @PUNCT_SUPERIOR;
+				sub @PUNCT_INFERIOR by @PUNCT_SUPERIOR;
+				sub parenleft.cap by parenleftsuperior;
+				sub parenright.cap by parenrightsuperior;
+				sub [hyphen hyphen.cap] by minussuperior;
+			} SUPS_ALL;
+			
+		language DEU include_dflt;
+		language MOL include_dflt;
+		language ROM include_dflt;
+		language AZE include_dflt;
+		language CRT include_dflt;
+		language TRK include_dflt;
+} sups;
+
+
+
+
+
+#---------------------------------------
+# Scientific Inferiors
+#---------------------------------------
+
+feature sinf {
+	
+	script latn;
+		language dflt;
+			lookup SINF_DFLT {
+				sub i by i.inferior;
+			} SINF_DFLT;
+	
+			lookup SINF_ALL {	sub @FIG_DEFAULT by @FIG_INFERIOR;
+				sub @FIG_TNUM_LNUM by @FIG_INFERIOR;
+				sub @FIG_PNUM_LNUM by @FIG_INFERIOR;
+				sub @FIG_TNUM_ONUM by @FIG_INFERIOR;
+				sub @FIG_INFERIOR by @FIG_INFERIOR;
+				sub [zero.zero zero.pnum_lnum_zero] by zeroinferior;
+				sub @LETTERS_HAVING_INFERIOR by @LETTERS_INFERIOR;
+				sub @PUNCT_HAVING_INFERIOR by @PUNCT_INFERIOR;
+				sub @PUNCT_SUPERIOR by @PUNCT_INFERIOR;
+				sub parenleft.cap by parenleft.inferior;
+				sub parenright.cap by parenright.inferior;
+				sub [hyphen hyphen.cap] by minus.inferior;
+			} SINF_ALL;
+			
+		language DEU include_dflt;
+		language MOL include_dflt;
+		language ROM include_dflt;
+		language AZE include_dflt;
+		language CRT include_dflt;
+		language TRK include_dflt;
+} sinf;
+
+
+
+
+
+#---------------------------------------
+# Denominators
+#---------------------------------------
+
+feature dnom {
+	sub @FIG_DEFAULT by @FIG_INFERIOR;
+	sub @FIG_TNUM_LNUM by @FIG_INFERIOR;
+	sub @FIG_PNUM_LNUM by @FIG_INFERIOR;
+	sub @FIG_TNUM_ONUM by @FIG_INFERIOR;
+	sub @FIG_SUPERIOR by @FIG_INFERIOR;
+	sub [zero.zero zero.pnum_lnum_zero] by zeroinferior;
+	sub slash by fraction;
+	sub @OTHER_HAVING_INFERIOR by @OTHER_INFERIOR;
+	sub @OTHER_SUPERIOR by @OTHER_INFERIOR;
+} dnom;
+
+
+
+
+#---------------------------------------
+# Numerators
+#---------------------------------------
+
+feature numr {
+	sub @FIG_DEFAULT by @FIG_NUMR;
+	sub @FIG_TNUM_LNUM by @FIG_NUMR;
+	sub @FIG_PNUM_LNUM by @FIG_NUMR;
+	sub @FIG_TNUM_ONUM by @FIG_NUMR;
+	sub @FIG_INFERIOR by @FIG_NUMR;
+	sub [zero.zero zero.pnum_lnum_zero] by zero.numr;
+	sub slash by fraction;
+	sub @OTHER_HAVING_SUPERIOR by @OTHER_SUPERIOR;
+	sub @OTHER_SUPERIOR by @OTHER_SUPERIOR;
+} numr;
+
+
+
+
+
+#---------------------------------------
+# Standard Ligatures
+#---------------------------------------
+
+feature liga {
+    script latn;
+        language dflt;
+        
+            lookup FI_LIGS {
+                sub f f i by f_f_i;
+                sub f i by fi;
+            } FI_LIGS;
+            
+            lookup NOFI {
+            sub f f l by f_f_l;
+            sub f f j by f_f_j;
+            sub f j by f_j;
+            sub f l by fl;
+            sub f f by f_f;
+            sub f k by f_k;
+            sub f h by f_h;
+            sub f b by f_b;
+            sub f igrave by f_igrave;
+            sub f idieresis by f_idieresis;
+            #sub m o z i l l a by logo;
+            #sub M o z i l l a by logo;
+            #sub m o z colon l l a by logo;
+            #sub m o z colon slash slash a by logo;
+            #sub m o z i slash slash a by logo;
+            
+      
+            } NOFI;
+
+        language SRB include_dflt;
+        language MOL include_dflt;
+        language ROM include_dflt;
+
+        language DEU exclude_dflt;
+
+        language AZE exclude_dflt;
+        lookup NOFI;
+        language CRT exclude_dflt;
+        lookup NOFI;
+        language TRK exclude_dflt;
+        lookup NOFI;
+
+        script cyrl;
+        lookup FI_LIGS;
+        lookup NOFI;
+        
+        script grek;
+        lookup FI_LIGS;
+        lookup NOFI;
+} liga;
+
+
+
+
+
+#---------------------------------------
+# Case-Sensitive Forms
+#---------------------------------------
+
+feature case {
+	sub @FIG_DEFAULT by @FIG_PNUM_LNUM;
+	sub @FIG_TNUM_ONUM by @FIG_TNUM_LNUM;
+	sub @CURRENCY_DEFAULT by @CURRENCY_PNUM_LNUM;	
+	sub @PUNCT_DEFAULT by @PUNCT_CAP;
+	sub zero.zero by zero.pnum_lnum_zero;
+	} case;
+
+
+
+
+#---------------------------------------
+# Ornaments
+#---------------------------------------
+
+feature ornm {
+	sub bullet from @ORNAMENTS;
+} ornm;
+
+
+
+
+#---------------------------------------
+# Slashed Zero
+#---------------------------------------
+
+feature zero {
+	language dflt;
+	lookup zero_dflt {
+		sub zero by zero.zero;
+		sub zero.pnum_lnum by zero.pnum_lnum_zero;
+		sub zero.tnum_lnum by zero.tnum_lnum_zero;
+		sub zero.tnum_onum by zero.tnum_onum_zero;
+		sub zero.smcp by zero.smcp_zero;
+		} zero_dflt;
+	script cyrl;
+	lookup zero_dflt;
+	script grek;
+	lookup zero_dflt;
+} zero;
+
+
+
+
+#---------------------------------------
+# Currency (discontinued)
+#---------------------------------------
+
+feature crcy {
+	sub currency from @ALL_CURRENCY;
+} crcy;
+
+
+
+
+#---------------------------------------
+# Stylistic Set 3
+#---------------------------------------
+# Serbian
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute" format="1">
+  <advance width="912"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <contour>
+      <point x="828" y="727" type="line"/>
+      <point x="805" y="826" type="line"/>
+      <point x="601" y="743" type="line"/>
+      <point x="613" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="830" y="0" type="line"/>
+      <point x="869" y="188" type="line"/>
+      <point x="779" y="196" type="line"/>
+      <point x="748" y="95" type="line"/>
+      <point x="534" y="95" type="line"/>
+      <point x="554" y="280" type="line"/>
+      <point x="834" y="280" type="line"/>
+      <point x="844" y="375" type="line"/>
+      <point x="563" y="375" type="line"/>
+      <point x="582" y="555" type="line"/>
+      <point x="790" y="555" type="line"/>
+      <point x="799" y="454" type="line"/>
+      <point x="890" y="463" type="line"/>
+      <point x="891" y="650" type="line"/>
+      <point x="243" y="650" type="line"/>
+      <point x="234" y="555" type="line"/>
+      <point x="319" y="555" type="line"/>
+      <point x="45" y="95" type="line"/>
+      <point x="-18" y="95" type="line"/>
+      <point x="-28" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="223" y="95" type="line"/>
+      <point x="156" y="95" type="line"/>
+      <point x="207" y="184" type="line"/>
+      <point x="435" y="184" type="line"/>
+      <point x="425" y="95" type="line"/>
+      <point x="352" y="95" type="line"/>
+      <point x="343" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="265" type="line"/>
+      <point x="253" y="265" type="line"/>
+      <point x="420" y="555" type="line"/>
+      <point x="474" y="555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

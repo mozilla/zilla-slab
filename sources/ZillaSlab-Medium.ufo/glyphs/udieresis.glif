@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="1">
+  <advance width="569"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <contour>
+      <point x="126" y="548" type="line"/>
+      <point x="221" y="548" type="line"/>
+      <point x="221" y="647" type="line"/>
+      <point x="126" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="548" type="line"/>
+      <point x="397" y="548" type="line"/>
+      <point x="397" y="647" type="line"/>
+      <point x="302" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="68" type="line"/>
+      <point x="478" y="68" type="line"/>
+      <point x="478" y="447" type="line"/>
+      <point x="303" y="447" type="line"/>
+      <point x="303" y="378" type="line"/>
+      <point x="390" y="378" type="line"/>
+      <point x="390" y="188" type="line"/>
+      <point x="389" y="124"/>
+      <point x="341" y="61"/>
+      <point x="269" y="61" type="curve" smooth="yes"/>
+      <point x="209" y="61"/>
+      <point x="171" y="94"/>
+      <point x="171" y="185" type="curve" smooth="yes"/>
+      <point x="171" y="447" type="line"/>
+      <point x="11" y="447" type="line"/>
+      <point x="11" y="378" type="line"/>
+      <point x="83" y="378" type="line"/>
+      <point x="83" y="156" type="line" smooth="yes"/>
+      <point x="83" y="41"/>
+      <point x="152" y="-10"/>
+      <point x="239" y="-10" type="curve" smooth="yes"/>
+      <point x="308" y="-10"/>
+      <point x="362" y="25"/>
+      <point x="390" y="80" type="curve"/>
+      <point x="390" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

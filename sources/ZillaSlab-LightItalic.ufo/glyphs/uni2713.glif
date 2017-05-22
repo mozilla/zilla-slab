@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2713" format="1">
+  <advance width="623"/>
+  <unicode hex="2713"/>
+  <outline>
+    <contour>
+      <point x="175" y="335" type="line"/>
+      <point x="99" y="266" type="line"/>
+      <point x="271" y="111" type="line"/>
+      <point x="577" y="542" type="line"/>
+      <point x="492" y="593" type="line"/>
+      <point x="273" y="172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

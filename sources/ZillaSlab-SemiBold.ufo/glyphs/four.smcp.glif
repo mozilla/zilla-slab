@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.smcp" format="1">
+  <advance width="484"/>
+  <outline>
+    <contour>
+      <point x="375" y="0" type="line"/>
+      <point x="375" y="111" type="line"/>
+      <point x="450" y="111" type="line"/>
+      <point x="458" y="191" type="line"/>
+      <point x="375" y="191" type="line"/>
+      <point x="375" y="521" type="line"/>
+      <point x="183" y="521" type="line"/>
+      <point x="13" y="191" type="line"/>
+      <point x="25" y="111" type="line"/>
+      <point x="268" y="111" type="line"/>
+      <point x="268" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="191" type="line"/>
+      <point x="108" y="191" type="line"/>
+      <point x="236" y="439" type="line"/>
+      <point x="268" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

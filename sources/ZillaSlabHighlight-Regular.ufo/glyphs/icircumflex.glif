@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="277"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="240" y="518" type="line"/>
+      <point x="130" y="602" type="line"/>
+      <point x="30" y="518" type="line"/>
+      <point x="5" y="550" type="line"/>
+      <point x="125" y="669" type="line"/>
+      <point x="147" y="669" type="line"/>
+      <point x="266" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="32" y="57" type="line"/>
+      <point x="110" y="57" type="line"/>
+      <point x="110" y="388" type="line"/>
+      <point x="30" y="388" type="line"/>
+      <point x="30" y="445" type="line"/>
+      <point x="180" y="445" type="line"/>
+      <point x="180" y="57" type="line"/>
+      <point x="258" y="57" type="line"/>
+      <point x="258" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="-213" type="line"/>
+      <point x="289" y="-213" type="line"/>
+      <point x="289" y="917" type="line"/>
+      <point x="-12" y="917" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downbreve" format="1">
+  <advance width="221"/>
+  <outline>
+    <contour>
+      <point x="174" y="532" type="line"/>
+      <point x="174" y="586"/>
+      <point x="152" y="607"/>
+      <point x="110" y="607" type="curve" smooth="yes"/>
+      <point x="66" y="607"/>
+      <point x="47" y="583"/>
+      <point x="47" y="532" type="curve"/>
+      <point x="-12" y="532" type="line"/>
+      <point x="-12" y="616"/>
+      <point x="31" y="655"/>
+      <point x="111" y="655" type="curve" smooth="yes"/>
+      <point x="192" y="655"/>
+      <point x="233" y="614"/>
+      <point x="233" y="532" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

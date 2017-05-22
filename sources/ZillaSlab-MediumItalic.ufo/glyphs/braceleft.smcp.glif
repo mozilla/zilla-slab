@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft.smcp" format="1">
+  <advance width="270"/>
+  <outline>
+    <contour>
+      <point x="104" y="261" type="curve"/>
+      <point x="177" y="270"/>
+      <point x="202" y="305"/>
+      <point x="202" y="337" type="curve" smooth="yes"/>
+      <point x="202" y="382"/>
+      <point x="149" y="407"/>
+      <point x="149" y="468" type="curve" smooth="yes"/>
+      <point x="149" y="508"/>
+      <point x="168" y="529"/>
+      <point x="207" y="529" type="curve" smooth="yes"/>
+      <point x="260" y="529" type="line"/>
+      <point x="266" y="582" type="line"/>
+      <point x="213" y="582" type="line" smooth="yes"/>
+      <point x="120" y="582"/>
+      <point x="81" y="533"/>
+      <point x="81" y="466" type="curve" smooth="yes"/>
+      <point x="81" y="397"/>
+      <point x="132" y="371"/>
+      <point x="132" y="332" type="curve" smooth="yes"/>
+      <point x="132" y="287"/>
+      <point x="72" y="280"/>
+      <point x="46" y="280" type="curve" smooth="yes"/>
+      <point x="30" y="280" type="line"/>
+      <point x="26" y="242" type="line"/>
+      <point x="42" y="242" type="line" smooth="yes"/>
+      <point x="66" y="242"/>
+      <point x="117" y="236"/>
+      <point x="117" y="198" type="curve" smooth="yes"/>
+      <point x="117" y="147"/>
+      <point x="34" y="121"/>
+      <point x="34" y="28" type="curve" smooth="yes"/>
+      <point x="34" y="-23"/>
+      <point x="65" y="-63"/>
+      <point x="145" y="-63" type="curve" smooth="yes"/>
+      <point x="198" y="-63" type="line"/>
+      <point x="204" y="-10" type="line"/>
+      <point x="151" y="-10" type="line" smooth="yes"/>
+      <point x="119" y="-10"/>
+      <point x="104" y="4"/>
+      <point x="104" y="33" type="curve" smooth="yes"/>
+      <point x="104" y="112"/>
+      <point x="188" y="137"/>
+      <point x="188" y="196" type="curve" smooth="yes"/>
+      <point x="188" y="223"/>
+      <point x="166" y="253"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

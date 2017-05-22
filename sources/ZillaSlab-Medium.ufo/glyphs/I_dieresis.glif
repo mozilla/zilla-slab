@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="331"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="289" y="0" type="line"/>
+      <point x="289" y="79" type="line"/>
+      <point x="211" y="79" type="line"/>
+      <point x="211" y="571" type="line"/>
+      <point x="289" y="571" type="line"/>
+      <point x="289" y="650" type="line"/>
+      <point x="41" y="650" type="line"/>
+      <point x="41" y="571" type="line"/>
+      <point x="120" y="571" type="line"/>
+      <point x="120" y="79" type="line"/>
+      <point x="41" y="79" type="line"/>
+      <point x="41" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="715" type="line"/>
+      <point x="129" y="715" type="line"/>
+      <point x="129" y="813" type="line"/>
+      <point x="34" y="813" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="715" type="line"/>
+      <point x="304" y="715" type="line"/>
+      <point x="304" y="813" type="line"/>
+      <point x="209" y="813" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

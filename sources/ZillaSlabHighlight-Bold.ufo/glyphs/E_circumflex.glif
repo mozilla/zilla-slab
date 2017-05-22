@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="594"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <contour>
+      <point x="39" y="0" type="line"/>
+      <point x="39" y="114" type="line"/>
+      <point x="109" y="114" type="line"/>
+      <point x="109" y="536" type="line"/>
+      <point x="39" y="536" type="line"/>
+      <point x="39" y="650" type="line"/>
+      <point x="535" y="650" type="line"/>
+      <point x="555" y="460" type="line"/>
+      <point x="441" y="450" type="line"/>
+      <point x="421" y="536" type="line"/>
+      <point x="243" y="536" type="line"/>
+      <point x="243" y="383" type="line"/>
+      <point x="517" y="383" type="line"/>
+      <point x="517" y="270" type="line"/>
+      <point x="243" y="270" type="line"/>
+      <point x="243" y="114" type="line"/>
+      <point x="427" y="114" type="line"/>
+      <point x="447" y="200" type="line"/>
+      <point x="561" y="190" type="line"/>
+      <point x="541" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="-213" type="line"/>
+      <point x="604" y="-213" type="line"/>
+      <point x="604" y="917" type="line"/>
+      <point x="-10" y="917" type="line"/>
+    </contour>
+    <contour>
+      <point x="463" y="685" type="line"/>
+      <point x="328" y="745" type="line"/>
+      <point x="204" y="685" type="line"/>
+      <point x="175" y="738" type="line"/>
+      <point x="310" y="844" type="line"/>
+      <point x="355" y="844" type="line"/>
+      <point x="491" y="737" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

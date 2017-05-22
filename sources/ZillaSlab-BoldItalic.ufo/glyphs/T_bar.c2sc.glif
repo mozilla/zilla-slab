@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar.c2sc" format="1">
+  <advance width="552"/>
+  <outline>
+    <contour>
+      <point x="547" y="333" type="line"/>
+      <point x="547" y="521" type="line"/>
+      <point x="54" y="521" type="line"/>
+      <point x="15" y="333" type="line"/>
+      <point x="125" y="323" type="line"/>
+      <point x="148" y="423" type="line"/>
+      <point x="228" y="423" type="line"/>
+      <point x="212" y="280" type="line"/>
+      <point x="120" y="280" type="line"/>
+      <point x="113" y="215" type="line"/>
+      <point x="205" y="215" type="line"/>
+      <point x="193" y="98" type="line"/>
+      <point x="113" y="98" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="404" y="98" type="line"/>
+      <point x="319" y="98" type="line"/>
+      <point x="331" y="215" type="line"/>
+      <point x="426" y="215" type="line"/>
+      <point x="433" y="280" type="line"/>
+      <point x="338" y="280" type="line"/>
+      <point x="354" y="423" type="line"/>
+      <point x="433" y="423" type="line"/>
+      <point x="435" y="323" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

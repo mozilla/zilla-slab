@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevensuperior" format="1">
+  <advance width="316"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="23" y="779" type="line"/>
+      <point x="23" y="655" type="line"/>
+      <point x="97" y="655" type="line"/>
+      <point x="97" y="716" type="line"/>
+      <point x="214" y="716" type="line"/>
+      <point x="86" y="414" type="line"/>
+      <point x="169" y="414" type="line"/>
+      <point x="306" y="744" type="line"/>
+      <point x="296" y="779" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

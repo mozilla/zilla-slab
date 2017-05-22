@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01CC.smcp" format="1">
+  <advance width="1062"/>
+  <outline>
+    <contour>
+      <point x="382" y="521" type="line"/>
+      <point x="620" y="521" type="line"/>
+      <point x="620" y="439" type="line"/>
+      <point x="561" y="439" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="500" y="-1" type="line"/>
+      <point x="205" y="348" type="line"/>
+      <point x="201" y="348" type="line"/>
+      <point x="201" y="82" type="line"/>
+      <point x="278" y="82" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="42" y="82" type="line"/>
+      <point x="101" y="82" type="line"/>
+      <point x="101" y="439" type="line"/>
+      <point x="33" y="439" type="line"/>
+      <point x="33" y="521" type="line"/>
+      <point x="178" y="521" type="line"/>
+      <point x="457" y="191" type="line"/>
+      <point x="461" y="191" type="line"/>
+      <point x="461" y="439" type="line"/>
+      <point x="382" y="439" type="line"/>
+    </contour>
+    <contour>
+      <point x="774" y="521" type="line"/>
+      <point x="1029" y="521" type="line"/>
+      <point x="1029" y="439" type="line"/>
+      <point x="977" y="439" type="line"/>
+      <point x="977" y="145" type="line" smooth="yes"/>
+      <point x="977" y="42"/>
+      <point x="908" y="-8"/>
+      <point x="811" y="-8" type="curve" smooth="yes"/>
+      <point x="719" y="-8"/>
+      <point x="678" y="35"/>
+      <point x="654" y="86" type="curve"/>
+      <point x="729" y="137" type="line"/>
+      <point x="749" y="91"/>
+      <point x="777" y="81"/>
+      <point x="805" y="81" type="curve" smooth="yes"/>
+      <point x="851" y="81"/>
+      <point x="870" y="107"/>
+      <point x="870" y="144" type="curve" smooth="yes"/>
+      <point x="870" y="439" type="line"/>
+      <point x="774" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

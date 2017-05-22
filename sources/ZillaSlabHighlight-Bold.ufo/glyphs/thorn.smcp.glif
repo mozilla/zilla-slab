@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn.smcp" format="1">
+  <advance width="535"/>
+  <outline>
+    <contour>
+      <point x="-10" y="-213" type="line"/>
+      <point x="545" y="-213" type="line"/>
+      <point x="545" y="917" type="line"/>
+      <point x="-10" y="917" type="line"/>
+    </contour>
+    <contour>
+      <point x="38" y="521" type="line"/>
+      <point x="278" y="521" type="line"/>
+      <point x="278" y="423" type="line"/>
+      <point x="223" y="423" type="line"/>
+      <point x="223" y="411" type="line"/>
+      <point x="304" y="411" type="line" smooth="yes"/>
+      <point x="439" y="411"/>
+      <point x="518" y="366"/>
+      <point x="518" y="266" type="curve" smooth="yes"/>
+      <point x="518" y="154"/>
+      <point x="418" y="114"/>
+      <point x="309" y="114" type="curve" smooth="yes"/>
+      <point x="223" y="114" type="line"/>
+      <point x="223" y="98" type="line"/>
+      <point x="278" y="98" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="38" y="98" type="line"/>
+      <point x="94" y="98" type="line"/>
+      <point x="94" y="423" type="line"/>
+      <point x="38" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="184" type="line" smooth="yes"/>
+      <point x="360" y="184"/>
+      <point x="379" y="217"/>
+      <point x="379" y="263" type="curve" smooth="yes"/>
+      <point x="379" y="312"/>
+      <point x="357" y="339"/>
+      <point x="287" y="339" type="curve" smooth="yes"/>
+      <point x="223" y="339" type="line"/>
+      <point x="223" y="184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

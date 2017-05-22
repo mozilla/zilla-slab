@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron.c2sc" format="1">
+  <advance width="633"/>
+  <outline>
+    <contour>
+      <point x="331" y="570" type="line"/>
+      <point x="309" y="570" type="line"/>
+      <point x="188" y="687" type="line"/>
+      <point x="214" y="721" type="line"/>
+      <point x="324" y="637" type="line"/>
+      <point x="426" y="722" type="line"/>
+      <point x="452" y="689" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="521" type="line"/>
+      <point x="601" y="521" type="line"/>
+      <point x="601" y="465" type="line"/>
+      <point x="534" y="465" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="178" y="398" type="line"/>
+      <point x="174" y="398" type="line"/>
+      <point x="174" y="56" type="line"/>
+      <point x="259" y="56" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="44" y="56" type="line"/>
+      <point x="107" y="56" type="line"/>
+      <point x="107" y="465" type="line"/>
+      <point x="36" y="465" type="line"/>
+      <point x="36" y="521" type="line"/>
+      <point x="158" y="521" type="line"/>
+      <point x="463" y="133" type="line"/>
+      <point x="467" y="133" type="line"/>
+      <point x="467" y="465" type="line"/>
+      <point x="385" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="-213" type="line"/>
+      <point x="645" y="-213" type="line"/>
+      <point x="645" y="917" type="line"/>
+      <point x="-12" y="917" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

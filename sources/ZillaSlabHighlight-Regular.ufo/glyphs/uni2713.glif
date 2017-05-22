@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2713" format="1">
+  <advance width="638"/>
+  <unicode hex="2713"/>
+  <outline>
+    <contour>
+      <point x="180" y="339" type="line"/>
+      <point x="97" y="263" type="line"/>
+      <point x="272" y="111" type="line"/>
+      <point x="582" y="539" type="line"/>
+      <point x="488" y="596" type="line"/>
+      <point x="273" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="650" y="917" type="line"/>
+      <point x="650" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

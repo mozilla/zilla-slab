@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright.smcp" format="1">
+  <advance width="201"/>
+  <outline>
+    <contour>
+      <point x="60" y="338" type="line"/>
+      <point x="113" y="338" type="line"/>
+      <point x="185" y="550" type="line"/>
+      <point x="132" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

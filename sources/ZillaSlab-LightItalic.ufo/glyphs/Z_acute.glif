@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute" format="1">
+  <advance width="562"/>
+  <unicode hex="0179"/>
+  <outline>
+    <contour>
+      <point x="473" y="0" type="line"/>
+      <point x="519" y="185" type="line"/>
+      <point x="471" y="194" type="line"/>
+      <point x="427" y="51" type="line"/>
+      <point x="87" y="51" type="line"/>
+      <point x="88" y="54" type="line"/>
+      <point x="538" y="615" type="line"/>
+      <point x="533" y="650" type="line"/>
+      <point x="107" y="650" type="line"/>
+      <point x="61" y="466" type="line"/>
+      <point x="107" y="458" type="line"/>
+      <point x="151" y="599" type="line"/>
+      <point x="457" y="599" type="line"/>
+      <point x="457" y="596" type="line"/>
+      <point x="8" y="37" type="line"/>
+      <point x="6" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="753" type="line"/>
+      <point x="458" y="808" type="line"/>
+      <point x="267" y="739" type="line"/>
+      <point x="275" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

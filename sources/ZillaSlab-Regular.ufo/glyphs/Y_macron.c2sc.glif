@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ymacron.c2sc" format="1">
+  <advance width="531"/>
+  <outline>
+    <contour>
+      <point x="522" y="465" type="line"/>
+      <point x="471" y="465" type="line"/>
+      <point x="301" y="198" type="line"/>
+      <point x="301" y="56" type="line"/>
+      <point x="397" y="56" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="138" y="56" type="line"/>
+      <point x="231" y="56" type="line"/>
+      <point x="231" y="200" type="line"/>
+      <point x="55" y="465" type="line"/>
+      <point x="3" y="465" type="line"/>
+      <point x="3" y="521" type="line"/>
+      <point x="206" y="521" type="line"/>
+      <point x="206" y="465" type="line"/>
+      <point x="135" y="465" type="line"/>
+      <point x="267" y="259" type="line"/>
+      <point x="272" y="259" type="line"/>
+      <point x="399" y="465" type="line"/>
+      <point x="326" y="465" type="line"/>
+      <point x="326" y="521" type="line"/>
+      <point x="522" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="615" type="line"/>
+      <point x="391" y="672" type="line"/>
+      <point x="147" y="672" type="line"/>
+      <point x="147" y="615" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="1">
+  <advance width="687"/>
+  <unicode hex="00C2"/>
+  <outline>
+    <contour>
+      <point x="687" y="0" type="line"/>
+      <point x="687" y="114" type="line"/>
+      <point x="625" y="114" type="line"/>
+      <point x="391" y="650" type="line"/>
+      <point x="168" y="650" type="line"/>
+      <point x="168" y="536" type="line"/>
+      <point x="258" y="536" type="line"/>
+      <point x="72" y="114" type="line"/>
+      <point x="13" y="114" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="269" y="114" type="line"/>
+      <point x="208" y="114" type="line"/>
+      <point x="235" y="180" type="line"/>
+      <point x="456" y="180" type="line"/>
+      <point x="480" y="114" type="line"/>
+      <point x="428" y="114" type="line"/>
+      <point x="428" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="276" type="line"/>
+      <point x="273" y="276" type="line"/>
+      <point x="346" y="459" type="line"/>
+      <point x="352" y="459" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="737" type="line"/>
+      <point x="359" y="844" type="line"/>
+      <point x="314" y="844" type="line"/>
+      <point x="179" y="738" type="line"/>
+      <point x="208" y="685" type="line"/>
+      <point x="332" y="745" type="line"/>
+      <point x="467" y="685" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

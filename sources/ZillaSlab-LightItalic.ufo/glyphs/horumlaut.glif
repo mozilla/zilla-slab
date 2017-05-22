@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horumlaut" format="1">
+  <advance width="421"/>
+  <outline>
+    <contour>
+      <point x="390" y="522" type="line"/>
+      <point x="414" y="541" type="line"/>
+      <point x="300" y="714" type="line"/>
+      <point x="256" y="682" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="523" type="line"/>
+      <point x="302" y="550" type="line"/>
+      <point x="141" y="675" type="line"/>
+      <point x="111" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

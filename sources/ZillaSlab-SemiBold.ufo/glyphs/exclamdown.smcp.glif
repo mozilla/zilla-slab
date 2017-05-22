@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.smcp" format="1">
+  <advance width="245"/>
+  <outline>
+    <contour>
+      <point x="183" y="2" type="line"/>
+      <point x="160" y="345" type="line"/>
+      <point x="84" y="345" type="line"/>
+      <point x="61" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="67" y="411" type="line"/>
+      <point x="184" y="411" type="line"/>
+      <point x="184" y="523" type="line"/>
+      <point x="67" y="523" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

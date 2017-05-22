@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis.c2sc" format="1">
+  <advance width="277"/>
+  <outline>
+    <contour>
+      <point x="19" y="45" type="line"/>
+      <point x="88" y="45" type="line"/>
+      <point x="133" y="476" type="line"/>
+      <point x="64" y="476" type="line"/>
+      <point x="69" y="521" type="line"/>
+      <point x="260" y="521" type="line"/>
+      <point x="255" y="476" type="line"/>
+      <point x="187" y="476" type="line"/>
+      <point x="142" y="45" type="line"/>
+      <point x="210" y="45" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="14" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="226" y="614" type="line"/>
+      <point x="293" y="614" type="line"/>
+      <point x="300" y="685" type="line"/>
+      <point x="233" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="614" type="line"/>
+      <point x="128" y="614" type="line"/>
+      <point x="135" y="685" type="line"/>
+      <point x="69" y="685" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="249"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="25" y="425" type="line"/>
+      <point x="49" y="447" type="line"/>
+      <point x="203" y="447" type="line"/>
+      <point x="147" y="-8" type="line" smooth="yes"/>
+      <point x="131" y="-141"/>
+      <point x="83" y="-221"/>
+      <point x="2" y="-223" type="curve"/>
+      <point x="-29" y="-223"/>
+      <point x="-57" y="-214"/>
+      <point x="-81" y="-201" type="curve"/>
+      <point x="-77" y="-141" type="line"/>
+      <point x="-10" y="-169"/>
+      <point x="46" y="-152"/>
+      <point x="64" y="-8" type="curve"/>
+      <point x="110" y="378" type="line"/>
+      <point x="19" y="378" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

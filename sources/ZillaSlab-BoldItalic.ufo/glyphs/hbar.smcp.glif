@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar.smcp" format="1">
+  <advance width="638"/>
+  <outline>
+    <contour>
+      <point x="348" y="98" type="line"/>
+      <point x="403" y="98" type="line"/>
+      <point x="416" y="215" type="line"/>
+      <point x="212" y="215" type="line"/>
+      <point x="199" y="98" type="line"/>
+      <point x="253" y="98" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="18" y="98" type="line"/>
+      <point x="73" y="98" type="line"/>
+      <point x="98" y="335" type="line"/>
+      <point x="43" y="335" type="line"/>
+      <point x="50" y="401" type="line"/>
+      <point x="105" y="401" type="line"/>
+      <point x="108" y="423" type="line"/>
+      <point x="52" y="423" type="line"/>
+      <point x="63" y="521" type="line"/>
+      <point x="298" y="521" type="line"/>
+      <point x="287" y="423" type="line"/>
+      <point x="234" y="423" type="line"/>
+      <point x="231" y="401" type="line"/>
+      <point x="435" y="401" type="line"/>
+      <point x="438" y="423" type="line"/>
+      <point x="382" y="423" type="line"/>
+      <point x="393" y="521" type="line"/>
+      <point x="628" y="521" type="line"/>
+      <point x="617" y="423" type="line"/>
+      <point x="564" y="423" type="line"/>
+      <point x="561" y="401" type="line"/>
+      <point x="616" y="401" type="line"/>
+      <point x="609" y="335" type="line"/>
+      <point x="554" y="335" type="line"/>
+      <point x="529" y="98" type="line"/>
+      <point x="583" y="98" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="313" type="line"/>
+      <point x="426" y="313" type="line"/>
+      <point x="428" y="335" type="line"/>
+      <point x="224" y="335" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

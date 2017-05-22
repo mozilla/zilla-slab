@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcmb" format="1">
+  <advance width="816"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="75" y="-174" type="line"/>
+      <point x="150" y="-174" type="line"/>
+      <point x="160" y="-84" type="line"/>
+      <point x="85" y="-84" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

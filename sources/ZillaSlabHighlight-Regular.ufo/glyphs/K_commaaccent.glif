@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="638"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="-12" y="-213" type="line"/>
+      <point x="299" y="-213" type="line"/>
+      <point x="307" y="-59" type="line"/>
+      <point x="374" y="-59" type="line"/>
+      <point x="356" y="-213" type="line"/>
+      <point x="650" y="-213" type="line"/>
+      <point x="650" y="917" type="line"/>
+      <point x="-12" y="917" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="0" type="line"/>
+      <point x="399" y="64" type="line"/>
+      <point x="476" y="64" type="line"/>
+      <point x="304" y="299" type="line"/>
+      <point x="196" y="299" type="line"/>
+      <point x="196" y="64" type="line"/>
+      <point x="271" y="64" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="64" type="line"/>
+      <point x="122" y="64" type="line"/>
+      <point x="122" y="586" type="line"/>
+      <point x="40" y="586" type="line"/>
+      <point x="40" y="650" type="line"/>
+      <point x="272" y="650" type="line"/>
+      <point x="272" y="586" type="line"/>
+      <point x="196" y="586" type="line"/>
+      <point x="196" y="362" type="line"/>
+      <point x="302" y="362" type="line"/>
+      <point x="469" y="587" type="line"/>
+      <point x="392" y="587" type="line"/>
+      <point x="392" y="651" type="line"/>
+      <point x="621" y="651" type="line"/>
+      <point x="621" y="587" type="line"/>
+      <point x="547" y="587" type="line"/>
+      <point x="360" y="338" type="line"/>
+      <point x="560" y="64" type="line"/>
+      <point x="633" y="64" type="line"/>
+      <point x="633" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

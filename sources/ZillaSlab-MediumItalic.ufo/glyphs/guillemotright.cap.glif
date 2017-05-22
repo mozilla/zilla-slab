@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright.cap" format="1">
+  <advance width="449"/>
+  <outline>
+    <contour>
+      <point x="257" y="85" type="line"/>
+      <point x="419" y="331" type="line"/>
+      <point x="308" y="571" type="line"/>
+      <point x="237" y="571" type="line"/>
+      <point x="334" y="331" type="line"/>
+      <point x="186" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="85" type="line"/>
+      <point x="256" y="331" type="line"/>
+      <point x="146" y="571" type="line"/>
+      <point x="74" y="571" type="line"/>
+      <point x="172" y="331" type="line"/>
+      <point x="23" y="85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

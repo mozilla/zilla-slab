@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk.smcp" format="1">
+  <advance width="408"/>
+  <outline>
+    <contour>
+      <point x="382" y="420" type="line"/>
+      <point x="263" y="358" type="line"/>
+      <point x="369" y="295" type="line"/>
+      <point x="329" y="242" type="line"/>
+      <point x="234" y="310" type="line"/>
+      <point x="227" y="197" type="line"/>
+      <point x="164" y="197" type="line"/>
+      <point x="182" y="310" type="line"/>
+      <point x="72" y="242" type="line"/>
+      <point x="44" y="295" type="line"/>
+      <point x="164" y="357" type="line"/>
+      <point x="57" y="420" type="line"/>
+      <point x="96" y="474" type="line"/>
+      <point x="192" y="404" type="line"/>
+      <point x="199" y="521" type="line"/>
+      <point x="262" y="521" type="line"/>
+      <point x="244" y="404" type="line"/>
+      <point x="353" y="474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

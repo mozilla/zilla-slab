@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro.pnum_lnum" format="1">
+  <advance width="667"/>
+  <outline>
+    <contour>
+      <point x="35" y="349" type="line"/>
+      <point x="95" y="349" type="line"/>
+      <point x="92" y="327"/>
+      <point x="90" y="306"/>
+      <point x="90" y="287" type="curve"/>
+      <point x="28" y="287" type="line"/>
+      <point x="19" y="199" type="line"/>
+      <point x="97" y="199" type="line"/>
+      <point x="122" y="69"/>
+      <point x="213" y="-10"/>
+      <point x="353" y="-10" type="curve" smooth="yes"/>
+      <point x="444" y="-10"/>
+      <point x="540" y="23"/>
+      <point x="587" y="69" type="curve"/>
+      <point x="615" y="222" type="line"/>
+      <point x="509" y="232" type="line"/>
+      <point x="486" y="135" type="line"/>
+      <point x="460" y="120"/>
+      <point x="422" y="108"/>
+      <point x="374" y="108" type="curve" smooth="yes"/>
+      <point x="303" y="108"/>
+      <point x="259" y="136"/>
+      <point x="240" y="199" type="curve"/>
+      <point x="379" y="199" type="line"/>
+      <point x="388" y="287" type="line"/>
+      <point x="231" y="287" type="line"/>
+      <point x="231" y="308"/>
+      <point x="232" y="329"/>
+      <point x="234" y="349" type="curve"/>
+      <point x="424" y="349" type="line"/>
+      <point x="433" y="437" type="line"/>
+      <point x="255" y="437" type="line"/>
+      <point x="281" y="503"/>
+      <point x="330" y="542"/>
+      <point x="411" y="542" type="curve" smooth="yes"/>
+      <point x="454" y="542"/>
+      <point x="494" y="530"/>
+      <point x="525" y="507" type="curve"/>
+      <point x="529" y="421" type="line"/>
+      <point x="637" y="431" type="line"/>
+      <point x="638" y="582" type="line"/>
+      <point x="600" y="621"/>
+      <point x="538" y="660"/>
+      <point x="429" y="660" type="curve" smooth="yes"/>
+      <point x="245" y="660"/>
+      <point x="155" y="552"/>
+      <point x="116" y="437" type="curve"/>
+      <point x="44" y="437" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

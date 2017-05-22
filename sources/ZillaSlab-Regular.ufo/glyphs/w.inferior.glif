@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w.inferior" format="1">
+  <advance width="523"/>
+  <outline>
+    <contour>
+      <point x="375" y="77" type="line"/>
+      <point x="379" y="77" type="line"/>
+      <point x="424" y="247" type="line"/>
+      <point x="374" y="247" type="line"/>
+      <point x="374" y="290" type="line"/>
+      <point x="512" y="290" type="line"/>
+      <point x="512" y="247" type="line"/>
+      <point x="480" y="247" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="261" y="215" type="line"/>
+      <point x="258" y="215" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="43" y="247" type="line"/>
+      <point x="12" y="247" type="line"/>
+      <point x="12" y="290" type="line"/>
+      <point x="158" y="290" type="line"/>
+      <point x="158" y="247" type="line"/>
+      <point x="105" y="247" type="line"/>
+      <point x="160" y="76" type="line"/>
+      <point x="165" y="76" type="line"/>
+      <point x="247" y="290" type="line"/>
+      <point x="285" y="290" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

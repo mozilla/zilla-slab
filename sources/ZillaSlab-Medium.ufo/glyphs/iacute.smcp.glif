@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute.smcp" format="1">
+  <advance width="297"/>
+  <outline>
+    <contour>
+      <point x="41" y="68" type="line"/>
+      <point x="105" y="68" type="line"/>
+      <point x="105" y="453" type="line"/>
+      <point x="41" y="453" type="line"/>
+      <point x="41" y="521" type="line"/>
+      <point x="255" y="521" type="line"/>
+      <point x="255" y="453" type="line"/>
+      <point x="192" y="453" type="line"/>
+      <point x="192" y="68" type="line"/>
+      <point x="255" y="68" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="666" type="line"/>
+      <point x="242" y="737" type="line"/>
+      <point x="86" y="602" type="line"/>
+      <point x="111" y="565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

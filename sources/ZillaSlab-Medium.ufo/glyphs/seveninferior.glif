@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveninferior" format="1">
+  <advance width="312"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="26" y="364" type="line"/>
+      <point x="26" y="249" type="line"/>
+      <point x="88" y="249" type="line"/>
+      <point x="88" y="311" type="line"/>
+      <point x="222" y="311" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="298" y="333" type="line"/>
+      <point x="290" y="364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

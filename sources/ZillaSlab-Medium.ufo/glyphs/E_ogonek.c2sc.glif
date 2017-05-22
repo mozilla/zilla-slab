@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek.c2sc" format="1">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="466" y="-183" type="curve"/>
+      <point x="457" y="-126" type="line"/>
+      <point x="441" y="-135"/>
+      <point x="424" y="-139"/>
+      <point x="407" y="-139" type="curve" smooth="yes"/>
+      <point x="378" y="-139"/>
+      <point x="355" y="-127"/>
+      <point x="355" y="-89" type="curve" smooth="yes"/>
+      <point x="355" y="-60"/>
+      <point x="368" y="-27"/>
+      <point x="413" y="0" type="curve"/>
+      <point x="456" y="0" type="line"/>
+      <point x="476" y="149" type="line"/>
+      <point x="399" y="156" type="line"/>
+      <point x="384" y="68" type="line"/>
+      <point x="192" y="68" type="line"/>
+      <point x="192" y="230" type="line"/>
+      <point x="435" y="230" type="line"/>
+      <point x="435" y="297" type="line"/>
+      <point x="192" y="297" type="line"/>
+      <point x="192" y="453" type="line"/>
+      <point x="385" y="453" type="line"/>
+      <point x="400" y="366" type="line"/>
+      <point x="475" y="375" type="line"/>
+      <point x="457" y="521" type="line"/>
+      <point x="41" y="521" type="line"/>
+      <point x="41" y="453" type="line"/>
+      <point x="105" y="453" type="line"/>
+      <point x="105" y="68" type="line"/>
+      <point x="41" y="68" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="313" y="-24"/>
+      <point x="282" y="-65"/>
+      <point x="282" y="-114" type="curve" smooth="yes"/>
+      <point x="282" y="-171"/>
+      <point x="326" y="-202"/>
+      <point x="386" y="-202" type="curve" smooth="yes"/>
+      <point x="418" y="-202"/>
+      <point x="444" y="-193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

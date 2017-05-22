@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute.smcp" format="1">
+  <advance width="538"/>
+  <outline>
+    <contour>
+      <point x="543" y="423" type="line"/>
+      <point x="501" y="423" type="line"/>
+      <point x="324" y="204" type="line"/>
+      <point x="313" y="98" type="line"/>
+      <point x="399" y="98" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="107" y="98" type="line"/>
+      <point x="187" y="98" type="line"/>
+      <point x="198" y="206" type="line"/>
+      <point x="63" y="423" type="line"/>
+      <point x="18" y="423" type="line"/>
+      <point x="28" y="521" type="line"/>
+      <point x="258" y="521" type="line"/>
+      <point x="248" y="423" type="line"/>
+      <point x="208" y="423" type="line"/>
+      <point x="276" y="306" type="line"/>
+      <point x="281" y="306" type="line"/>
+      <point x="371" y="423" type="line"/>
+      <point x="325" y="423" type="line"/>
+      <point x="335" y="521" type="line"/>
+      <point x="553" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="649" type="line"/>
+      <point x="423" y="749" type="line"/>
+      <point x="249" y="606" type="line"/>
+      <point x="278" y="557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

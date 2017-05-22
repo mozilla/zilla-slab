@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="229"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="1" y="-107" type="line"/>
+      <point x="54" y="-107" type="line"/>
+      <point x="126" y="105" type="line"/>
+      <point x="73" y="105" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="359" type="line"/>
+      <point x="172" y="359" type="line"/>
+      <point x="180" y="443" type="line"/>
+      <point x="102" y="443" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

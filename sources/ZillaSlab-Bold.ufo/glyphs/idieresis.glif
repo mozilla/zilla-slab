@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="1">
+  <advance width="299"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="32" y="98" type="line"/>
+      <point x="92" y="98" type="line"/>
+      <point x="92" y="353" type="line"/>
+      <point x="27" y="353" type="line"/>
+      <point x="27" y="451" type="line"/>
+      <point x="221" y="451" type="line"/>
+      <point x="221" y="98" type="line"/>
+      <point x="281" y="98" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="531" type="line"/>
+      <point x="303" y="531" type="line"/>
+      <point x="303" y="665" type="line"/>
+      <point x="174" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11" y="531" type="line"/>
+      <point x="118" y="531" type="line"/>
+      <point x="118" y="665" type="line"/>
+      <point x="-11" y="665" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

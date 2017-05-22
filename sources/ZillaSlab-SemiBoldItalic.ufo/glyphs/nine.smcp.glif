@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.smcp" format="1">
+  <advance width="457"/>
+  <outline>
+    <contour>
+      <point x="42" y="332" type="curve"/>
+      <point x="42" y="257"/>
+      <point x="82" y="188"/>
+      <point x="182" y="188" type="curve" smooth="yes"/>
+      <point x="250" y="188"/>
+      <point x="293" y="225"/>
+      <point x="312" y="265" type="curve"/>
+      <point x="306" y="145"/>
+      <point x="270" y="73"/>
+      <point x="180" y="73" type="curve" smooth="yes"/>
+      <point x="136" y="73"/>
+      <point x="105" y="90"/>
+      <point x="80" y="120" type="curve"/>
+      <point x="29" y="62" type="line"/>
+      <point x="59" y="19"/>
+      <point x="120" y="-8"/>
+      <point x="188" y="-8" type="curve" smooth="yes"/>
+      <point x="345" y="-8"/>
+      <point x="424" y="135"/>
+      <point x="424" y="312" type="curve" smooth="yes"/>
+      <point x="424" y="445"/>
+      <point x="372" y="530"/>
+      <point x="246" y="530" type="curve" smooth="yes"/>
+      <point x="118" y="530"/>
+      <point x="42" y="443"/>
+    </contour>
+    <contour>
+      <point x="150" y="342" type="curve"/>
+      <point x="150" y="401"/>
+      <point x="175" y="445"/>
+      <point x="240" y="445" type="curve" smooth="yes"/>
+      <point x="294" y="445"/>
+      <point x="311" y="415"/>
+      <point x="313" y="352" type="curve"/>
+      <point x="308" y="308"/>
+      <point x="278" y="266"/>
+      <point x="221" y="266" type="curve" smooth="yes"/>
+      <point x="171" y="266"/>
+      <point x="150" y="294"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

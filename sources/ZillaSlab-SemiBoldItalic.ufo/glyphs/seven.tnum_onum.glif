@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tnum_onum" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="114" y="521" type="line"/>
+      <point x="92" y="317" type="line"/>
+      <point x="189" y="317" type="line"/>
+      <point x="200" y="427" type="line"/>
+      <point x="427" y="427" type="line"/>
+      <point x="146" y="-130" type="line"/>
+      <point x="256" y="-130" type="line"/>
+      <point x="549" y="466" type="line"/>
+      <point x="541" y="521" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

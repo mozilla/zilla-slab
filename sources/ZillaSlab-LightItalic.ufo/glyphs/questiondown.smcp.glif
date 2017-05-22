@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown.smcp" format="1">
+  <advance width="375"/>
+  <outline>
+    <contour>
+      <point x="292" y="170" type="line"/>
+      <point x="268" y="66" type="line"/>
+      <point x="241" y="47"/>
+      <point x="213" y="38"/>
+      <point x="180" y="38" type="curve" smooth="yes"/>
+      <point x="122" y="38"/>
+      <point x="93" y="66"/>
+      <point x="93" y="103" type="curve" smooth="yes"/>
+      <point x="93" y="184"/>
+      <point x="282" y="219"/>
+      <point x="282" y="319" type="curve" smooth="yes"/>
+      <point x="282" y="353"/>
+      <point x="260" y="385"/>
+      <point x="188" y="381" type="curve"/>
+      <point x="185" y="344" type="line"/>
+      <point x="213" y="344"/>
+      <point x="226" y="333"/>
+      <point x="226" y="313" type="curve" smooth="yes"/>
+      <point x="226" y="237"/>
+      <point x="34" y="206"/>
+      <point x="34" y="93" type="curve" smooth="yes"/>
+      <point x="34" y="31"/>
+      <point x="92" y="-6"/>
+      <point x="172" y="-6" type="curve" smooth="yes"/>
+      <point x="236" y="-6"/>
+      <point x="282" y="16"/>
+      <point x="315" y="48" type="curve"/>
+      <point x="334" y="167" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="523" type="line"/>
+      <point x="205" y="523" type="line"/>
+      <point x="197" y="439" type="line"/>
+      <point x="269" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

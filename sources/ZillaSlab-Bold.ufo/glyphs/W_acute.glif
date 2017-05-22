@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute" format="1">
+  <advance width="988"/>
+  <unicode hex="1E82"/>
+  <outline>
+    <contour>
+      <point x="638" y="716" type="line"/>
+      <point x="609" y="833" type="line"/>
+      <point x="407" y="745" type="line"/>
+      <point x="423" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="977" y="536" type="line"/>
+      <point x="977" y="650" type="line"/>
+      <point x="721" y="650" type="line"/>
+      <point x="721" y="536" type="line"/>
+      <point x="791" y="536" type="line"/>
+      <point x="705" y="216" type="line"/>
+      <point x="699" y="216" type="line"/>
+      <point x="584" y="536" type="line"/>
+      <point x="630" y="536" type="line"/>
+      <point x="630" y="650" type="line"/>
+      <point x="371" y="650" type="line"/>
+      <point x="371" y="536" type="line"/>
+      <point x="422" y="536" type="line"/>
+      <point x="306" y="222" type="line"/>
+      <point x="300" y="222" type="line"/>
+      <point x="203" y="536" type="line"/>
+      <point x="263" y="536" type="line"/>
+      <point x="263" y="650" type="line"/>
+      <point x="4" y="650" type="line"/>
+      <point x="4" y="536" type="line"/>
+      <point x="60" y="536" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="493" y="420" type="line"/>
+      <point x="498" y="420" type="line"/>
+      <point x="651" y="0" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="925" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

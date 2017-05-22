@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni021B.smcp" format="1">
+  <advance width="566"/>
+  <outline>
+    <contour>
+      <point x="554" y="333" type="line"/>
+      <point x="534" y="521" type="line"/>
+      <point x="31" y="521" type="line"/>
+      <point x="11" y="333" type="line"/>
+      <point x="125" y="323" type="line"/>
+      <point x="138" y="423" type="line"/>
+      <point x="218" y="423" type="line"/>
+      <point x="218" y="98" type="line"/>
+      <point x="137" y="98" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="434" y="0" type="line"/>
+      <point x="434" y="98" type="line"/>
+      <point x="347" y="98" type="line"/>
+      <point x="347" y="423" type="line"/>
+      <point x="428" y="423" type="line"/>
+      <point x="441" y="323" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="-58" type="line"/>
+      <point x="226" y="-58" type="line"/>
+      <point x="223" y="-213" type="line"/>
+      <point x="321" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

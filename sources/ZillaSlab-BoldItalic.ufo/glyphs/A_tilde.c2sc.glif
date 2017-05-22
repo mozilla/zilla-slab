@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde.c2sc" format="1">
+  <advance width="577"/>
+  <outline>
+    <contour>
+      <point x="-5" y="98" type="line"/>
+      <point x="41" y="98" type="line"/>
+      <point x="225" y="423" type="line"/>
+      <point x="152" y="423" type="line"/>
+      <point x="163" y="521" type="line"/>
+      <point x="357" y="521" type="line"/>
+      <point x="507" y="98" type="line"/>
+      <point x="555" y="98" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="334" y="98" type="line"/>
+      <point x="371" y="98" type="line"/>
+      <point x="359" y="143" type="line"/>
+      <point x="191" y="143" type="line"/>
+      <point x="169" y="98" type="line"/>
+      <point x="212" y="98" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="-15" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="566" type="line"/>
+      <point x="224" y="595"/>
+      <point x="240" y="609"/>
+      <point x="262" y="609" type="curve" smooth="yes"/>
+      <point x="301" y="609"/>
+      <point x="331" y="568"/>
+      <point x="381" y="568" type="curve" smooth="yes"/>
+      <point x="446" y="568"/>
+      <point x="469" y="640"/>
+      <point x="475" y="698" type="curve"/>
+      <point x="423" y="709" type="line"/>
+      <point x="411" y="680"/>
+      <point x="392" y="668"/>
+      <point x="373" y="668" type="curve" smooth="yes"/>
+      <point x="340" y="668"/>
+      <point x="307" y="706"/>
+      <point x="263" y="706" type="curve" smooth="yes"/>
+      <point x="198" y="706"/>
+      <point x="167" y="620"/>
+      <point x="166" y="582" type="curve"/>
+    </contour>
+    <contour>
+      <point x="296" y="358" type="line"/>
+      <point x="231" y="225" type="line"/>
+      <point x="337" y="225" type="line"/>
+      <point x="301" y="358" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

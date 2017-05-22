@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.cap" format="1">
+  <advance width="404"/>
+  <outline>
+    <contour>
+      <point x="45" y="705" type="line"/>
+      <point x="174" y="705" type="line"/>
+      <point x="174" y="839" type="line"/>
+      <point x="45" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="705" type="line"/>
+      <point x="359" y="705" type="line"/>
+      <point x="359" y="839" type="line"/>
+      <point x="230" y="839" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

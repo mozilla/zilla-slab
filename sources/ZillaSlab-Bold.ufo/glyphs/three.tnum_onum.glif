@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.tnum_onum" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="105" y="492" type="curve"/>
+      <point x="84" y="339" type="line"/>
+      <point x="187" y="328" type="line"/>
+      <point x="202" y="402" type="line"/>
+      <point x="223" y="413"/>
+      <point x="263" y="417"/>
+      <point x="287" y="417" type="curve"/>
+      <point x="343" y="417"/>
+      <point x="371" y="390"/>
+      <point x="371" y="346" type="curve" smooth="yes"/>
+      <point x="371" y="317"/>
+      <point x="359" y="253"/>
+      <point x="241" y="253" type="curve"/>
+      <point x="241" y="165" type="line"/>
+      <point x="337" y="162"/>
+      <point x="393" y="138"/>
+      <point x="393" y="71" type="curve" smooth="yes"/>
+      <point x="393" y="22"/>
+      <point x="363" y="-27"/>
+      <point x="287" y="-27" type="curve" smooth="yes"/>
+      <point x="208" y="-27"/>
+      <point x="180" y="25"/>
+      <point x="180" y="71" type="curve"/>
+      <point x="71" y="38" type="line"/>
+      <point x="73" y="-72"/>
+      <point x="144" y="-141"/>
+      <point x="288" y="-141" type="curve" smooth="yes"/>
+      <point x="424" y="-141"/>
+      <point x="538" y="-79"/>
+      <point x="538" y="55" type="curve" smooth="yes"/>
+      <point x="538" y="135"/>
+      <point x="497" y="196"/>
+      <point x="403" y="215" type="curve"/>
+      <point x="403" y="219" type="line"/>
+      <point x="484" y="253"/>
+      <point x="515" y="305"/>
+      <point x="515" y="370" type="curve" smooth="yes"/>
+      <point x="515" y="480"/>
+      <point x="426" y="531"/>
+      <point x="306" y="531" type="curve" smooth="yes"/>
+      <point x="262" y="531"/>
+      <point x="182" y="524"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

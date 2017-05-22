@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="371"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="326" y="761" type="line"/>
+      <point x="260" y="761" type="line"/>
+      <point x="247" y="537" type="line"/>
+      <point x="304" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="120" type="curve"/>
+      <point x="313" y="137" type="line"/>
+      <point x="300" y="65"/>
+      <point x="267" y="51"/>
+      <point x="232" y="51" type="curve" smooth="yes"/>
+      <point x="178" y="51"/>
+      <point x="157" y="86"/>
+      <point x="157" y="140" type="curve" smooth="yes"/>
+      <point x="157" y="389" type="line"/>
+      <point x="331" y="389" type="line"/>
+      <point x="331" y="445" type="line"/>
+      <point x="157" y="445" type="line"/>
+      <point x="157" y="588" type="line"/>
+      <point x="87" y="588" type="line"/>
+      <point x="87" y="445" type="line"/>
+      <point x="15" y="445" type="line"/>
+      <point x="15" y="389" type="line"/>
+      <point x="87" y="389" type="line"/>
+      <point x="87" y="131" type="line" smooth="yes"/>
+      <point x="87" y="44"/>
+      <point x="136" y="-10"/>
+      <point x="225" y="-10" type="curve" smooth="yes"/>
+      <point x="305" y="-10"/>
+      <point x="354" y="34"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

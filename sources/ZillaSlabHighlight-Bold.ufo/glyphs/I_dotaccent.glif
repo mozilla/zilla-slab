@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="1">
+  <advance width="353"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="39" y="0" type="line"/>
+      <point x="39" y="114" type="line"/>
+      <point x="109" y="114" type="line"/>
+      <point x="109" y="536" type="line"/>
+      <point x="39" y="536" type="line"/>
+      <point x="39" y="650" type="line"/>
+      <point x="313" y="650" type="line"/>
+      <point x="313" y="536" type="line"/>
+      <point x="243" y="536" type="line"/>
+      <point x="243" y="114" type="line"/>
+      <point x="313" y="114" type="line"/>
+      <point x="313" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="-213" type="line"/>
+      <point x="363" y="-213" type="line"/>
+      <point x="363" y="917" type="line"/>
+      <point x="-10" y="917" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="839" type="line"/>
+      <point x="240" y="839" type="line"/>
+      <point x="240" y="705" type="line"/>
+      <point x="111" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

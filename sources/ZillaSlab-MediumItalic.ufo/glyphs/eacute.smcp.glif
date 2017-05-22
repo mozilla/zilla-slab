@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute.smcp" format="1">
+  <advance width="503"/>
+  <outline>
+    <contour>
+      <point x="470" y="666" type="line"/>
+      <point x="427" y="737" type="line"/>
+      <point x="260" y="602" type="line"/>
+      <point x="281" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="0" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="18" y="68" type="line"/>
+      <point x="81" y="68" type="line"/>
+      <point x="121" y="453" type="line"/>
+      <point x="58" y="453" type="line"/>
+      <point x="66" y="521" type="line"/>
+      <point x="474" y="521" type="line"/>
+      <point x="475" y="375" type="line"/>
+      <point x="402" y="366" type="line"/>
+      <point x="395" y="453" type="line"/>
+      <point x="207" y="453" type="line"/>
+      <point x="190" y="297" type="line"/>
+      <point x="428" y="297" type="line"/>
+      <point x="421" y="230" type="line"/>
+      <point x="183" y="230" type="line"/>
+      <point x="166" y="68" type="line"/>
+      <point x="354" y="68" type="line"/>
+      <point x="379" y="156" type="line"/>
+      <point x="453" y="149" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.tnum_lnum" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="168" y="490" type="line"/>
+      <point x="197" y="580" type="line"/>
+      <point x="230" y="604"/>
+      <point x="270" y="610"/>
+      <point x="303" y="610" type="curve" smooth="yes"/>
+      <point x="396" y="610"/>
+      <point x="433" y="562"/>
+      <point x="433" y="496" type="curve" smooth="yes"/>
+      <point x="433" y="340"/>
+      <point x="223" y="181"/>
+      <point x="64" y="44" type="curve"/>
+      <point x="65" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="493" y="136" type="line"/>
+      <point x="444" y="142" type="line"/>
+      <point x="416" y="51" type="line"/>
+      <point x="142" y="51" type="line"/>
+      <point x="241" y="138"/>
+      <point x="493" y="316"/>
+      <point x="493" y="506" type="curve" smooth="yes"/>
+      <point x="493" y="589"/>
+      <point x="445" y="660"/>
+      <point x="319" y="660" type="curve" smooth="yes"/>
+      <point x="249" y="660"/>
+      <point x="190" y="638"/>
+      <point x="153" y="602" type="curve"/>
+      <point x="124" y="496" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

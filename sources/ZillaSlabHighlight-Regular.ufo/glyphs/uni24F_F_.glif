@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni24FF" format="1">
+  <advance width="0"/>
+  <unicode hex="24FF"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.704</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
