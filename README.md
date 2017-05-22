@@ -2,4 +2,4 @@
 
 ### Downloads ###
 * **Archlinux**: install from AUR [otf-zilla-slab](https://aur.archlinux.org/pkgbase/otf-zilla-slab/) or 
-[ttf-zilla-slab]((https://aur.archlinux.org/pkgbase/ttf-zilla-slab/)) for the OTF and TTF versions respectively.
+[ttf-zilla-slab](https://aur.archlinux.org/packages/ttf-zilla-slab/) for the OTF and TTF versions respectively.
