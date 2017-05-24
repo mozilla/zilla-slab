@@ -1,0 +1,13 @@
+booleanOperations==0.7.0
+compreffor==0.4.4
+cu2qu==1.1.1
+defcon==0.3.2
+fontmake==1.2.5
+fontMath==0.4.3
+fonttools==3.11.0
+glyphsLib==1.7.3
+MutatorMath==2.0.4
+pyclipper==1.0.6
+ufo2ft==0.5.1
+ufoLib==2.0.0
+wheel==0.24.0
