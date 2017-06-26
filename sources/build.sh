@@ -10,7 +10,6 @@ do
     fontmake -u $font -a -o otf
 done
 
-
 # Tidyup up folders
 rm -r master_ttf 
 mkdir ../fonts
@@ -21,5 +20,22 @@ rm -r autohinted
 
 mv master_otf ../fonts
 mv ../fonts/master_otf ../fonts/otf
+
+# Generate webfonts
+FONTS_TTF=$(ls ../fonts/ttf/*.ttf)
+
+# Generate .woff
+for font in $FONTS_TTF
+do
+    sfnt2woff $font
+    woff2_compress $font
+done
+
+# Move webfonts to seperate folders
+mkdir ../fonts/woff2
+mv ../fonts/ttf/*.woff2 ../fonts/woff2/
+
+mkdir ../fonts/woff
+mv ../fonts/ttf/*.woff ../fonts/woff/
 
 echo 'done'
