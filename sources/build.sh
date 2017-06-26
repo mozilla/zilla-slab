@@ -12,6 +12,7 @@ done
 
 # Tidyup up folders
 rm -r master_ttf 
+rm -rf ../fonts
 mkdir ../fonts
 
 mv autohinted/master_ttf ../fonts
