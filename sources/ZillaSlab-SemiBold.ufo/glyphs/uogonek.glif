@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="1">
+  <advance width="576"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="82" type="line"/>
+      <point x="491" y="82" type="line"/>
+      <point x="491" y="449" type="line"/>
+      <point x="304" y="449" type="line"/>
+      <point x="304" y="367" type="line"/>
+      <point x="384" y="367" type="line"/>
+      <point x="384" y="192" type="line"/>
+      <point x="383" y="128"/>
+      <point x="341" y="74"/>
+      <point x="274" y="74" type="curve" smooth="yes"/>
+      <point x="218" y="74"/>
+      <point x="186" y="106"/>
+      <point x="186" y="191" type="curve" smooth="yes"/>
+      <point x="186" y="449" type="line"/>
+      <point x="12" y="449" type="line"/>
+      <point x="12" y="367" type="line"/>
+      <point x="79" y="367" type="line"/>
+      <point x="79" y="152" type="line" smooth="yes"/>
+      <point x="79" y="40"/>
+      <point x="150" y="-9"/>
+      <point x="236" y="-9" type="curve" smooth="yes"/>
+      <point x="303" y="-9"/>
+      <point x="356" y="22"/>
+      <point x="384" y="75" type="curve"/>
+      <point x="384" y="0" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="392" y="-25"/>
+      <point x="361" y="-66"/>
+      <point x="361" y="-117" type="curve" smooth="yes"/>
+      <point x="361" y="-179"/>
+      <point x="410" y="-208"/>
+      <point x="474" y="-208" type="curve" smooth="yes"/>
+      <point x="509" y="-208"/>
+      <point x="537" y="-200"/>
+      <point x="559" y="-188" type="curve"/>
+      <point x="551" y="-119" type="line"/>
+      <point x="536" y="-128"/>
+      <point x="518" y="-132"/>
+      <point x="501" y="-132" type="curve" smooth="yes"/>
+      <point x="474" y="-132"/>
+      <point x="453" y="-121"/>
+      <point x="453" y="-84" type="curve" smooth="yes"/>
+      <point x="453" y="-57"/>
+      <point x="463" y="-26"/>
+      <point x="504" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

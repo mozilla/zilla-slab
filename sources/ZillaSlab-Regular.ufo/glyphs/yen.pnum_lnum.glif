@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.pnum_lnum" format="1">
+  <advance width="672"/>
+  <outline>
+    <contour>
+      <point x="642" y="586" type="line"/>
+      <point x="642" y="650" type="line"/>
+      <point x="414" y="650" type="line"/>
+      <point x="414" y="586" type="line"/>
+      <point x="504" y="586" type="line"/>
+      <point x="345" y="316" type="line"/>
+      <point x="340" y="316" type="line"/>
+      <point x="176" y="586" type="line"/>
+      <point x="265" y="586" type="line"/>
+      <point x="265" y="650" type="line"/>
+      <point x="28" y="650" type="line"/>
+      <point x="28" y="586" type="line"/>
+      <point x="92" y="586" type="line"/>
+      <point x="268" y="305" type="line"/>
+      <point x="139" y="305" type="line"/>
+      <point x="139" y="256" type="line"/>
+      <point x="298" y="256" type="line"/>
+      <point x="303" y="249" type="line"/>
+      <point x="303" y="185" type="line"/>
+      <point x="139" y="185" type="line"/>
+      <point x="139" y="136" type="line"/>
+      <point x="303" y="136" type="line"/>
+      <point x="303" y="64" type="line"/>
+      <point x="191" y="64" type="line"/>
+      <point x="191" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="64" type="line"/>
+      <point x="376" y="64" type="line"/>
+      <point x="376" y="136" type="line"/>
+      <point x="539" y="136" type="line"/>
+      <point x="539" y="185" type="line"/>
+      <point x="376" y="185" type="line"/>
+      <point x="376" y="248" type="line"/>
+      <point x="381" y="256" type="line"/>
+      <point x="539" y="256" type="line"/>
+      <point x="539" y="305" type="line"/>
+      <point x="410" y="305" type="line"/>
+      <point x="578" y="586" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

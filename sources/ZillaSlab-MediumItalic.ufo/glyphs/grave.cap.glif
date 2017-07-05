@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="1">
+  <advance width="269"/>
+  <outline>
+    <contour>
+      <point x="319" y="699" type="line"/>
+      <point x="329" y="742" type="line"/>
+      <point x="129" y="819" type="line"/>
+      <point x="110" y="737" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

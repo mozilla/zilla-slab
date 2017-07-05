@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="660"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="-5" y="114" type="line"/>
+      <point x="52" y="114" type="line"/>
+      <point x="274" y="536" type="line"/>
+      <point x="188" y="536" type="line"/>
+      <point x="200" y="650" type="line"/>
+      <point x="414" y="650" type="line"/>
+      <point x="583" y="114" type="line"/>
+      <point x="642" y="114" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="394" y="114" type="line"/>
+      <point x="444" y="114" type="line"/>
+      <point x="427" y="180" type="line"/>
+      <point x="215" y="180" type="line"/>
+      <point x="183" y="114" type="line"/>
+      <point x="241" y="114" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="-17" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="705" type="line"/>
+      <point x="346" y="705" type="line"/>
+      <point x="360" y="839" type="line"/>
+      <point x="233" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="705" type="line"/>
+      <point x="527" y="705" type="line"/>
+      <point x="541" y="839" type="line"/>
+      <point x="414" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="459" type="line"/>
+      <point x="262" y="276" type="line"/>
+      <point x="403" y="276" type="line"/>
+      <point x="357" y="459" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

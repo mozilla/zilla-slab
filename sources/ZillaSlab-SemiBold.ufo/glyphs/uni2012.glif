@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2012" format="1">
+  <advance width="347"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="347" y="296" type="line"/>
+      <point x="0" y="296" type="line"/>
+      <point x="0" y="206" type="line"/>
+      <point x="347" y="206" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

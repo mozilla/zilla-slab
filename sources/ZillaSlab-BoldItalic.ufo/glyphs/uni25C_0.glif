@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni25C0" format="1">
+  <advance width="591"/>
+  <unicode hex="25C0"/>
+  <outline>
+    <contour>
+      <point x="497" y="-35" type="line"/>
+      <point x="497" y="540" type="line"/>
+      <point x="38" y="252" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

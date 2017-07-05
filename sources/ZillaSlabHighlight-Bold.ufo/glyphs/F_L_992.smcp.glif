@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FL992.smcp" format="1">
+  <advance width="552"/>
+  <outline>
+    <contour>
+      <point x="116" y="521" type="line"/>
+      <point x="314" y="521" type="line"/>
+      <point x="512" y="98" type="line"/>
+      <point x="562" y="98" type="line"/>
+      <point x="562" y="917" type="line"/>
+      <point x="-10" y="917" type="line"/>
+      <point x="-10" y="98" type="line"/>
+      <point x="37" y="98" type="line"/>
+      <point x="190" y="423" type="line"/>
+      <point x="116" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="-213" type="line"/>
+      <point x="562" y="-213" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="98" type="line"/>
+      <point x="374" y="98" type="line"/>
+      <point x="357" y="143" type="line"/>
+      <point x="184" y="143" type="line"/>
+      <point x="167" y="98" type="line"/>
+      <point x="212" y="98" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="-10" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="565" type="line"/>
+      <point x="301" y="601"/>
+      <point x="290" y="626"/>
+      <point x="264" y="626" type="curve" smooth="yes"/>
+      <point x="236" y="626"/>
+      <point x="226" y="597"/>
+      <point x="226" y="565" type="curve"/>
+      <point x="124" y="565" type="line"/>
+      <point x="124" y="660"/>
+      <point x="182" y="703"/>
+      <point x="266" y="703" type="curve" smooth="yes"/>
+      <point x="353" y="703"/>
+      <point x="403" y="657"/>
+      <point x="403" y="565" type="curve"/>
+    </contour>
+    <contour>
+      <point x="269" y="358" type="line"/>
+      <point x="274" y="358" type="line"/>
+      <point x="325" y="225" type="line"/>
+      <point x="216" y="225" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

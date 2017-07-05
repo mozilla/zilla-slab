@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.smcp" format="1">
+  <advance width="488"/>
+  <outline>
+    <contour>
+      <point x="461" y="368" type="line"/>
+      <point x="443" y="521" type="line"/>
+      <point x="41" y="521" type="line"/>
+      <point x="41" y="453" type="line"/>
+      <point x="105" y="453" type="line"/>
+      <point x="105" y="68" type="line"/>
+      <point x="41" y="68" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="284" y="68" type="line"/>
+      <point x="192" y="68" type="line"/>
+      <point x="192" y="206" type="line"/>
+      <point x="431" y="206" type="line"/>
+      <point x="431" y="275" type="line"/>
+      <point x="192" y="275" type="line"/>
+      <point x="192" y="453" type="line"/>
+      <point x="370" y="453" type="line"/>
+      <point x="384" y="360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

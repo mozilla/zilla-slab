@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron" format="1">
+  <advance width="420"/>
+  <unicode hex="0159"/>
+  <outline>
+    <contour>
+      <point x="376" y="638" type="line"/>
+      <point x="350" y="671" type="line"/>
+      <point x="248" y="586" type="line"/>
+      <point x="138" y="670" type="line"/>
+      <point x="112" y="636" type="line"/>
+      <point x="233" y="519" type="line"/>
+      <point x="255" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="453" type="curve" smooth="yes"/>
+      <point x="233" y="453"/>
+      <point x="191" y="415"/>
+      <point x="174" y="365" type="curve"/>
+      <point x="174" y="445" type="line"/>
+      <point x="28" y="445" type="line"/>
+      <point x="28" y="388" type="line"/>
+      <point x="108" y="388" type="line"/>
+      <point x="108" y="57" type="line"/>
+      <point x="30" y="57" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="281" y="57" type="line"/>
+      <point x="178" y="57" type="line"/>
+      <point x="178" y="276" type="line" smooth="yes"/>
+      <point x="178" y="345"/>
+      <point x="217" y="393"/>
+      <point x="269" y="393" type="curve" smooth="yes"/>
+      <point x="281" y="393"/>
+      <point x="292" y="391"/>
+      <point x="303" y="387" type="curve"/>
+      <point x="320" y="311" type="line"/>
+      <point x="377" y="318" type="line"/>
+      <point x="360" y="430" type="line"/>
+      <point x="338" y="448"/>
+      <point x="315" y="453"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

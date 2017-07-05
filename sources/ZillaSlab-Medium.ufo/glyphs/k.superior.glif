@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.superior" format="1">
+  <advance width="376"/>
+  <outline>
+    <contour>
+      <point x="214" y="465" type="line"/>
+      <point x="252" y="465" type="line"/>
+      <point x="183" y="543" type="line"/>
+      <point x="136" y="543" type="line"/>
+      <point x="136" y="465" type="line"/>
+      <point x="171" y="465" type="line"/>
+      <point x="171" y="415" type="line"/>
+      <point x="21" y="415" type="line"/>
+      <point x="21" y="465" type="line"/>
+      <point x="66" y="465" type="line"/>
+      <point x="66" y="812" type="line"/>
+      <point x="19" y="812" type="line"/>
+      <point x="19" y="862" type="line"/>
+      <point x="136" y="862" type="line"/>
+      <point x="136" y="590" type="line"/>
+      <point x="188" y="590" type="line"/>
+      <point x="242" y="656" type="line"/>
+      <point x="201" y="656" type="line"/>
+      <point x="201" y="706" type="line"/>
+      <point x="348" y="706" type="line"/>
+      <point x="348" y="656" type="line"/>
+      <point x="308" y="656" type="line"/>
+      <point x="239" y="572" type="line"/>
+      <point x="330" y="465" type="line"/>
+      <point x="362" y="465" type="line"/>
+      <point x="362" y="415" type="line"/>
+      <point x="214" y="415" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

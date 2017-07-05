@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="431"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="448" y="609" type="line"/>
+      <point x="398" y="693" type="line"/>
+      <point x="228" y="555" type="line"/>
+      <point x="253" y="512" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

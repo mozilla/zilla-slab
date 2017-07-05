@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FL993.c2sc" format="1">
+  <advance width="503"/>
+  <outline>
+    <contour>
+      <point x="423" y="0" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="18" y="82" type="line"/>
+      <point x="76" y="82" type="line"/>
+      <point x="114" y="439" type="line"/>
+      <point x="55" y="439" type="line"/>
+      <point x="64" y="521" type="line"/>
+      <point x="480" y="521" type="line"/>
+      <point x="480" y="373" type="line"/>
+      <point x="391" y="363" type="line"/>
+      <point x="386" y="439" type="line"/>
+      <point x="219" y="439" type="line"/>
+      <point x="204" y="303" type="line"/>
+      <point x="433" y="303" type="line"/>
+      <point x="424" y="222" type="line"/>
+      <point x="196" y="222" type="line"/>
+      <point x="181" y="82" type="line"/>
+      <point x="346" y="82" type="line"/>
+      <point x="368" y="159" type="line"/>
+      <point x="458" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="562" type="line"/>
+      <point x="412" y="592" type="line"/>
+      <point x="294" y="777" type="line"/>
+      <point x="218" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="562" type="line"/>
+      <point x="284" y="605" type="line"/>
+      <point x="116" y="740" type="line"/>
+      <point x="66" y="659" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

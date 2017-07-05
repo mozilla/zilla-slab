@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.smcp" format="1">
+  <advance width="651"/>
+  <outline>
+    <contour>
+      <point x="382" y="521" type="line"/>
+      <point x="620" y="521" type="line"/>
+      <point x="620" y="439" type="line"/>
+      <point x="561" y="439" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="500" y="-1" type="line"/>
+      <point x="205" y="348" type="line"/>
+      <point x="201" y="348" type="line"/>
+      <point x="201" y="82" type="line"/>
+      <point x="278" y="82" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="42" y="82" type="line"/>
+      <point x="101" y="82" type="line"/>
+      <point x="101" y="439" type="line"/>
+      <point x="33" y="439" type="line"/>
+      <point x="33" y="521" type="line"/>
+      <point x="178" y="521" type="line"/>
+      <point x="457" y="191" type="line"/>
+      <point x="461" y="191" type="line"/>
+      <point x="461" y="439" type="line"/>
+      <point x="382" y="439" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="583" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

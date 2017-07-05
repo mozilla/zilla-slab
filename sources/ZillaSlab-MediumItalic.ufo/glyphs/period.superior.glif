@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.superior" format="1">
+  <advance width="166"/>
+  <outline>
+    <contour>
+      <point x="59" y="414" type="line"/>
+      <point x="137" y="414" type="line"/>
+      <point x="146" y="498" type="line"/>
+      <point x="68" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

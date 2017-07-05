@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.cap" format="1">
+  <advance width="334"/>
+  <outline>
+    <contour>
+      <point x="273" y="825" type="line"/>
+      <point x="252" y="825" type="line"/>
+      <point x="116" y="733" type="line"/>
+      <point x="134" y="701" type="line"/>
+      <point x="254" y="764" type="line"/>
+      <point x="365" y="702" type="line"/>
+      <point x="386" y="736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

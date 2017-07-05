@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.smcp" format="1">
+  <advance width="482"/>
+  <outline>
+    <contour>
+      <point x="447" y="0" type="line"/>
+      <point x="467" y="179" type="line"/>
+      <point x="373" y="187" type="line"/>
+      <point x="358" y="82" type="line"/>
+      <point x="206" y="82" type="line"/>
+      <point x="206" y="439" type="line"/>
+      <point x="284" y="439" type="line"/>
+      <point x="284" y="521" type="line"/>
+      <point x="40" y="521" type="line"/>
+      <point x="40" y="439" type="line"/>
+      <point x="100" y="439" type="line"/>
+      <point x="100" y="82" type="line"/>
+      <point x="40" y="82" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="658" type="line"/>
+      <point x="246" y="742" type="line"/>
+      <point x="87" y="604" type="line"/>
+      <point x="116" y="561" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

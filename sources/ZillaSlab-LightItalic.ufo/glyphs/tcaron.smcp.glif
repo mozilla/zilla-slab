@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron.smcp" format="1">
+  <advance width="526"/>
+  <outline>
+    <contour>
+      <point x="285" y="573" type="line"/>
+      <point x="300" y="573" type="line"/>
+      <point x="428" y="690" type="line"/>
+      <point x="407" y="717" type="line"/>
+      <point x="299" y="628" type="line"/>
+      <point x="210" y="714" type="line"/>
+      <point x="183" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="368" type="line"/>
+      <point x="509" y="521" type="line"/>
+      <point x="69" y="521" type="line"/>
+      <point x="34" y="368" type="line"/>
+      <point x="82" y="362" type="line"/>
+      <point x="113" y="476" type="line"/>
+      <point x="258" y="476" type="line"/>
+      <point x="213" y="45" type="line"/>
+      <point x="119" y="45" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="361" y="45" type="line"/>
+      <point x="267" y="45" type="line"/>
+      <point x="312" y="476" type="line"/>
+      <point x="455" y="476" type="line"/>
+      <point x="463" y="362" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

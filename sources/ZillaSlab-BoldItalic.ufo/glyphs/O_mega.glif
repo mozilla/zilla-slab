@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="1">
+  <advance width="676"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="362" y="543" type="curve" smooth="yes"/>
+      <point x="459" y="543"/>
+      <point x="513" y="490"/>
+      <point x="513" y="390" type="curve" smooth="yes"/>
+      <point x="513" y="297"/>
+      <point x="467" y="214"/>
+      <point x="376" y="212" type="curve"/>
+      <point x="354" y="0" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="624" y="108" type="line"/>
+      <point x="462" y="108" type="line"/>
+      <point x="465" y="136" type="line"/>
+      <point x="566" y="146"/>
+      <point x="654" y="255"/>
+      <point x="654" y="397" type="curve" smooth="yes"/>
+      <point x="654" y="580"/>
+      <point x="506" y="660"/>
+      <point x="364" y="660" type="curve" smooth="yes"/>
+      <point x="202" y="660"/>
+      <point x="43" y="557"/>
+      <point x="43" y="354" type="curve" smooth="yes"/>
+      <point x="43" y="212"/>
+      <point x="123" y="145"/>
+      <point x="181" y="136" type="curve"/>
+      <point x="178" y="108" type="line"/>
+      <point x="16" y="108" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="296" y="212" type="line"/>
+      <point x="219" y="223"/>
+      <point x="180" y="288"/>
+      <point x="180" y="362" type="curve" smooth="yes"/>
+      <point x="180" y="448"/>
+      <point x="233" y="543"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

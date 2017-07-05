@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright.cap" format="1">
+  <advance width="290"/>
+  <outline>
+    <contour>
+      <point x="104" y="85" type="line"/>
+      <point x="266" y="331" type="line"/>
+      <point x="155" y="571" type="line"/>
+      <point x="68" y="571" type="line"/>
+      <point x="162" y="331" type="line"/>
+      <point x="17" y="85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.superior" format="1">
+  <advance width="359"/>
+  <outline>
+    <contour>
+      <point x="214" y="709" type="line"/>
+      <point x="355" y="709" type="line"/>
+      <point x="355" y="640" type="line"/>
+      <point x="327" y="640" type="line"/>
+      <point x="219" y="415" type="line"/>
+      <point x="147" y="415" type="line"/>
+      <point x="33" y="640" type="line"/>
+      <point x="2" y="640" type="line"/>
+      <point x="2" y="709" type="line"/>
+      <point x="162" y="709" type="line"/>
+      <point x="162" y="640" type="line"/>
+      <point x="139" y="640" type="line"/>
+      <point x="191" y="531" type="line"/>
+      <point x="195" y="531" type="line"/>
+      <point x="233" y="640" type="line"/>
+      <point x="214" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

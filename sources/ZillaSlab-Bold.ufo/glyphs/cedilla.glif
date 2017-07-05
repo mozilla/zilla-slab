@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="256"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="301" y="-121" type="curve" smooth="yes"/>
+      <point x="301" y="-82"/>
+      <point x="279" y="-41"/>
+      <point x="212" y="-41" type="curve" smooth="yes"/>
+      <point x="204" y="-41" type="line"/>
+      <point x="204" y="6" type="line"/>
+      <point x="116" y="6" type="line"/>
+      <point x="116" y="-86" type="line"/>
+      <point x="153" y="-86" type="line" smooth="yes"/>
+      <point x="185" y="-86"/>
+      <point x="192" y="-97"/>
+      <point x="192" y="-111" type="curve" smooth="yes"/>
+      <point x="192" y="-125"/>
+      <point x="184" y="-132"/>
+      <point x="156" y="-132" type="curve" smooth="yes"/>
+      <point x="119" y="-132"/>
+      <point x="93" y="-119"/>
+      <point x="78" y="-109" type="curve"/>
+      <point x="55" y="-179" type="line"/>
+      <point x="77" y="-197"/>
+      <point x="122" y="-209"/>
+      <point x="171" y="-209" type="curve" smooth="yes"/>
+      <point x="235" y="-209"/>
+      <point x="301" y="-188"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="730"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="559" y="0" type="line"/>
+      <point x="644" y="0" type="line"/>
+      <point x="644" y="74" type="line"/>
+      <point x="697" y="74" type="line"/>
+      <point x="703" y="139" type="line"/>
+      <point x="644" y="139" type="line"/>
+      <point x="644" y="364" type="line"/>
+      <point x="495" y="364" type="line"/>
+      <point x="380" y="136" type="line"/>
+      <point x="389" y="74" type="line"/>
+      <point x="559" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="583" y="650" type="line"/>
+      <point x="392" y="325" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="334" y="337" type="line"/>
+      <point x="508" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="350" type="line"/>
+      <point x="113" y="350" type="line"/>
+      <point x="113" y="586" type="line"/>
+      <point x="39" y="586" type="line"/>
+      <point x="39" y="650" type="line"/>
+      <point x="198" y="650" type="line"/>
+      <point x="198" y="350" type="line"/>
+      <point x="265" y="350" type="line"/>
+      <point x="265" y="286" type="line"/>
+      <point x="39" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="539" y="300" type="line"/>
+      <point x="559" y="300" type="line"/>
+      <point x="559" y="139" type="line"/>
+      <point x="455" y="139" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

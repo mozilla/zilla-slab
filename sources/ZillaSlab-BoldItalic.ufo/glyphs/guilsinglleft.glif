@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="1">
+  <advance width="293"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="238" y="25" type="line"/>
+      <point x="149" y="271" type="line"/>
+      <point x="289" y="511" type="line"/>
+      <point x="184" y="511" type="line"/>
+      <point x="24" y="271" type="line"/>
+      <point x="133" y="25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

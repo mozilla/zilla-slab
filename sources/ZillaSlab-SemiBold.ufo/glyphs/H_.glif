@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="759"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="718" y="0" type="line"/>
+      <point x="718" y="95" type="line"/>
+      <point x="644" y="95" type="line"/>
+      <point x="644" y="555" type="line"/>
+      <point x="718" y="555" type="line"/>
+      <point x="718" y="650" type="line"/>
+      <point x="458" y="650" type="line"/>
+      <point x="458" y="555" type="line"/>
+      <point x="533" y="555" type="line"/>
+      <point x="533" y="377" type="line"/>
+      <point x="226" y="377" type="line"/>
+      <point x="226" y="555" type="line"/>
+      <point x="300" y="555" type="line"/>
+      <point x="300" y="650" type="line"/>
+      <point x="40" y="650" type="line"/>
+      <point x="40" y="555" type="line"/>
+      <point x="115" y="555" type="line"/>
+      <point x="115" y="95" type="line"/>
+      <point x="40" y="95" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="95" type="line"/>
+      <point x="226" y="95" type="line"/>
+      <point x="226" y="283" type="line"/>
+      <point x="533" y="283" type="line"/>
+      <point x="533" y="95" type="line"/>
+      <point x="458" y="95" type="line"/>
+      <point x="458" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.smcp" format="1">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="416" y="276" type="curve" smooth="yes"/>
+      <point x="416" y="422"/>
+      <point x="370" y="529"/>
+      <point x="225" y="529" type="curve" smooth="yes"/>
+      <point x="101" y="529"/>
+      <point x="45" y="451"/>
+      <point x="45" y="355" type="curve" smooth="yes"/>
+      <point x="45" y="271"/>
+      <point x="87" y="197"/>
+      <point x="198" y="197" type="curve" smooth="yes"/>
+      <point x="282" y="197"/>
+      <point x="324" y="238"/>
+      <point x="342" y="280" type="curve"/>
+      <point x="342" y="279"/>
+      <point x="342" y="273"/>
+      <point x="341" y="272" type="curve" smooth="yes"/>
+      <point x="339" y="124"/>
+      <point x="309" y="47"/>
+      <point x="210" y="47" type="curve" smooth="yes"/>
+      <point x="169" y="47"/>
+      <point x="132" y="64"/>
+      <point x="102" y="101" type="curve"/>
+      <point x="67" y="60" type="line"/>
+      <point x="101" y="21"/>
+      <point x="150" y="-8"/>
+      <point x="220" y="-8" type="curve" smooth="yes"/>
+      <point x="363" y="-8"/>
+      <point x="416" y="118"/>
+    </contour>
+    <contour>
+      <point x="338" y="357" type="curve"/>
+      <point x="335" y="309"/>
+      <point x="305" y="251"/>
+      <point x="217" y="251" type="curve" smooth="yes"/>
+      <point x="145" y="251"/>
+      <point x="117" y="290"/>
+      <point x="117" y="359" type="curve" smooth="yes"/>
+      <point x="117" y="428"/>
+      <point x="147" y="472"/>
+      <point x="222" y="472" type="curve" smooth="yes"/>
+      <point x="302" y="472"/>
+      <point x="329" y="423"/>
+    </contour>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="472" y="917" type="line"/>
+      <point x="472" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space.black" format="1">
+  <advance width="249"/>
+  <outline>
+    <contour>
+      <point x="-15" y="-213" type="line"/>
+      <point x="266" y="-213" type="line"/>
+      <point x="266" y="917" type="line"/>
+      <point x="-15" y="917" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

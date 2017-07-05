@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.smcp" format="1">
+  <advance width="484"/>
+  <outline>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="469" y="179" type="line"/>
+      <point x="375" y="187" type="line"/>
+      <point x="360" y="82" type="line"/>
+      <point x="208" y="82" type="line"/>
+      <point x="208" y="239" type="line"/>
+      <point x="336" y="279" type="line"/>
+      <point x="336" y="352" type="line"/>
+      <point x="208" y="312" type="line"/>
+      <point x="208" y="439" type="line"/>
+      <point x="286" y="439" type="line"/>
+      <point x="286" y="521" type="line"/>
+      <point x="42" y="521" type="line"/>
+      <point x="42" y="439" type="line"/>
+      <point x="102" y="439" type="line"/>
+      <point x="102" y="279" type="line"/>
+      <point x="45" y="261" type="line"/>
+      <point x="45" y="188" type="line"/>
+      <point x="102" y="206" type="line"/>
+      <point x="102" y="82" type="line"/>
+      <point x="42" y="82" type="line"/>
+      <point x="42" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

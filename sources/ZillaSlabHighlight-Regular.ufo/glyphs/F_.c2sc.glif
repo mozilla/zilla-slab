@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F.c2sc" format="1">
+  <advance width="482"/>
+  <outline>
+    <contour>
+      <point x="454" y="370" type="line"/>
+      <point x="437" y="521" type="line"/>
+      <point x="40" y="521" type="line"/>
+      <point x="40" y="465" type="line"/>
+      <point x="107" y="465" type="line"/>
+      <point x="107" y="56" type="line"/>
+      <point x="40" y="56" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="272" y="56" type="line"/>
+      <point x="177" y="56" type="line"/>
+      <point x="177" y="213" type="line"/>
+      <point x="423" y="213" type="line"/>
+      <point x="423" y="270" type="line"/>
+      <point x="177" y="270" type="line"/>
+      <point x="177" y="465" type="line"/>
+      <point x="377" y="465" type="line"/>
+      <point x="392" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="917" type="line"/>
+      <point x="494" y="917" type="line"/>
+      <point x="494" y="-213" type="line"/>
+      <point x="-12" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex.smcp" format="1">
+  <advance width="651"/>
+  <outline>
+    <contour>
+      <point x="40" y="82" type="line"/>
+      <point x="100" y="82" type="line"/>
+      <point x="100" y="439" type="line"/>
+      <point x="40" y="439" type="line"/>
+      <point x="40" y="521" type="line"/>
+      <point x="266" y="521" type="line"/>
+      <point x="266" y="439" type="line"/>
+      <point x="206" y="439" type="line"/>
+      <point x="206" y="306" type="line"/>
+      <point x="445" y="306" type="line"/>
+      <point x="445" y="439" type="line"/>
+      <point x="385" y="439" type="line"/>
+      <point x="385" y="521" type="line"/>
+      <point x="612" y="521" type="line"/>
+      <point x="612" y="439" type="line"/>
+      <point x="552" y="439" type="line"/>
+      <point x="552" y="82" type="line"/>
+      <point x="612" y="82" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="385" y="82" type="line"/>
+      <point x="445" y="82" type="line"/>
+      <point x="445" y="224" type="line"/>
+      <point x="206" y="224" type="line"/>
+      <point x="206" y="82" type="line"/>
+      <point x="266" y="82" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="605" type="line"/>
+      <point x="352" y="728" type="line"/>
+      <point x="316" y="728" type="line"/>
+      <point x="186" y="604" type="line"/>
+      <point x="217" y="561" type="line"/>
+      <point x="325" y="635" type="line"/>
+      <point x="451" y="561" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

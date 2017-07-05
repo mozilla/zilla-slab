@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblparenleft" format="1">
+  <advance width="437"/>
+  <outline>
+    <contour>
+      <point x="234" y="718" type="curve"/>
+      <point x="329" y="718" type="line"/>
+      <point x="188" y="557"/>
+      <point x="115" y="392"/>
+      <point x="115" y="212" type="curve" smooth="yes"/>
+      <point x="115" y="79"/>
+      <point x="154" y="-66"/>
+      <point x="234" y="-183" type="curve"/>
+      <point x="137" y="-183" type="line"/>
+      <point x="60" y="-60"/>
+      <point x="26" y="79"/>
+      <point x="26" y="208" type="curve" smooth="yes"/>
+      <point x="26" y="385"/>
+      <point x="90" y="552"/>
+    </contour>
+    <contour>
+      <point x="390" y="718" type="curve"/>
+      <point x="485" y="718" type="line"/>
+      <point x="344" y="557"/>
+      <point x="271" y="392"/>
+      <point x="271" y="212" type="curve" smooth="yes"/>
+      <point x="271" y="79"/>
+      <point x="310" y="-66"/>
+      <point x="390" y="-183" type="curve"/>
+      <point x="293" y="-183" type="line"/>
+      <point x="215" y="-60"/>
+      <point x="181" y="79"/>
+      <point x="181" y="208" type="curve" smooth="yes"/>
+      <point x="181" y="386"/>
+      <point x="247" y="553"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine.smcp" format="1">
+  <advance width="417"/>
+  <outline>
+    <contour>
+      <point x="40" y="438" type="line"/>
+      <point x="68" y="438" type="line"/>
+      <point x="167" y="657" type="line"/>
+      <point x="123" y="657" type="line"/>
+      <point x="123" y="698" type="line"/>
+      <point x="237" y="698" type="line"/>
+      <point x="348" y="438" type="line"/>
+      <point x="379" y="438" type="line"/>
+      <point x="379" y="396" type="line"/>
+      <point x="257" y="396" type="line"/>
+      <point x="257" y="438" type="line"/>
+      <point x="295" y="438" type="line"/>
+      <point x="276" y="484" type="line"/>
+      <point x="139" y="484" type="line"/>
+      <point x="120" y="438" type="line"/>
+      <point x="161" y="438" type="line"/>
+      <point x="161" y="396" type="line"/>
+      <point x="40" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="647" type="line"/>
+      <point x="152" y="516" type="line"/>
+      <point x="263" y="516" type="line"/>
+      <point x="210" y="647" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

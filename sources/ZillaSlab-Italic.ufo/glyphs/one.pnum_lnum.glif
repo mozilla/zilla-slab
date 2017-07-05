@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.pnum_lnum" format="1">
+  <advance width="365"/>
+  <outline>
+    <contour>
+      <point x="15" y="64" type="line"/>
+      <point x="138" y="64" type="line"/>
+      <point x="193" y="586" type="line"/>
+      <point x="69" y="586" type="line"/>
+      <point x="76" y="650" type="line"/>
+      <point x="271" y="650" type="line"/>
+      <point x="209" y="64" type="line"/>
+      <point x="330" y="64" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="8" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis.smcp" format="1">
+  <advance width="284"/>
+  <outline>
+    <contour>
+      <point x="19" y="692" type="line"/>
+      <point x="100" y="692" type="line"/>
+      <point x="100" y="607" type="line"/>
+      <point x="19" y="607" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="692" type="line"/>
+      <point x="271" y="692" type="line"/>
+      <point x="271" y="607" type="line"/>
+      <point x="190" y="607" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="521" type="line"/>
+      <point x="244" y="521" type="line"/>
+      <point x="244" y="465" type="line"/>
+      <point x="178" y="465" type="line"/>
+      <point x="178" y="56" type="line"/>
+      <point x="244" y="56" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="56" type="line"/>
+      <point x="107" y="56" type="line"/>
+      <point x="107" y="465" type="line"/>
+      <point x="40" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="-213" type="line"/>
+      <point x="296" y="-213" type="line"/>
+      <point x="296" y="917" type="line"/>
+      <point x="-12" y="917" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="1">
+  <advance width="267"/>
+  <unicode hex="012D"/>
+  <outline>
+    <contour>
+      <point x="34" y="425" type="line"/>
+      <point x="61" y="449" type="line"/>
+      <point x="207" y="449" type="line"/>
+      <point x="163" y="82" type="line"/>
+      <point x="226" y="82" type="line"/>
+      <point x="219" y="22" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="95" y="366" type="line"/>
+      <point x="26" y="366" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="654" type="curve"/>
+      <point x="305" y="654" type="line"/>
+      <point x="295" y="563"/>
+      <point x="239" y="522"/>
+      <point x="158" y="522" type="curve" smooth="yes"/>
+      <point x="77" y="522"/>
+      <point x="35" y="566"/>
+      <point x="44" y="654" type="curve"/>
+      <point x="128" y="654" type="line"/>
+      <point x="124" y="611"/>
+      <point x="136" y="588"/>
+      <point x="167" y="588" type="curve" smooth="yes"/>
+      <point x="200" y="588"/>
+      <point x="216" y="615"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

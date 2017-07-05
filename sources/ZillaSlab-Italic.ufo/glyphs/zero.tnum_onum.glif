@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tnum_onum" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="58" y="224" type="curve" smooth="yes"/>
+      <point x="58" y="390"/>
+      <point x="154" y="530"/>
+      <point x="326" y="530" type="curve" smooth="yes"/>
+      <point x="470" y="530"/>
+      <point x="536" y="432"/>
+      <point x="536" y="291" type="curve" smooth="yes"/>
+      <point x="536" y="115"/>
+      <point x="435" y="-10"/>
+      <point x="269" y="-10" type="curve" smooth="yes"/>
+      <point x="131" y="-10"/>
+      <point x="58" y="79"/>
+    </contour>
+    <contour>
+      <point x="134" y="232" type="curve" smooth="yes"/>
+      <point x="134" y="123"/>
+      <point x="174" y="55"/>
+      <point x="276" y="55" type="curve" smooth="yes"/>
+      <point x="390" y="55"/>
+      <point x="460" y="144"/>
+      <point x="460" y="291" type="curve" smooth="yes"/>
+      <point x="460" y="397"/>
+      <point x="422" y="465"/>
+      <point x="318" y="465" type="curve" smooth="yes"/>
+      <point x="198" y="465"/>
+      <point x="134" y="373"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

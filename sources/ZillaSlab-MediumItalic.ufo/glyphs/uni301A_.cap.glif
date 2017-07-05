@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni301A.cap" format="1">
+  <advance width="447"/>
+  <outline>
+    <contour>
+      <point x="42" y="-73" type="line"/>
+      <point x="387" y="-73" type="line"/>
+      <point x="394" y="-11" type="line"/>
+      <point x="282" y="-11" type="line"/>
+      <point x="353" y="659" type="line"/>
+      <point x="465" y="659" type="line"/>
+      <point x="471" y="721" type="line"/>
+      <point x="126" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="659" type="line"/>
+      <point x="278" y="659" type="line"/>
+      <point x="208" y="-11" type="line"/>
+      <point x="123" y="-11" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

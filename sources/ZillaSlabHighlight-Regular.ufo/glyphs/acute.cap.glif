@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="1">
+  <advance width="184"/>
+  <outline>
+    <contour>
+      <point x="-1" y="703" type="line"/>
+      <point x="-12" y="740" type="line"/>
+      <point x="179" y="813" type="line"/>
+      <point x="196" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

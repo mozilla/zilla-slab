@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="1">
+  <advance width="319"/>
+  <unicode hex="0128"/>
+  <outline>
+    <contour>
+      <point x="19" y="79" type="line"/>
+      <point x="95" y="79" type="line"/>
+      <point x="147" y="571" type="line"/>
+      <point x="71" y="571" type="line"/>
+      <point x="79" y="650" type="line"/>
+      <point x="318" y="650" type="line"/>
+      <point x="310" y="571" type="line"/>
+      <point x="234" y="571" type="line"/>
+      <point x="182" y="79" type="line"/>
+      <point x="259" y="79" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="11" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="703" type="line"/>
+      <point x="117" y="733"/>
+      <point x="137" y="741"/>
+      <point x="156" y="741" type="curve" smooth="yes"/>
+      <point x="196" y="741"/>
+      <point x="225" y="707"/>
+      <point x="274" y="707" type="curve" smooth="yes"/>
+      <point x="326" y="707"/>
+      <point x="350" y="749"/>
+      <point x="362" y="804" type="curve"/>
+      <point x="322" y="814" type="line"/>
+      <point x="309" y="780"/>
+      <point x="290" y="773"/>
+      <point x="272" y="773" type="curve" smooth="yes"/>
+      <point x="229" y="773"/>
+      <point x="204" y="807"/>
+      <point x="160" y="807" type="curve" smooth="yes"/>
+      <point x="105" y="807"/>
+      <point x="75" y="752"/>
+      <point x="69" y="717" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

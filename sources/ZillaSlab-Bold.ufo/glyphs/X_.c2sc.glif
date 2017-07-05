@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X.c2sc" format="1">
+  <advance width="583"/>
+  <outline>
+    <contour>
+      <point x="569" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="98" type="line"/>
+      <point x="367" y="98" type="line"/>
+      <point x="286" y="190" type="line"/>
+      <point x="212" y="98" type="line"/>
+      <point x="254" y="98" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="12" y="98" type="line"/>
+      <point x="71" y="98" type="line"/>
+      <point x="221" y="266" type="line"/>
+      <point x="74" y="423" type="line"/>
+      <point x="26" y="423" type="line"/>
+      <point x="26" y="521" type="line"/>
+      <point x="256" y="521" type="line"/>
+      <point x="256" y="423" type="line"/>
+      <point x="225" y="423" type="line"/>
+      <point x="299" y="343" type="line"/>
+      <point x="366" y="423" type="line"/>
+      <point x="330" y="423" type="line"/>
+      <point x="330" y="521" type="line"/>
+      <point x="555" y="521" type="line"/>
+      <point x="555" y="423" type="line"/>
+      <point x="508" y="423" type="line"/>
+      <point x="364" y="268" type="line"/>
+      <point x="522" y="98" type="line"/>
+      <point x="569" y="98" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

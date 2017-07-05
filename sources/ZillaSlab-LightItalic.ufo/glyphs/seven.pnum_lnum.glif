@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.pnum_lnum" format="1">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="68" y="651" type="line"/>
+      <point x="50" y="490" type="line"/>
+      <point x="102" y="490" type="line"/>
+      <point x="113" y="601" type="line"/>
+      <point x="405" y="601" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="465" y="614" type="line"/>
+      <point x="461" y="651" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

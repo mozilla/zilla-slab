@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent.c2sc" format="1">
+  <advance width="495"/>
+  <outline>
+    <contour>
+      <point x="422" y="0" type="line"/>
+      <point x="458" y="159" type="line"/>
+      <point x="398" y="165" type="line"/>
+      <point x="368" y="56" type="line"/>
+      <point x="111" y="56" type="line"/>
+      <point x="111" y="58" type="line"/>
+      <point x="464" y="487" type="line"/>
+      <point x="463" y="521" type="line"/>
+      <point x="85" y="521" type="line"/>
+      <point x="49" y="366" type="line"/>
+      <point x="109" y="360" type="line"/>
+      <point x="139" y="465" type="line"/>
+      <point x="360" y="465" type="line"/>
+      <point x="360" y="463" type="line"/>
+      <point x="9" y="38" type="line"/>
+      <point x="8" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="604" type="line"/>
+      <point x="327" y="604" type="line"/>
+      <point x="336" y="695" type="line"/>
+      <point x="262" y="695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

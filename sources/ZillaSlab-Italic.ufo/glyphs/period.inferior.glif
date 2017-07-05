@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.inferior" format="1">
+  <advance width="164"/>
+  <outline>
+    <contour>
+      <point x="19" y="-2" type="line"/>
+      <point x="87" y="-2" type="line"/>
+      <point x="95" y="71" type="line"/>
+      <point x="27" y="71" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

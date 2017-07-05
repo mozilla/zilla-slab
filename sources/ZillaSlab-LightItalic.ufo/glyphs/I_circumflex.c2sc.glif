@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex.c2sc" format="1">
+  <advance width="277"/>
+  <outline>
+    <contour>
+      <point x="19" y="45" type="line"/>
+      <point x="88" y="45" type="line"/>
+      <point x="133" y="476" type="line"/>
+      <point x="64" y="476" type="line"/>
+      <point x="69" y="521" type="line"/>
+      <point x="260" y="521" type="line"/>
+      <point x="255" y="476" type="line"/>
+      <point x="187" y="476" type="line"/>
+      <point x="142" y="45" type="line"/>
+      <point x="210" y="45" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="14" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="716" type="line"/>
+      <point x="179" y="716" type="line"/>
+      <point x="52" y="598" type="line"/>
+      <point x="73" y="571" type="line"/>
+      <point x="180" y="661" type="line"/>
+      <point x="271" y="571" type="line"/>
+      <point x="297" y="598" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

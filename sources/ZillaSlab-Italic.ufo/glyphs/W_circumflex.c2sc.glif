@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex.c2sc" format="1">
+  <advance width="788"/>
+  <outline>
+    <contour>
+      <point x="797" y="465" type="line"/>
+      <point x="753" y="465" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="412" y="408" type="line"/>
+      <point x="408" y="408" type="line"/>
+      <point x="231" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="72" y="465" type="line"/>
+      <point x="26" y="465" type="line"/>
+      <point x="32" y="521" type="line"/>
+      <point x="222" y="521" type="line"/>
+      <point x="217" y="465" type="line"/>
+      <point x="144" y="465" type="line"/>
+      <point x="214" y="104" type="line"/>
+      <point x="218" y="104" type="line"/>
+      <point x="376" y="465" type="line"/>
+      <point x="323" y="465" type="line"/>
+      <point x="329" y="521" type="line"/>
+      <point x="519" y="521" type="line"/>
+      <point x="513" y="465" type="line"/>
+      <point x="459" y="465" type="line"/>
+      <point x="542" y="102" type="line"/>
+      <point x="546" y="102" type="line"/>
+      <point x="683" y="465" type="line"/>
+      <point x="608" y="465" type="line"/>
+      <point x="615" y="521" type="line"/>
+      <point x="804" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="720" type="line"/>
+      <point x="431" y="720" type="line"/>
+      <point x="299" y="599" type="line"/>
+      <point x="323" y="568" type="line"/>
+      <point x="433" y="654" type="line"/>
+      <point x="530" y="568" type="line"/>
+      <point x="559" y="599" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

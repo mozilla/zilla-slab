@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z.inferior" format="1">
+  <advance width="318"/>
+  <outline>
+    <contour>
+      <point x="273" y="95" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="5" y="27" type="line"/>
+      <point x="217" y="253" type="line"/>
+      <point x="81" y="253" type="line"/>
+      <point x="64" y="187" type="line"/>
+      <point x="29" y="194" type="line"/>
+      <point x="49" y="289" type="line"/>
+      <point x="267" y="289" type="line"/>
+      <point x="277" y="263" type="line"/>
+      <point x="62" y="37" type="line"/>
+      <point x="222" y="37" type="line"/>
+      <point x="240" y="103" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="328" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>
