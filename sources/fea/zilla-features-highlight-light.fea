@@ -488,7 +488,6 @@ feature liga {
     language dflt;
         lookup BLACK_SPACE {
             sub space by space.black;
-            sub uni00A0 by space.black;
         } BLACK_SPACE;
 
     script latn;
