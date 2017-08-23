@@ -45,8 +45,6 @@
 	<string>http://www.typotheque.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Zilla Slab</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular Italic</string>
 	<key>openTypeNameSampleText</key>
 	<string></string>
 	<key>openTypeNameUniqueID</key>
@@ -170,11 +168,11 @@
 		<integer>698</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>ZillaSlab-RegularItalic</string>
+	<string>ZillaSlab-Italic</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>Zilla Slab Regular Italic</string>
+	<string>Zilla Slab Italic</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -203,11 +201,11 @@
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
 	<key>styleMapFamilyName</key>
-	<string>Zilla Slab Regular</string>
+	<string>Zilla Slab</string>
 	<key>styleMapStyleName</key>
 	<string>italic</string>
 	<key>styleName</key>
-	<string>Regular Italic</string>
+	<string>Italic</string>
 	<key>trademark</key>
 	<string>Zilla is a trademark of The Mozilla Corporation</string>
 	<key>unitsPerEm</key>
@@ -215,7 +213,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>441</integer>
 	<key>year</key>

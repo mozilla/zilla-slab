@@ -186,7 +186,7 @@
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
 	<key>styleMapFamilyName</key>
-	<string>Zilla Slab Highlight Bold</string>
+	<string>Zilla Slab Highlight</string>
 	<key>styleMapStyleName</key>
 	<string>bold</string>
 	<key>styleName</key>
@@ -198,7 +198,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>451</integer>
 	<key>year</key>
