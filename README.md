@@ -13,14 +13,26 @@ virtualenv env
 source env/bin/activate
 
 pip install -r requirements.txt
+```
 
-# dependencies to generate webfonts
+## Dependencies to generate webfonts
+* sfnt2woff
+* [woff2](https://github.com/google/woff2)
+
+### Install on MacOS
+```
 brew tap bramstein/webfonttools
 brew update
 brew install bramstein/webfonttools/sfnt2woff
 brew install bramstein/webfonttools/woff2
 
 ```
+### Install on Linux
+Install the dependencies with the respective package manager for your distribution (eg. apt - Debian-based systems, dnf - Red Hat-based systems, etc)
+
+Note : Compiling [woff2](https://github.com/google/woff2) from source is fairly easy with no additional dependencies (other than the included submodules - brotli, terryfy, esaxx).
+#### Debian-based systems (aptitude | apt)
+`apt install woff-tools` (provides `sfnt2woff`)
 
 ## Generating fonts
 
