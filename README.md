@@ -30,7 +30,7 @@ brew install bramstein/webfonttools/woff2
 ### Install on Linux
 Install the dependencies with the respective package manager for your distribution (eg. apt - Debian-based systems, dnf - Red Hat-based systems, etc)
 
-Note : Compiling [woff2](https://github.com/google/woff2) from source is fairly easy with no additional dependencies (other than the included submodules - brotli, terryfy, esaxx).
+Note : Compiling [woff2](https://github.com/google/woff2) from source is fairly easy with no additional dependencies (other than the included submodules - [brotli](https://github.com/google/brotli), [terryfy](https://github.com/MacPython/terryfy), [esaxx](https://github.com/hillbig/esaxx)).
 #### Debian-based systems (aptitude | apt)
 `apt install woff-tools` (provides `sfnt2woff`)
 
