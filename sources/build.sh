@@ -2,9 +2,12 @@
 
 set -e # Stop script if we have any critical errors
 
+REPO_ROOT=$(git rev-parse --show-toplevel)
+SRC_DIR=$REPO_ROOT/sources
+FONT_DIR=$REPO_ROOT/fonts
 
 # Generate fonts
-for font in $(ls -d *.ufo);
+for font in $(ls -d $SRC_DIR/*.ufo);
 do
     fontmake -u $font -a -o ttf
     fontmake -u $font -a -o otf
@@ -12,18 +15,16 @@ done
 
 # Tidyup up folders
 rm -r master_ttf 
-rm -rf ../fonts
-mkdir ../fonts
+rm -rf $FONT_DIR
+mkdir $FONT_DIR
 
-mv autohinted/master_ttf ../fonts
-mv ../fonts/master_ttf ../fonts/ttf
+mv autohinted/master_ttf $FONT_DIR/ttf
 rm -r autohinted
 
-mv master_otf ../fonts
-mv ../fonts/master_otf ../fonts/otf
+mv master_otf $FONT_DIR/otf
 
 # Generate webfonts
-FONTS_TTF=$(ls ../fonts/ttf/*.ttf)
+FONTS_TTF=$(ls $FONT_DIR/ttf/*.ttf)
 
 # Generate .woff
 for font in $FONTS_TTF
@@ -33,10 +34,10 @@ do
 done
 
 # Move webfonts to seperate folders
-mkdir ../fonts/woff2
-mv ../fonts/ttf/*.woff2 ../fonts/woff2/
+mkdir $FONT_DIR/woff
+mv $FONT_DIR/ttf/*.woff $FONT_DIR/woff/
 
-mkdir ../fonts/woff
-mv ../fonts/ttf/*.woff ../fonts/woff/
+mkdir $FONT_DIR/woff2
+mv $FONT_DIR/ttf/*.woff2 $FONT_DIR/woff2/
 
 echo 'done'
