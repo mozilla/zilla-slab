@@ -1,4 +1,4 @@
-# Generate Zilla famil and run fonts through ttfautohin
+# Generate Zilla family and run fonts through ttfautohint
 
 set -e # Stop script if we have any critical errors
 
@@ -11,7 +11,7 @@ do
 done
 
 # Tidyup up folders
-rm -r master_ttf 
+rm -r master_ttf
 rm -rf ../fonts
 mkdir ../fonts
 
@@ -32,7 +32,7 @@ do
     woff2_compress $font
 done
 
-# Move webfonts to seperate folders
+# Move webfonts to separate folders
 mkdir ../fonts/woff2
 mv ../fonts/ttf/*.woff2 ../fonts/woff2/
 
