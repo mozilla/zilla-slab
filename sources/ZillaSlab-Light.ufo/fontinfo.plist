@@ -31,6 +31,10 @@
 	<string>Typotheque.com</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://www.typotheque.com</string>
+	<key>openTypeNameLicense</key>
+	<string>Licensed under the Open Font License, version 1.1 or later.</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Typotheque type foundry</string>
 	<key>openTypeNameManufacturerURL</key>
@@ -59,18 +63,18 @@
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2Panose</key>
+	<key>openTypeOS2Panose</key><!--Reference:  http://forum.high-logic.com/postedfiles/Panose.pdf-->
 	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
+		<integer>2</integer><!--Script = Latin text-->
+		<integer>6</integer><!--Serif style = Square-->
+		<integer>3</integer><!--Weight = Light-->
+		<integer>3</integer><!--Proportion = Modern-->
+		<integer>4</integer><!--Contrast = Low-->
+		<integer>0</integer><!--Stroke variation = Any-->
+		<integer>0</integer><!--Arm style & serif = Any-->
+		<integer>0</integer><!--Letterform = Any-->
+		<integer>10</integer><!--Midline E & A, Apex A:  E-stroke centred, A-stroke low, A apex serifed-->
+		<integer>3</integer><!--x-height & accented caps:  medium x-height;  Accents above full-size capitals-->
 	</array>
 	<key>openTypeOS2Selection</key>
 	<array>
@@ -127,6 +131,8 @@
 		<integer>60</integer>
 		<integer>62</integer>
 	</array>
+	<key>openTypeOS2VendorID</key> 
+	<string>TPTQ</string> 
 	<key>openTypeOS2WeightClass</key>
 	<integer>300</integer>
 	<key>openTypeOS2WidthClass</key>
